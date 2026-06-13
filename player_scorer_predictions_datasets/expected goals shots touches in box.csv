@@ -1,0 +1,528 @@
+player_name,team,position,detailed_role,expected_goals_per_90,non_penalty_xg_per_90,shots_per_90,shots_on_target_per_90,touches_in_box_per_90,headers_per_90,penalties_taken_per_90
+Luis Malagón,Mexico,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aldo de Nigris,Mexico,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Omar Bravo,Mexico,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Octavio Madu,Mexico,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Luis Romo,Mexico,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Benjamín Garcés,Mexico,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Fernando Quirarte,Mexico,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Guillermo Franco,Mexico,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Néstor Araujo,Mexico,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ricardo Reyes Monteón,Mexico,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ramiro Jáuregui,Mexico,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ronwen Williams,South Africa,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bongani Khumalo,South Africa,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Iqraam Rayners,South Africa,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Delron Mphela,South Africa,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Mark Williams,South Africa,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Quinton Fortune,South Africa,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Manucho Diniz,South Africa,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Surprise Moriri,South Africa,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jabu Pule,South Africa,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Evidence Radebe,South Africa,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Bongokuhle Tinkler,South Africa,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Jo Hyeon-woo,South Korea,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kim Min-jae,South Korea,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Choi Yong-soo,South Korea,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Park Kun-Ha,South Korea,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Akmal Kyung-Hoon,South Korea,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Lee Kang-in,South Korea,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Yazan Kyu-Poong,South Korea,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Roh Sang-Rae,South Korea,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Choi Byung-kuk,South Korea,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Son Heung-min,South Korea,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Hwang Hee-chan,South Korea,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Jindřich Staněk,Czech Republic,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Filip Novák,Czech Republic,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Alex Matějovský,Czech Republic,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Pavel Šulc,Czech Republic,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Lukáš Provod,Czech Republic,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Jakub Plašil,Czech Republic,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Boris Kováč,Czech Republic,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Alex Jiráček,Czech Republic,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jan Krejčí,Czech Republic,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jiří Štajner,Czech Republic,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ondřej Necid,Czech Republic,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Maxime Crépeau,Canada,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kim Kaye,Canada,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Wes McLeod,Canada,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Atiba Hutchinson,Canada,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Nikolas Berdusco,Canada,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Norm Arfield,Canada,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Nathan Saliba,Canada,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Nathan Brault-Guillard,Canada,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Sam Gerba,Canada,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Nick Dasovic,Canada,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Jayden Nelson,Canada,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Nikola Vasilj,Bosnia and Herzegovina,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andreas Bajramović,Bosnia and Herzegovina,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Neofytos Michail,Bosnia and Herzegovina,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Luka Bartolović,Bosnia and Herzegovina,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Haris Tabaković,Bosnia and Herzegovina,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Elvis Sarić,Bosnia and Herzegovina,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Amer Gojak,Bosnia and Herzegovina,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Haris Hajradinović,Bosnia and Herzegovina,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Toni Šunjić,Bosnia and Herzegovina,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Dario Vršajević,Bosnia and Herzegovina,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Neofytos Barbarez,Bosnia and Herzegovina,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Matt Turner,United States,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Walter Cameron,United States,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Haji Wright,United States,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Davy Lassiter,United States,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Aldo Chacurian,United States,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Matt Armas,United States,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Brad Souza,United States,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Sam Vines,United States,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Claudio Ferreira,United States,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Frank Klopas,United States,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Brek Ferreira,United States,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Roberto Junior Fernández,Paraguay,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Florencio da Silva,Paraguay,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Martín Flor,Paraguay,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Piero Hincapié,Paraguay,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Eladio Ortiz,Paraguay,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Alejandro Romero Gamarra,Paraguay,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ireneo Hermosilla,Paraguay,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Adalberto Morínigo,Paraguay,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ángel Jara Saguier,Paraguay,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Romulo Guirland,Paraguay,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Lino Nessi,Paraguay,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Meshaal Barsham,Qatar,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abdul Mendes,Qatar,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Abdelkarim Hassan,Qatar,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Khalifa Al-Sulaiti,Qatar,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Anbar Sulaiti,Qatar,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Rayed Al-Boloushi,Qatar,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Fábio César Montezine,Qatar,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Adel Salem Al-Mal,Qatar,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Saleh Eid Al-Mehaizaa,Qatar,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Karim Meshaal,Qatar,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ali Mohammed Al-Saadah,Qatar,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Yann Sommer,Switzerland,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Robert Lüthi,Switzerland,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Karl Odermatt,Switzerland,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Fabian Schär,Switzerland,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Haris Sforza,Switzerland,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Christian Fassnacht,Switzerland,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+René-Pierre Aebischer,Switzerland,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Amir Rrahmani,Switzerland,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Xherdan Frigerio,Switzerland,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Alfred Bickel,Switzerland,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ruben Vargas,Switzerland,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Alisson Becker,Brazil,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Marquinhos,Brazil,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Éder Militão,Brazil,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Gabriel Magalhães,Brazil,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Raí,Brazil,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Bruno Guimarães,Brazil,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Lucas Paquetá,Brazil,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jairzinho Belletti,Brazil,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Walter Sisenando,Brazil,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Vinícius Júnior,Brazil,FW,Inside Forward,0.55,0.55,3.1,1.45,7.2,0.08,0.0
+Rodrygo,Brazil,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Yassine Bounou,Morocco,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Achraf Hakimi,Morocco,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Khalid Boutaïb,Morocco,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Abdelfettah Zairi,Morocco,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Zakaria Belhanda,Morocco,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Hakim Ziyech,Morocco,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Sofyan Amrabat,Morocco,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Abdelmajid Bouyboud,Morocco,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Said Rokbi,Morocco,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Youssef En-Nesyri,Morocco,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Brahim Díaz,Morocco,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Johny Placide,Haiti,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jean-Kévin Duverne,Haiti,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Réginal Goreux,Haiti,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Carnejy Pierre-Louis,Haiti,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Frantz Pierre,Haiti,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Jean-Eudes Maurice,Haiti,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Angelo Guerrier,Haiti,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Leonel Saint-Preux,Haiti,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Corriolan Wadson,Haiti,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+James Wadson,Haiti,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Reynold Lafrance,Haiti,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Angus Gunn,Scotland,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ross Findlay,Scotland,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Callum McGregor,Scotland,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Ben Patterson,Scotland,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Peter McStay,Scotland,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Jimmy Murray,Scotland,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Christian Hewie,Scotland,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Steven Thompson,Scotland,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Oliver Burke,Scotland,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Craig Beattie,Scotland,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Paul Hartley,Scotland,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Mathew Ryan,Australia,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brandon Borrello,Australia,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+John Iredale,Australia,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Nestory Irankunda,Australia,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Kris Trajanovski,Australia,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Mile Sterjovski,Australia,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jason Davidson,Australia,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Keanu Baccus,Australia,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Chris Juric,Australia,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Vic Baccus,Australia,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ken Boden,Australia,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Mert Günok,Turkey,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fevzi Zemzem,Turkey,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Aydın Yelken,Turkey,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Tayfur Havutçu,Turkey,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Ender Konca,Turkey,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Fatih Toraman,Turkey,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Tuncay Şanlı,Turkey,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Orhan Çıkırıkçı,Turkey,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Rıza Erdinç,Turkey,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Samet Akaydin,Turkey,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Emre Belözoğlu,Turkey,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Marc-André ter Stegen,Germany,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Joshua Kimmich,Germany,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Antonio Rüdiger,Germany,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Jonathan Tah,Germany,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Cacau Santos,Germany,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Florian Wirtz,Germany,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jamal Musiala,Germany,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ilkay Gündogan,Germany,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Yogan Santos,Germany,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Kai Havertz,Germany,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Leroy Sané,Germany,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Eloy Room,Curaçao,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Martijn Brandborg,Curaçao,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Edwin Miliano Loran,Curaçao,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Gijsberta Chong,Curaçao,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Toribio Antonia,Curaçao,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Sontje Hansen,Curaçao,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Elson Comenencia,Curaçao,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Edgard Meulens,Curaçao,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Edrick de Lanoy,Curaçao,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Virgilio Sillie,Curaçao,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Rihairo Meulens,Curaçao,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Yahia Fofana,Ivory Coast,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Romaric,Ivory Coast,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Abdul Kouassi Kouame,Ivory Coast,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Kolo Touré,Ivory Coast,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Wilfried Zaha,Ivory Coast,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Seydou Dao,Ivory Coast,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Bernard N'Guessan,Ivory Coast,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Youssouf Falikou Fofana,Ivory Coast,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Lassina Dao,Ivory Coast,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ahmed Abou El Fotouh,Ivory Coast,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Oumar Diakité,Ivory Coast,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Hernán Galíndez,Ecuador,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hans Villacreses,Ecuador,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Christian Alvarez,Ecuador,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Ayrton Soliz,Ecuador,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Jordy Arboleda,Ecuador,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Máximo Tenorio,Ecuador,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Walter Ayoví,Ecuador,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ney Ibarra,Ecuador,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Kevin Klinger,Ecuador,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Kevin Artega,Ecuador,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Gonzalo Montaño,Ecuador,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Bart Verbruggen,Netherlands,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Virgil van Dijk,Netherlands,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Nathan Aké,Netherlands,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Denzel Dumfries,Netherlands,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Jeremie Frimpong,Netherlands,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Xavi Simons,Netherlands,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Tijjani Reijnders,Netherlands,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+John Bosman,Netherlands,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jan Rensenbrink,Netherlands,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Cody Gakpo,Netherlands,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Memphis Depay,Netherlands,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Zion Suzuki,Japan,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Katsuyoshi Shinto,Japan,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Kazuyoshi Miura,Japan,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Wagner Mori,Japan,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Hiromi Hara,Japan,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Wataru Endo,Japan,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Takumi Minamino,Japan,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Makoto Hasebe,Japan,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Koki Ogawa,Japan,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Kaoru Mitoma,Japan,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Takefusa Kubo,Japan,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Robin Olsen,Sweden,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arne Selmosson,Sweden,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Aldo Lundgren,Sweden,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Emil Holm,Sweden,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Aldo Junior Simoncini,Sweden,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Andreas Simoncini,Sweden,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Dan Rosenberg,Sweden,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ken Sema,Sweden,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Agne Cervin,Sweden,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Patrik Andersson,Sweden,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Robert Prytz,Sweden,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Amanallah Memmiche,Tunisia,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ellyes Sassi,Tunisia,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Chaouki Ben Saada,Tunisia,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Kais Yâakoubi,Tunisia,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Bassam Ben Larbi,Tunisia,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Hakim Merrichkou,Tunisia,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ezzedine Gasri,Tunisia,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Adel Chedli,Tunisia,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ali Kaabi,Tunisia,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Lotfi Hsoumi,Tunisia,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Mehdi Ben Slimane,Tunisia,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Koen Casteels,Belgium,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Timothy Castagne,Belgium,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Wout Faes,Belgium,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Luc Nilis,Belgium,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Nico Hazard,Belgium,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Kevin De Bruyne,Belgium,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Amadou Onana,Belgium,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Kypros Christoforou,Belgium,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Cristian Brolli,Belgium,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Romelu Lukaku,Belgium,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Leandro Trossard,Belgium,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Mohamed El Shenawy,Egypt,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hussein El-Hamouly,Egypt,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Ahmed Abdel Baki,Egypt,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Mwepu Halim Ali,Egypt,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Moustafa El Said,Egypt,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Alaa Mayhoub,Egypt,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Taher Abouzeid,Egypt,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Yasser Radwan,Egypt,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Dario Abou Rehab,Egypt,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Mohamed Abdel-Shafy,Egypt,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Alireza Beiranvand,Iran,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohammad Hassan Ansarifard,Iran,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Masoud Dinmohammadi,Iran,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Javad Parvin,Iran,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Amirhossein Rowshan,Iran,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Sirous Dinmohammadi,Iran,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ramin Rezaeian,Iran,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Sayed Hashemian,Iran,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Zia Azizi,Iran,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Parviz Ghelichkhani,Iran,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Samad Hassanzadeh,Iran,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Alex Paulsen,New Zealand,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rory Just,New Zealand,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Brent Thomas,New Zealand,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Rupert Ryan,New Zealand,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Colin Walker,New Zealand,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Marco Rojas,New Zealand,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Rory Chih Tsong,New Zealand,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jeff Perry,New Zealand,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Adrian Elrick,New Zealand,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Neil Jones,New Zealand,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Raf Rufer,New Zealand,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Unai Simón,Spain,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dani Carvajal,Spain,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Robin Le Normand,Spain,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Aymeric Laporte,Spain,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Marc Cucurella,Spain,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Rodri,Spain,MF,Ball-Winning Midfielder,0.15,0.12,1.45,0.45,1.1,0.12,0.05
+Fabián Ruiz,Spain,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Dani Olmo,Spain,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Lamine Yamal,Spain,FW,Target Man,0.35,0.35,2.8,1.1,5.2,0.08,0.0
+Nico Williams,Spain,FW,Inverted Winger,0.3,0.3,2.65,0.95,5.8,0.06,0.0
+Álvaro Morata,Spain,FW,Inside Forward,0.58,0.54,3.2,1.48,6.1,0.42,0.05
+Vozinha,Cape Verde,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Stopira,Cape Verde,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Diney,Cape Verde,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Jovane Modeste,Cape Verde,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Odaïr Tavares,Cape Verde,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Arlindo Filipe Correia Semedo,Cape Verde,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Nuno Miguel Monteiro Rocha,Cape Verde,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Yannick Semedo,Cape Verde,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Nuno Ramos,Cape Verde,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jovane Cabral,Cape Verde,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Platini Morais Caló,Cape Verde,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ahmed Al-Kassar,Saudi Arabia,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fares Juma,Saudi Arabia,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Mohaisen Al-Jam'an,Saudi Arabia,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Ibrahim Al-Harbi,Saudi Arabia,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Saud Lajami,Saudi Arabia,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Saeed Al-Waked,Saudi Arabia,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Saleh Al-Suwaiyed Shehrani,Saudi Arabia,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Fares Al-Waked,Saudi Arabia,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ahmed Al Nifawi,Saudi Arabia,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Obeid Jamil Madani,Saudi Arabia,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ali Al-Hassan,Saudi Arabia,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Sergio Rochet,Uruguay,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nahitan Nández,Uruguay,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Ronald Araújo,Uruguay,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Mathías Olivera,Uruguay,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Matías Viña,Uruguay,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Federico Valverde,Uruguay,MF,Deep-Lying Playmaker,0.18,0.18,2.4,0.8,1.8,0.05,0.0
+Manuel Ugarte,Uruguay,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Nicolás de la Cruz,Uruguay,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Facundo Pellistri,Uruguay,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Darwin Núñez,Uruguay,FW,Inverted Winger,0.68,0.64,4.65,2.1,7.9,0.3,0.02
+Maximiliano Araújo,Uruguay,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Mike Maignan,France,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jules Koundé,France,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+William Saliba,France,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Dayot Upamecano,France,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Theo Hernandez,France,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Aurélien Tchouaméni,France,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+N'Golo Kanté,France,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Antoine Griezmann,France,MF,Box-to-Box Midfielder,0.42,0.35,2.9,1.15,4.5,0.12,0.15
+Ousmane Dembélé,France,FW,Inside Forward,0.28,0.28,3.1,0.9,6.7,0.02,0.0
+Kylian Mbappé,France,FW,Inside Forward,0.76,0.67,4.52,2.3,8.4,0.18,0.22
+Bradley Barcola,France,FW,Inside Forward,0.32,0.32,2.5,1.05,6.2,0.04,0.0
+Édouard Mendy,Senegal,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mamadou Niang,Senegal,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Thierno Youm,Senegal,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Omar Pierre Diéme,Senegal,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Khalilou N'Diaye,Senegal,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Pape Hadji Diouf,Senegal,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Henri Sané,Senegal,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Famara Diédhiou,Senegal,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Kader Mangane,Senegal,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ibrahima Sonko,Senegal,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ibrahima Baldé,Senegal,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Jalal Hassan,Iraq,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hussam Fawzi,Iraq,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Emad Mohammed,Iraq,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Younis Mahmoud,Iraq,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Humam Ismail,Iraq,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Aymen Kalaf,Iraq,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Hesham Mohammed,Iraq,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ahmed Radhi,Iraq,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Zidane Iqbal,Iraq,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Karim Saddam,Iraq,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Akram Khalaf,Iraq,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Ørjan Nyland,Norway,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Julian Ryerson,Norway,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Andreas Hanche-Olsen,Norway,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Leo Østigård,Norway,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+David Møller Wolfe,Norway,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Martin Ødegaard,Norway,MF,Ball-Winning Midfielder,0.22,0.22,2.1,0.75,2.8,0.05,0.0
+Sander Berge,Norway,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Kristian Thorstvedt,Norway,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Oscar Bobb,Norway,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Erling Haaland,Norway,FW,Poacher,0.88,0.78,4.1,2.15,6.8,0.45,0.15
+Antonio Nusa,Norway,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Emiliano Martínez,Argentina,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cristian Romero,Argentina,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Lisandro Martínez,Argentina,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Nicolas Otamendi,Argentina,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Jose Albornoz,Argentina,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Alexis Mac Allister,Argentina,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Enzo Fernández,Argentina,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Rodrigo De Paul,Argentina,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ángel Correa,Argentina,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Lionel Messi,Argentina,FW,Inverted Winger,0.68,0.55,3.8,1.85,5.8,0.08,0.18
+Lautaro Martínez,Argentina,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Anthony Mandrea,Algeria,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Djamel Zidane,Algeria,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Abdelmoumene Mansouri,Algeria,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Omar Betrouni,Algeria,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Mourad Meziane,Algeria,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Hacène Lalmas,Algeria,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Moussa Belaïd,Algeria,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Djamel Belmadi,Algeria,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Hocine Achiou,Algeria,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Hocine Benrahma,Algeria,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Said Benrahma,Algeria,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Patrick Pentz,Austria,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anton Aufhauser,Austria,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Camillo Hasil,Austria,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Adi Hanappi,Austria,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Karim Bican,Austria,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Louis Schaub,Austria,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Felix Gasselich,Austria,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Hannes Reinmayr,Austria,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Saša Kalajdžić,Austria,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Marcel Sabitzer,Austria,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Helmut Redl,Austria,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Yazeed Abulaila,Jordan,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ahmad Ersan,Jordan,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Mohamed Al-Diabaz,Jordan,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Hassan Abdel-Fattah,Jordan,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Odai Al-Saify,Jordan,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Mahmoud Al-Mardi,Jordan,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Hassouneh Al-Bakhit,Jordan,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Musa Al-Taamari,Jordan,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Baha' Faisal,Jordan,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Noor Al-Khateeb,Jordan,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Munther Abdel-Rahman,Jordan,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Diogo Costa,Portugal,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rúben Dias,Portugal,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+João Cancelo,Portugal,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+José Augusto Torres,Portugal,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Matateu Boye,Portugal,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Bruno Fernandes,Portugal,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Bernardo Silva,Portugal,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Vitinha,Portugal,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ivan Ronaldo,Portugal,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Cristiano Ronaldo,Portugal,FW,Target Man,0.75,0.63,4.2,2.05,6.4,0.4,0.18
+Rafael Leão,Portugal,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Lionel Mpasi,DR Congo,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Théo Ngassebe,DR Congo,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Monduone N'Kama,DR Congo,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Nathan Fasika,DR Congo,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Lomana LuaLua,DR Congo,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Paul-José M'Poku,DR Congo,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Yves Yuvuladio,DR Congo,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jerry Tondelua,DR Congo,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Nathanaël Mbuku,DR Congo,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Michel Lukaku,DR Congo,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Nkiere Wawa,DR Congo,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Utkir Yusupov,Uzbekistan,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mirjalol Lushan,Uzbekistan,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Stanislav Andreev,Uzbekistan,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Khojiakbar Alijonov,Uzbekistan,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Ulugbek Karpenko,Uzbekistan,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Timur Sergeev,Uzbekistan,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Egor Krimets,Uzbekistan,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Timur Kapadze,Uzbekistan,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Maksim Shkvyrin,Uzbekistan,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Sanjar Koshelev,Uzbekistan,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Jafar Salomov,Uzbekistan,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Camilo Vargas,Colombia,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daniel Muñoz,Colombia,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Davinson Sánchez,Colombia,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Sergio Moreno,Colombia,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Antonio Zapata,Colombia,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+James Rodríguez,Colombia,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jefferson Lerma,Colombia,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Jefferson Hernández,Colombia,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Carlos Valderrama,Colombia,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Luis Díaz,Colombia,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Jhon Durán,Colombia,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Jordan Pickford,England,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+John Stones,England,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Kyle Walker,England,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Trent Alexander-Arnold,England,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Kieran Trippier,England,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Jude Bellingham,England,MF,Ball-Winning Midfielder,0.38,0.38,2.2,0.95,4.8,0.2,0.0
+Phil Foden,England,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Declan Rice,England,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Cole Palmer,England,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Harry Kane,England,FW,Target Man,0.82,0.68,3.9,1.95,6.5,0.38,0.2
+Bukayo Saka,England,FW,Poacher,0.42,0.38,2.6,1.05,6.5,0.1,0.05
+Dominik Livaković,Croatia,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lovro Majer,Croatia,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Milan Rapaić,Croatia,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Dejan Štimac,Croatia,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Mladen Petrić,Croatia,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Ante Budimir,Croatia,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Darijo Srna,Croatia,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Dado Pršo,Croatia,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Marko Vlaović,Croatia,MF,Deep-Lying Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Robert Pršo,Croatia,FW,Inverted Winger,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Davor Šuker,Croatia,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Lawrence Ati-Zigi,Ghana,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Edwin Armah,Ghana,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Joseph Draman,Ghana,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Baba Draman,Ghana,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Sulley Muntari,Ghana,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Charles Majeed Waris,Ghana,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Mohammed Gargo,Ghana,MF,Box-to-Box Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ishmael Kingston,Ghana,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Nélson Preko,Ghana,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Arthur Bedoui,Ghana,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Arthur Moses,Ghana,FW,Target Man,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Orlando Mosquera,Panama,GK,Sweeper Keeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yassine Martínez,Panama,DF,Inverted Wingback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Benjamín Smith,Panama,DF,Attacking Fullback,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Javain Brown,Panama,DF,Ball-Playing CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Benjamín Piggott,Panama,DF,No-Sense CB,0.05,0.05,0.5,0.15,0.8,0.1,0.0
+Miguel Camargo,Panama,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Ricardo Phillips,Panama,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Román Torres,Panama,MF,Advanced Playmaker,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Yoel Góyez,Panama,MF,Ball-Winning Midfielder,0.15,0.15,1.6,0.55,2.4,0.08,0.01
+Amir Waithe,Panama,FW,Inside Forward,0.48,0.44,3.1,1.35,5.9,0.25,0.04
+Carlos Gabriel Rodríguez,Panama,FW,Poacher,0.48,0.44,3.1,1.35,5.9,0.25,0.04

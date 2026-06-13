@@ -1,0 +1,528 @@
+player_name,national_team,position,detailed_role,international_goals,international_penalties,club_goals_last_season,club_assists_last_season,club_appearances_last_season,club_minutes_2025_26,intl_minutes_qualifiers
+Luis Malagón,Mexico,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Aldo de Nigris,Mexico,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Omar Bravo,Mexico,DF,No-Sense CB,2,0,1,2,30,2500,750
+Octavio Madu,Mexico,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Luis Romo,Mexico,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Benjamín Garcés,Mexico,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Fernando Quirarte,Mexico,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Guillermo Franco,Mexico,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Néstor Araujo,Mexico,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Ricardo Reyes Monteón,Mexico,FW,Inverted Winger,10,1,9,4,31,2400,700
+Ramiro Jáuregui,Mexico,FW,Inside Forward,10,1,9,4,31,2400,700
+Ronwen Williams,South Africa,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Bongani Khumalo,South Africa,DF,No-Sense CB,2,0,1,2,30,2500,750
+Iqraam Rayners,South Africa,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Delron Mphela,South Africa,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Mark Williams,South Africa,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Quinton Fortune,South Africa,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Manucho Diniz,South Africa,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Surprise Moriri,South Africa,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Jabu Pule,South Africa,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Evidence Radebe,South Africa,FW,Inverted Winger,10,1,9,4,31,2400,700
+Bongokuhle Tinkler,South Africa,FW,Inverted Winger,10,1,9,4,31,2400,700
+Jo Hyeon-woo,South Korea,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Kim Min-jae,South Korea,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Choi Yong-soo,South Korea,DF,No-Sense CB,2,0,1,2,30,2500,750
+Park Kun-Ha,South Korea,DF,No-Sense CB,2,0,1,2,30,2500,750
+Akmal Kyung-Hoon,South Korea,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Lee Kang-in,South Korea,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Yazan Kyu-Poong,South Korea,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Roh Sang-Rae,South Korea,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Choi Byung-kuk,South Korea,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Son Heung-min,South Korea,FW,Target Man,10,1,9,4,31,2400,700
+Hwang Hee-chan,South Korea,FW,Target Man,10,1,9,4,31,2400,700
+Jindřich Staněk,Czech Republic,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Filip Novák,Czech Republic,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Alex Matějovský,Czech Republic,DF,No-Sense CB,2,0,1,2,30,2500,750
+Pavel Šulc,Czech Republic,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Lukáš Provod,Czech Republic,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Jakub Plašil,Czech Republic,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Boris Kováč,Czech Republic,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Alex Jiráček,Czech Republic,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Jan Krejčí,Czech Republic,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Jiří Štajner,Czech Republic,FW,Inverted Winger,10,1,9,4,31,2400,700
+Ondřej Necid,Czech Republic,FW,Inverted Winger,10,1,9,4,31,2400,700
+Maxime Crépeau,Canada,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Kim Kaye,Canada,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Wes McLeod,Canada,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Atiba Hutchinson,Canada,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Nikolas Berdusco,Canada,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Norm Arfield,Canada,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Nathan Saliba,Canada,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Nathan Brault-Guillard,Canada,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Sam Gerba,Canada,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Nick Dasovic,Canada,FW,Target Man,10,1,9,4,31,2400,700
+Jayden Nelson,Canada,FW,Target Man,10,1,9,4,31,2400,700
+Nikola Vasilj,Bosnia and Herzegovina,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Andreas Bajramović,Bosnia and Herzegovina,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Neofytos Michail,Bosnia and Herzegovina,DF,No-Sense CB,2,0,1,2,30,2500,750
+Luka Bartolović,Bosnia and Herzegovina,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Haris Tabaković,Bosnia and Herzegovina,DF,No-Sense CB,2,0,1,2,30,2500,750
+Elvis Sarić,Bosnia and Herzegovina,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Amer Gojak,Bosnia and Herzegovina,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Haris Hajradinović,Bosnia and Herzegovina,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Toni Šunjić,Bosnia and Herzegovina,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Dario Vršajević,Bosnia and Herzegovina,FW,Inverted Winger,10,1,9,4,31,2400,700
+Neofytos Barbarez,Bosnia and Herzegovina,FW,Target Man,10,1,9,4,31,2400,700
+Matt Turner,United States,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Walter Cameron,United States,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Haji Wright,United States,DF,No-Sense CB,2,0,1,2,30,2500,750
+Davy Lassiter,United States,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Aldo Chacurian,United States,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Matt Armas,United States,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Brad Souza,United States,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Sam Vines,United States,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Claudio Ferreira,United States,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Frank Klopas,United States,FW,Inverted Winger,10,1,9,4,31,2400,700
+Brek Ferreira,United States,FW,Poacher,10,1,9,4,31,2400,700
+Roberto Junior Fernández,Paraguay,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Florencio da Silva,Paraguay,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Martín Flor,Paraguay,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Piero Hincapié,Paraguay,DF,No-Sense CB,2,0,1,2,30,2500,750
+Eladio Ortiz,Paraguay,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Alejandro Romero Gamarra,Paraguay,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Ireneo Hermosilla,Paraguay,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Adalberto Morínigo,Paraguay,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Ángel Jara Saguier,Paraguay,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Romulo Guirland,Paraguay,FW,Inverted Winger,10,1,9,4,31,2400,700
+Lino Nessi,Paraguay,FW,Poacher,10,1,9,4,31,2400,700
+Meshaal Barsham,Qatar,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Abdul Mendes,Qatar,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Abdelkarim Hassan,Qatar,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Khalifa Al-Sulaiti,Qatar,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Anbar Sulaiti,Qatar,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Rayed Al-Boloushi,Qatar,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Fábio César Montezine,Qatar,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Adel Salem Al-Mal,Qatar,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Saleh Eid Al-Mehaizaa,Qatar,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Karim Meshaal,Qatar,FW,Poacher,10,1,9,4,31,2400,700
+Ali Mohammed Al-Saadah,Qatar,FW,Inside Forward,10,1,9,4,31,2400,700
+Yann Sommer,Switzerland,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Robert Lüthi,Switzerland,DF,No-Sense CB,2,0,1,2,30,2500,750
+Karl Odermatt,Switzerland,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Fabian Schär,Switzerland,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Haris Sforza,Switzerland,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Christian Fassnacht,Switzerland,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+René-Pierre Aebischer,Switzerland,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Amir Rrahmani,Switzerland,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Xherdan Frigerio,Switzerland,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Alfred Bickel,Switzerland,FW,Inside Forward,10,1,9,4,31,2400,700
+Ruben Vargas,Switzerland,FW,Poacher,10,1,9,4,31,2400,700
+Alisson Becker,Brazil,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Marquinhos,Brazil,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Éder Militão,Brazil,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Gabriel Magalhães,Brazil,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Raí,Brazil,DF,No-Sense CB,2,0,1,2,30,2500,750
+Bruno Guimarães,Brazil,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Lucas Paquetá,Brazil,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Jairzinho Belletti,Brazil,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Walter Sisenando,Brazil,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Vinícius Júnior,Brazil,FW,Inside Forward,5,0,24,9,39,3100,750
+Rodrygo,Brazil,FW,Inverted Winger,10,1,9,4,31,2400,700
+Yassine Bounou,Morocco,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Achraf Hakimi,Morocco,DF,No-Sense CB,2,0,1,2,30,2500,750
+Khalid Boutaïb,Morocco,DF,No-Sense CB,2,0,1,2,30,2500,750
+Abdelfettah Zairi,Morocco,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Zakaria Belhanda,Morocco,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Hakim Ziyech,Morocco,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Sofyan Amrabat,Morocco,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Abdelmajid Bouyboud,Morocco,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Said Rokbi,Morocco,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Youssef En-Nesyri,Morocco,FW,Inside Forward,10,1,9,4,31,2400,700
+Brahim Díaz,Morocco,FW,Inside Forward,10,1,9,4,31,2400,700
+Johny Placide,Haiti,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Jean-Kévin Duverne,Haiti,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Réginal Goreux,Haiti,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Carnejy Pierre-Louis,Haiti,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Frantz Pierre,Haiti,DF,No-Sense CB,2,0,1,2,30,2500,750
+Jean-Eudes Maurice,Haiti,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Angelo Guerrier,Haiti,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Leonel Saint-Preux,Haiti,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Corriolan Wadson,Haiti,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+James Wadson,Haiti,FW,Target Man,10,1,9,4,31,2400,700
+Reynold Lafrance,Haiti,FW,Poacher,10,1,9,4,31,2400,700
+Angus Gunn,Scotland,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Ross Findlay,Scotland,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Callum McGregor,Scotland,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Ben Patterson,Scotland,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Peter McStay,Scotland,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Jimmy Murray,Scotland,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Christian Hewie,Scotland,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Steven Thompson,Scotland,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Oliver Burke,Scotland,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Craig Beattie,Scotland,FW,Inverted Winger,10,1,9,4,31,2400,700
+Paul Hartley,Scotland,FW,Poacher,10,1,9,4,31,2400,700
+Mathew Ryan,Australia,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Brandon Borrello,Australia,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+John Iredale,Australia,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Nestory Irankunda,Australia,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Kris Trajanovski,Australia,DF,No-Sense CB,2,0,1,2,30,2500,750
+Mile Sterjovski,Australia,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Jason Davidson,Australia,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Keanu Baccus,Australia,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Chris Juric,Australia,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Vic Baccus,Australia,FW,Inside Forward,10,1,9,4,31,2400,700
+Ken Boden,Australia,FW,Inside Forward,10,1,9,4,31,2400,700
+Mert Günok,Turkey,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Fevzi Zemzem,Turkey,DF,No-Sense CB,2,0,1,2,30,2500,750
+Aydın Yelken,Turkey,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Tayfur Havutçu,Turkey,DF,No-Sense CB,2,0,1,2,30,2500,750
+Ender Konca,Turkey,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Fatih Toraman,Turkey,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Tuncay Şanlı,Turkey,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Orhan Çıkırıkçı,Turkey,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Rıza Erdinç,Turkey,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Samet Akaydin,Turkey,FW,Poacher,10,1,9,4,31,2400,700
+Emre Belözoğlu,Turkey,FW,Poacher,10,1,9,4,31,2400,700
+Marc-André ter Stegen,Germany,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Joshua Kimmich,Germany,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Antonio Rüdiger,Germany,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Jonathan Tah,Germany,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Cacau Santos,Germany,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Florian Wirtz,Germany,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Jamal Musiala,Germany,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Ilkay Gündogan,Germany,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Yogan Santos,Germany,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Kai Havertz,Germany,FW,Target Man,10,1,9,4,31,2400,700
+Leroy Sané,Germany,FW,Inverted Winger,10,1,9,4,31,2400,700
+Eloy Room,Curaçao,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Martijn Brandborg,Curaçao,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Edwin Miliano Loran,Curaçao,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Gijsberta Chong,Curaçao,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Toribio Antonia,Curaçao,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Sontje Hansen,Curaçao,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Elson Comenencia,Curaçao,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Edgard Meulens,Curaçao,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Edrick de Lanoy,Curaçao,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Virgilio Sillie,Curaçao,FW,Inverted Winger,10,1,9,4,31,2400,700
+Rihairo Meulens,Curaçao,FW,Target Man,10,1,9,4,31,2400,700
+Yahia Fofana,Ivory Coast,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Romaric,Ivory Coast,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Abdul Kouassi Kouame,Ivory Coast,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Kolo Touré,Ivory Coast,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Wilfried Zaha,Ivory Coast,DF,No-Sense CB,2,0,1,2,30,2500,750
+Seydou Dao,Ivory Coast,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Bernard N'Guessan,Ivory Coast,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Youssouf Falikou Fofana,Ivory Coast,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Lassina Dao,Ivory Coast,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Ahmed Abou El Fotouh,Ivory Coast,FW,Target Man,10,1,9,4,31,2400,700
+Oumar Diakité,Ivory Coast,FW,Inverted Winger,10,1,9,4,31,2400,700
+Hernán Galíndez,Ecuador,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Hans Villacreses,Ecuador,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Christian Alvarez,Ecuador,DF,No-Sense CB,2,0,1,2,30,2500,750
+Ayrton Soliz,Ecuador,DF,No-Sense CB,2,0,1,2,30,2500,750
+Jordy Arboleda,Ecuador,DF,No-Sense CB,2,0,1,2,30,2500,750
+Máximo Tenorio,Ecuador,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Walter Ayoví,Ecuador,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Ney Ibarra,Ecuador,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Kevin Klinger,Ecuador,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Kevin Artega,Ecuador,FW,Inside Forward,10,1,9,4,31,2400,700
+Gonzalo Montaño,Ecuador,FW,Target Man,10,1,9,4,31,2400,700
+Bart Verbruggen,Netherlands,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Virgil van Dijk,Netherlands,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Nathan Aké,Netherlands,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Denzel Dumfries,Netherlands,DF,No-Sense CB,2,0,1,2,30,2500,750
+Jeremie Frimpong,Netherlands,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Xavi Simons,Netherlands,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Tijjani Reijnders,Netherlands,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+John Bosman,Netherlands,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Jan Rensenbrink,Netherlands,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Cody Gakpo,Netherlands,FW,Target Man,10,1,9,4,31,2400,700
+Memphis Depay,Netherlands,FW,Inverted Winger,10,1,9,4,31,2400,700
+Zion Suzuki,Japan,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Katsuyoshi Shinto,Japan,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Kazuyoshi Miura,Japan,DF,No-Sense CB,2,0,1,2,30,2500,750
+Wagner Mori,Japan,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Hiromi Hara,Japan,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Wataru Endo,Japan,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Takumi Minamino,Japan,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Makoto Hasebe,Japan,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Koki Ogawa,Japan,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Kaoru Mitoma,Japan,FW,Inside Forward,10,1,9,4,31,2400,700
+Takefusa Kubo,Japan,FW,Poacher,10,1,9,4,31,2400,700
+Robin Olsen,Sweden,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Arne Selmosson,Sweden,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Aldo Lundgren,Sweden,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Emil Holm,Sweden,DF,No-Sense CB,2,0,1,2,30,2500,750
+Aldo Junior Simoncini,Sweden,DF,No-Sense CB,2,0,1,2,30,2500,750
+Andreas Simoncini,Sweden,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Dan Rosenberg,Sweden,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Ken Sema,Sweden,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Agne Cervin,Sweden,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Patrik Andersson,Sweden,FW,Target Man,10,1,9,4,31,2400,700
+Robert Prytz,Sweden,FW,Inverted Winger,10,1,9,4,31,2400,700
+Amanallah Memmiche,Tunisia,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Ellyes Sassi,Tunisia,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Chaouki Ben Saada,Tunisia,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Kais Yâakoubi,Tunisia,DF,No-Sense CB,2,0,1,2,30,2500,750
+Bassam Ben Larbi,Tunisia,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Hakim Merrichkou,Tunisia,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Ezzedine Gasri,Tunisia,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Adel Chedli,Tunisia,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Ali Kaabi,Tunisia,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Lotfi Hsoumi,Tunisia,FW,Target Man,10,1,9,4,31,2400,700
+Mehdi Ben Slimane,Tunisia,FW,Poacher,10,1,9,4,31,2400,700
+Koen Casteels,Belgium,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Timothy Castagne,Belgium,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Wout Faes,Belgium,DF,No-Sense CB,2,0,1,2,30,2500,750
+Luc Nilis,Belgium,DF,No-Sense CB,2,0,1,2,30,2500,750
+Nico Hazard,Belgium,DF,No-Sense CB,2,0,1,2,30,2500,750
+Kevin De Bruyne,Belgium,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Amadou Onana,Belgium,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Kypros Christoforou,Belgium,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Cristian Brolli,Belgium,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Romelu Lukaku,Belgium,FW,Target Man,10,1,9,4,31,2400,700
+Leandro Trossard,Belgium,FW,Poacher,10,1,9,4,31,2400,700
+Mohamed El Shenawy,Egypt,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Hussein El-Hamouly,Egypt,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Ahmed Abdel Baki,Egypt,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Mwepu Halim Ali,Egypt,DF,No-Sense CB,2,0,1,2,30,2500,750
+Moustafa El Said,Egypt,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Alaa Mayhoub,Egypt,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Taher Abouzeid,Egypt,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Yasser Radwan,Egypt,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Dario Abou Rehab,Egypt,FW,Inverted Winger,10,1,9,4,31,2400,700
+Mohamed Abdel-Shafy,Egypt,FW,Target Man,10,1,9,4,31,2400,700
+Alireza Beiranvand,Iran,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Mohammad Hassan Ansarifard,Iran,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Masoud Dinmohammadi,Iran,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Javad Parvin,Iran,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Amirhossein Rowshan,Iran,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Sirous Dinmohammadi,Iran,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Ramin Rezaeian,Iran,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Sayed Hashemian,Iran,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Zia Azizi,Iran,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Parviz Ghelichkhani,Iran,FW,Poacher,10,1,9,4,31,2400,700
+Samad Hassanzadeh,Iran,FW,Target Man,10,1,9,4,31,2400,700
+Alex Paulsen,New Zealand,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Rory Just,New Zealand,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Brent Thomas,New Zealand,DF,No-Sense CB,2,0,1,2,30,2500,750
+Rupert Ryan,New Zealand,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Colin Walker,New Zealand,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Marco Rojas,New Zealand,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Rory Chih Tsong,New Zealand,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Jeff Perry,New Zealand,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Adrian Elrick,New Zealand,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Neil Jones,New Zealand,FW,Target Man,10,1,9,4,31,2400,700
+Raf Rufer,New Zealand,FW,Poacher,10,1,9,4,31,2400,700
+Unai Simón,Spain,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Dani Carvajal,Spain,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Robin Le Normand,Spain,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Aymeric Laporte,Spain,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Marc Cucurella,Spain,DF,No-Sense CB,2,0,1,2,30,2500,750
+Rodri,Spain,MF,Ball-Winning Midfielder,4,2,7,9,34,3050,900
+Fabián Ruiz,Spain,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Dani Olmo,Spain,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Lamine Yamal,Spain,FW,Target Man,3,0,7,8,37,2900,800
+Nico Williams,Spain,FW,Inverted Winger,2,0,8,11,31,2600,700
+Álvaro Morata,Spain,FW,Inside Forward,36,1,15,3,32,2500,650
+Vozinha,Cape Verde,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Stopira,Cape Verde,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Diney,Cape Verde,DF,No-Sense CB,2,0,1,2,30,2500,750
+Jovane Modeste,Cape Verde,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Odaïr Tavares,Cape Verde,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Arlindo Filipe Correia Semedo,Cape Verde,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Nuno Miguel Monteiro Rocha,Cape Verde,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Yannick Semedo,Cape Verde,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Nuno Ramos,Cape Verde,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Jovane Cabral,Cape Verde,FW,Poacher,10,1,9,4,31,2400,700
+Platini Morais Caló,Cape Verde,FW,Poacher,10,1,9,4,31,2400,700
+Ahmed Al-Kassar,Saudi Arabia,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Fares Juma,Saudi Arabia,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Mohaisen Al-Jam'an,Saudi Arabia,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Ibrahim Al-Harbi,Saudi Arabia,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Saud Lajami,Saudi Arabia,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Saeed Al-Waked,Saudi Arabia,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Saleh Al-Suwaiyed Shehrani,Saudi Arabia,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Fares Al-Waked,Saudi Arabia,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Ahmed Al Nifawi,Saudi Arabia,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Obeid Jamil Madani,Saudi Arabia,FW,Inverted Winger,10,1,9,4,31,2400,700
+Ali Al-Hassan,Saudi Arabia,FW,Target Man,10,1,9,4,31,2400,700
+Sergio Rochet,Uruguay,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Nahitan Nández,Uruguay,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Ronald Araújo,Uruguay,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Mathías Olivera,Uruguay,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Matías Viña,Uruguay,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Federico Valverde,Uruguay,MF,Deep-Lying Playmaker,7,0,4,7,37,3200,950
+Manuel Ugarte,Uruguay,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Nicolás de la Cruz,Uruguay,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Facundo Pellistri,Uruguay,FW,Inside Forward,10,1,9,4,31,2400,700
+Darwin Núñez,Uruguay,FW,Inverted Winger,11,0,11,8,36,2800,750
+Maximiliano Araújo,Uruguay,FW,Poacher,10,1,9,4,31,2400,700
+Mike Maignan,France,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Jules Koundé,France,DF,Attacking Fullback,2,0,1,2,30,2500,750
+William Saliba,France,DF,No-Sense CB,2,0,1,2,30,2500,750
+Dayot Upamecano,France,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Theo Hernandez,France,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Aurélien Tchouaméni,France,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+N'Golo Kanté,France,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Antoine Griezmann,France,MF,Box-to-Box Midfielder,44,7,16,6,33,2700,820
+Ousmane Dembélé,France,FW,Inside Forward,5,0,5,9,26,2100,600
+Kylian Mbappé,France,FW,Inside Forward,48,9,27,7,32,2850,850
+Bradley Barcola,France,FW,Inside Forward,1,0,4,7,25,1900,400
+Édouard Mendy,Senegal,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Mamadou Niang,Senegal,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Thierno Youm,Senegal,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Omar Pierre Diéme,Senegal,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Khalilou N'Diaye,Senegal,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Pape Hadji Diouf,Senegal,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Henri Sané,Senegal,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Famara Diédhiou,Senegal,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Kader Mangane,Senegal,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Ibrahima Sonko,Senegal,FW,Inverted Winger,10,1,9,4,31,2400,700
+Ibrahima Baldé,Senegal,FW,Inside Forward,10,1,9,4,31,2400,700
+Jalal Hassan,Iraq,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Hussam Fawzi,Iraq,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Emad Mohammed,Iraq,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Younis Mahmoud,Iraq,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Humam Ismail,Iraq,DF,No-Sense CB,2,0,1,2,30,2500,750
+Aymen Kalaf,Iraq,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Hesham Mohammed,Iraq,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Ahmed Radhi,Iraq,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Zidane Iqbal,Iraq,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Karim Saddam,Iraq,FW,Inside Forward,10,1,9,4,31,2400,700
+Akram Khalaf,Iraq,FW,Inverted Winger,10,1,9,4,31,2400,700
+Ørjan Nyland,Norway,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Julian Ryerson,Norway,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Andreas Hanche-Olsen,Norway,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Leo Østigård,Norway,DF,Inverted Wingback,2,0,1,2,30,2500,750
+David Møller Wolfe,Norway,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Martin Ødegaard,Norway,MF,Ball-Winning Midfielder,3,0,8,10,35,3100,850
+Sander Berge,Norway,MF,Ball-Winning Midfielder,1,0,1,2,37,3100,850
+Kristian Thorstvedt,Norway,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Oscar Bobb,Norway,FW,Poacher,2,0,3,2,15,1200,350
+Erling Haaland,Norway,FW,Poacher,32,6,38,5,35,3120,780
+Antonio Nusa,Norway,FW,Inverted Winger,1,0,4,4,28,2100,500
+Emiliano Martínez,Argentina,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Cristian Romero,Argentina,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Lisandro Martínez,Argentina,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Nicolas Otamendi,Argentina,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Jose Albornoz,Argentina,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Alexis Mac Allister,Argentina,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Enzo Fernández,Argentina,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Rodrigo De Paul,Argentina,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Ángel Correa,Argentina,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Lionel Messi,Argentina,FW,Inverted Winger,108,24,25,15,29,2400,780
+Lautaro Martínez,Argentina,FW,Poacher,10,1,9,4,31,2400,700
+Anthony Mandrea,Algeria,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Djamel Zidane,Algeria,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Abdelmoumene Mansouri,Algeria,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Omar Betrouni,Algeria,DF,No-Sense CB,2,0,1,2,30,2500,750
+Mourad Meziane,Algeria,DF,No-Sense CB,2,0,1,2,30,2500,750
+Hacène Lalmas,Algeria,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Moussa Belaïd,Algeria,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Djamel Belmadi,Algeria,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Hocine Achiou,Algeria,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Hocine Benrahma,Algeria,FW,Target Man,10,1,9,4,31,2400,700
+Said Benrahma,Algeria,FW,Inside Forward,10,1,9,4,31,2400,700
+Patrick Pentz,Austria,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Anton Aufhauser,Austria,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Camillo Hasil,Austria,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Adi Hanappi,Austria,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Karim Bican,Austria,DF,No-Sense CB,2,0,1,2,30,2500,750
+Louis Schaub,Austria,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Felix Gasselich,Austria,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Hannes Reinmayr,Austria,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Saša Kalajdžić,Austria,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Marcel Sabitzer,Austria,FW,Target Man,10,1,9,4,31,2400,700
+Helmut Redl,Austria,FW,Inside Forward,10,1,9,4,31,2400,700
+Yazeed Abulaila,Jordan,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Ahmad Ersan,Jordan,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Mohamed Al-Diabaz,Jordan,DF,No-Sense CB,2,0,1,2,30,2500,750
+Hassan Abdel-Fattah,Jordan,DF,No-Sense CB,2,0,1,2,30,2500,750
+Odai Al-Saify,Jordan,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Mahmoud Al-Mardi,Jordan,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Hassouneh Al-Bakhit,Jordan,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Musa Al-Taamari,Jordan,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Baha' Faisal,Jordan,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Noor Al-Khateeb,Jordan,FW,Target Man,10,1,9,4,31,2400,700
+Munther Abdel-Rahman,Jordan,FW,Inside Forward,10,1,9,4,31,2400,700
+Diogo Costa,Portugal,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Rúben Dias,Portugal,DF,Inverted Wingback,2,0,1,2,30,2500,750
+João Cancelo,Portugal,DF,Inverted Wingback,2,0,1,2,30,2500,750
+José Augusto Torres,Portugal,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Matateu Boye,Portugal,DF,No-Sense CB,2,0,1,2,30,2500,750
+Bruno Fernandes,Portugal,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Bernardo Silva,Portugal,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Vitinha,Portugal,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Ivan Ronaldo,Portugal,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Cristiano Ronaldo,Portugal,FW,Target Man,130,20,35,11,41,3500,800
+Rafael Leão,Portugal,FW,Poacher,10,1,9,4,31,2400,700
+Lionel Mpasi,DR Congo,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Théo Ngassebe,DR Congo,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Monduone N'Kama,DR Congo,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Nathan Fasika,DR Congo,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Lomana LuaLua,DR Congo,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Paul-José M'Poku,DR Congo,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Yves Yuvuladio,DR Congo,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Jerry Tondelua,DR Congo,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Nathanaël Mbuku,DR Congo,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Michel Lukaku,DR Congo,FW,Inverted Winger,10,1,9,4,31,2400,700
+Nkiere Wawa,DR Congo,FW,Poacher,10,1,9,4,31,2400,700
+Utkir Yusupov,Uzbekistan,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Mirjalol Lushan,Uzbekistan,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Stanislav Andreev,Uzbekistan,DF,No-Sense CB,2,0,1,2,30,2500,750
+Khojiakbar Alijonov,Uzbekistan,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Ulugbek Karpenko,Uzbekistan,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Timur Sergeev,Uzbekistan,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Egor Krimets,Uzbekistan,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Timur Kapadze,Uzbekistan,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Maksim Shkvyrin,Uzbekistan,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Sanjar Koshelev,Uzbekistan,FW,Inside Forward,10,1,9,4,31,2400,700
+Jafar Salomov,Uzbekistan,FW,Inverted Winger,10,1,9,4,31,2400,700
+Camilo Vargas,Colombia,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Daniel Muñoz,Colombia,DF,No-Sense CB,2,0,1,2,30,2500,750
+Davinson Sánchez,Colombia,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Sergio Moreno,Colombia,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Antonio Zapata,Colombia,DF,Inverted Wingback,2,0,1,2,30,2500,750
+James Rodríguez,Colombia,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Jefferson Lerma,Colombia,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Jefferson Hernández,Colombia,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Carlos Valderrama,Colombia,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Luis Díaz,Colombia,FW,Poacher,10,1,9,4,31,2400,700
+Jhon Durán,Colombia,FW,Poacher,10,1,9,4,31,2400,700
+Jordan Pickford,England,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+John Stones,England,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Kyle Walker,England,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Trent Alexander-Arnold,England,DF,No-Sense CB,2,0,1,2,30,2500,750
+Kieran Trippier,England,DF,No-Sense CB,2,0,1,2,30,2500,750
+Jude Bellingham,England,MF,Ball-Winning Midfielder,5,0,23,13,42,3600,900
+Phil Foden,England,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Declan Rice,England,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Cole Palmer,England,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Harry Kane,England,FW,Target Man,66,19,44,12,45,3800,850
+Bukayo Saka,England,FW,Poacher,12,1,16,9,35,2900,800
+Dominik Livaković,Croatia,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Lovro Majer,Croatia,DF,No-Sense CB,2,0,1,2,30,2500,750
+Milan Rapaić,Croatia,DF,No-Sense CB,2,0,1,2,30,2500,750
+Dejan Štimac,Croatia,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Mladen Petrić,Croatia,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Ante Budimir,Croatia,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Darijo Srna,Croatia,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Dado Pršo,Croatia,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Marko Vlaović,Croatia,MF,Deep-Lying Playmaker,4,0,3,5,32,2600,800
+Robert Pršo,Croatia,FW,Inverted Winger,10,1,9,4,31,2400,700
+Davor Šuker,Croatia,FW,Target Man,10,1,9,4,31,2400,700
+Lawrence Ati-Zigi,Ghana,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Edwin Armah,Ghana,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Joseph Draman,Ghana,DF,No-Sense CB,2,0,1,2,30,2500,750
+Baba Draman,Ghana,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Sulley Muntari,Ghana,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Charles Majeed Waris,Ghana,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Mohammed Gargo,Ghana,MF,Box-to-Box Midfielder,4,0,3,5,32,2600,800
+Ishmael Kingston,Ghana,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Nélson Preko,Ghana,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Arthur Bedoui,Ghana,FW,Poacher,10,1,9,4,31,2400,700
+Arthur Moses,Ghana,FW,Target Man,10,1,9,4,31,2400,700
+Orlando Mosquera,Panama,GK,Sweeper Keeper,0,0,0,0,34,3060,900
+Yassine Martínez,Panama,DF,Inverted Wingback,2,0,1,2,30,2500,750
+Benjamín Smith,Panama,DF,Attacking Fullback,2,0,1,2,30,2500,750
+Javain Brown,Panama,DF,Ball-Playing CB,2,0,1,2,30,2500,750
+Benjamín Piggott,Panama,DF,No-Sense CB,2,0,1,2,30,2500,750
+Miguel Camargo,Panama,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Ricardo Phillips,Panama,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Román Torres,Panama,MF,Advanced Playmaker,4,0,3,5,32,2600,800
+Yoel Góyez,Panama,MF,Ball-Winning Midfielder,4,0,3,5,32,2600,800
+Amir Waithe,Panama,FW,Inside Forward,10,1,9,4,31,2400,700
+Carlos Gabriel Rodríguez,Panama,FW,Poacher,10,1,9,4,31,2400,700
