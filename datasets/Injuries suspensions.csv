@@ -1,0 +1,16 @@
+team,player_name,status,injury_type,start_date,estimated_return_date,games_missed,impact_score
+Netherlands,Frenkie de Jong,Injured,Ankle Injury,2026-03-03,2026-07-01,12,9.2
+Spain,Gavi,Injured,Knee Injury (ACL),2025-11-19,2026-07-15,35,9.0
+Brazil,Neymar,Injured,Knee Injury (Meniscus),2025-10-18,2026-08-01,42,9.5
+Austria,David Alaba,Injured,Knee Injury (ACL),2025-12-17,2026-07-01,30,9.8
+United States,Sergiño Dest,Injured,Knee Injury (ACL),2026-04-20,2026-10-01,8,8.2
+France,Lucas Hernandez,Injured,Knee Injury (ACL),2026-05-01,2026-08-15,10,8.5
+Uruguay,Ronald Araújo,Injured,Hamstring Injury,2026-05-20,2026-07-05,5,9.3
+France,Aurélien Tchouaméni,Injured,Foot Injury,2026-05-08,2026-06-22,4,8.8
+England,Harry Maguire,Injured,Calf Injury,2026-05-15,2026-06-25,5,7.8
+Germany,Serge Gnabry,Injured,Hamstring Injury,2026-05-05,2026-07-01,6,8.2
+Austria,Alexander Schlager,Injured,Knee Injury (Meniscus),2026-05-01,2026-07-01,7,8.0
+Netherlands,Sven Botman,Injured,Knee Injury (ACL),2026-03-16,2026-09-01,15,8.5
+England,Reece James,Injured,Hamstring Injury,2026-04-10,2026-08-01,12,8.0
+Switzerland,Breel Embolo,Injured,Muscle Injury,2026-06-01,2026-06-20,2,8.4
+Czech Republic,Tomáš Souček,Suspended,Red Card Suspension,2026-06-01,2026-06-18,1,9.1

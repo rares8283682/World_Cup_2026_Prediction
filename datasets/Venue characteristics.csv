@@ -1,0 +1,17 @@
+stadium,city,altitude_m,avg_temp_june_c,avg_humidity_pct,is_climate_controlled
+Estadio Azteca,Mexico City,2240,23.0,50,False
+Estadio Akron,Zapopan,1566,27.0,45,False
+Estadio BBVA,Guadalupe,540,34.0,40,False
+BMO Field,Toronto,76,22.0,60,False
+BC Place,Vancouver,0,20.0,65,False
+Levi's Stadium,Santa Clara,10,24.0,55,False
+MetLife Stadium,East Rutherford,10,26.0,60,False
+Gillette Stadium,Foxborough,90,24.0,58,False
+NRG Stadium,Houston,15,21.0,50,True
+Lincoln Financial Field,Philadelphia,10,26.0,60,False
+AT&T Stadium,Arlington,180,21.0,50,True
+Lumen Field,Seattle,10,21.0,62,False
+Mercedes-Benz Stadium,Atlanta,315,22.0,50,True
+Hard Rock Stadium,Miami Gardens,5,30.0,75,False
+GEHA Field at Arrowhead Stadium,Kansas City,260,27.0,55,False
+SoFi Stadium,Inglewood,40,22.0,62,False

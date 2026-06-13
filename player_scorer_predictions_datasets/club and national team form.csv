@@ -1,0 +1,528 @@
+player_name,national_team,national_team_form_rating,national_team_goals_last_5,national_team_assists_last_5,club_form_rating,club_goals_last_5,club_assists_last_5
+Luis Malagón,Mexico,7.0,0,0,7.1,0,0
+Aldo de Nigris,Mexico,7.2,0,0,7.3,0,1
+Omar Bravo,Mexico,7.2,0,0,7.3,0,1
+Octavio Madu,Mexico,7.2,0,0,7.3,0,1
+Luis Romo,Mexico,7.2,0,0,7.3,0,1
+Benjamín Garcés,Mexico,7.4,1,1,7.5,1,2
+Fernando Quirarte,Mexico,7.4,1,1,7.5,1,2
+Guillermo Franco,Mexico,7.4,1,1,7.5,1,2
+Néstor Araujo,Mexico,7.4,1,1,7.5,1,2
+Ricardo Reyes Monteón,Mexico,7.6,2,1,7.6,2,1
+Ramiro Jáuregui,Mexico,7.6,2,1,7.6,2,1
+Ronwen Williams,South Africa,7.0,0,0,7.1,0,0
+Bongani Khumalo,South Africa,7.2,0,0,7.3,0,1
+Iqraam Rayners,South Africa,7.2,0,0,7.3,0,1
+Delron Mphela,South Africa,7.2,0,0,7.3,0,1
+Mark Williams,South Africa,7.2,0,0,7.3,0,1
+Quinton Fortune,South Africa,7.4,1,1,7.5,1,2
+Manucho Diniz,South Africa,7.4,1,1,7.5,1,2
+Surprise Moriri,South Africa,7.4,1,1,7.5,1,2
+Jabu Pule,South Africa,7.4,1,1,7.5,1,2
+Evidence Radebe,South Africa,7.6,2,1,7.6,2,1
+Bongokuhle Tinkler,South Africa,7.6,2,1,7.6,2,1
+Jo Hyeon-woo,South Korea,7.0,0,0,7.1,0,0
+Kim Min-jae,South Korea,7.2,0,0,7.3,0,1
+Choi Yong-soo,South Korea,7.2,0,0,7.3,0,1
+Park Kun-Ha,South Korea,7.2,0,0,7.3,0,1
+Akmal Kyung-Hoon,South Korea,7.2,0,0,7.3,0,1
+Lee Kang-in,South Korea,7.4,1,1,7.5,1,2
+Yazan Kyu-Poong,South Korea,7.4,1,1,7.5,1,2
+Roh Sang-Rae,South Korea,7.4,1,1,7.5,1,2
+Choi Byung-kuk,South Korea,7.4,1,1,7.5,1,2
+Son Heung-min,South Korea,7.6,2,1,7.6,2,1
+Hwang Hee-chan,South Korea,7.6,2,1,7.6,2,1
+Jindřich Staněk,Czech Republic,7.0,0,0,7.1,0,0
+Filip Novák,Czech Republic,7.2,0,0,7.3,0,1
+Alex Matějovský,Czech Republic,7.2,0,0,7.3,0,1
+Pavel Šulc,Czech Republic,7.2,0,0,7.3,0,1
+Lukáš Provod,Czech Republic,7.2,0,0,7.3,0,1
+Jakub Plašil,Czech Republic,7.4,1,1,7.5,1,2
+Boris Kováč,Czech Republic,7.4,1,1,7.5,1,2
+Alex Jiráček,Czech Republic,7.4,1,1,7.5,1,2
+Jan Krejčí,Czech Republic,7.4,1,1,7.5,1,2
+Jiří Štajner,Czech Republic,7.6,2,1,7.6,2,1
+Ondřej Necid,Czech Republic,7.6,2,1,7.6,2,1
+Maxime Crépeau,Canada,7.0,0,0,7.1,0,0
+Kim Kaye,Canada,7.2,0,0,7.3,0,1
+Wes McLeod,Canada,7.2,0,0,7.3,0,1
+Atiba Hutchinson,Canada,7.2,0,0,7.3,0,1
+Nikolas Berdusco,Canada,7.2,0,0,7.3,0,1
+Norm Arfield,Canada,7.4,1,1,7.5,1,2
+Nathan Saliba,Canada,7.4,1,1,7.5,1,2
+Nathan Brault-Guillard,Canada,7.4,1,1,7.5,1,2
+Sam Gerba,Canada,7.4,1,1,7.5,1,2
+Nick Dasovic,Canada,7.6,2,1,7.6,2,1
+Jayden Nelson,Canada,7.6,2,1,7.6,2,1
+Nikola Vasilj,Bosnia and Herzegovina,7.0,0,0,7.1,0,0
+Andreas Bajramović,Bosnia and Herzegovina,7.2,0,0,7.3,0,1
+Neofytos Michail,Bosnia and Herzegovina,7.2,0,0,7.3,0,1
+Luka Bartolović,Bosnia and Herzegovina,7.2,0,0,7.3,0,1
+Haris Tabaković,Bosnia and Herzegovina,7.2,0,0,7.3,0,1
+Elvis Sarić,Bosnia and Herzegovina,7.4,1,1,7.5,1,2
+Amer Gojak,Bosnia and Herzegovina,7.4,1,1,7.5,1,2
+Haris Hajradinović,Bosnia and Herzegovina,7.4,1,1,7.5,1,2
+Toni Šunjić,Bosnia and Herzegovina,7.4,1,1,7.5,1,2
+Dario Vršajević,Bosnia and Herzegovina,7.6,2,1,7.6,2,1
+Neofytos Barbarez,Bosnia and Herzegovina,7.6,2,1,7.6,2,1
+Matt Turner,United States,7.0,0,0,7.1,0,0
+Walter Cameron,United States,7.2,0,0,7.3,0,1
+Haji Wright,United States,7.2,0,0,7.3,0,1
+Davy Lassiter,United States,7.2,0,0,7.3,0,1
+Aldo Chacurian,United States,7.2,0,0,7.3,0,1
+Matt Armas,United States,7.4,1,1,7.5,1,2
+Brad Souza,United States,7.4,1,1,7.5,1,2
+Sam Vines,United States,7.4,1,1,7.5,1,2
+Claudio Ferreira,United States,7.4,1,1,7.5,1,2
+Frank Klopas,United States,7.6,2,1,7.6,2,1
+Brek Ferreira,United States,7.6,2,1,7.6,2,1
+Roberto Junior Fernández,Paraguay,7.0,0,0,7.1,0,0
+Florencio da Silva,Paraguay,7.2,0,0,7.3,0,1
+Martín Flor,Paraguay,7.2,0,0,7.3,0,1
+Piero Hincapié,Paraguay,7.2,0,0,7.3,0,1
+Eladio Ortiz,Paraguay,7.2,0,0,7.3,0,1
+Alejandro Romero Gamarra,Paraguay,7.4,1,1,7.5,1,2
+Ireneo Hermosilla,Paraguay,7.4,1,1,7.5,1,2
+Adalberto Morínigo,Paraguay,7.4,1,1,7.5,1,2
+Ángel Jara Saguier,Paraguay,7.4,1,1,7.5,1,2
+Romulo Guirland,Paraguay,7.6,2,1,7.6,2,1
+Lino Nessi,Paraguay,7.6,2,1,7.6,2,1
+Meshaal Barsham,Qatar,7.0,0,0,7.1,0,0
+Abdul Mendes,Qatar,7.2,0,0,7.3,0,1
+Abdelkarim Hassan,Qatar,7.2,0,0,7.3,0,1
+Khalifa Al-Sulaiti,Qatar,7.2,0,0,7.3,0,1
+Anbar Sulaiti,Qatar,7.2,0,0,7.3,0,1
+Rayed Al-Boloushi,Qatar,7.4,1,1,7.5,1,2
+Fábio César Montezine,Qatar,7.4,1,1,7.5,1,2
+Adel Salem Al-Mal,Qatar,7.4,1,1,7.5,1,2
+Saleh Eid Al-Mehaizaa,Qatar,7.4,1,1,7.5,1,2
+Karim Meshaal,Qatar,7.6,2,1,7.6,2,1
+Ali Mohammed Al-Saadah,Qatar,7.6,2,1,7.6,2,1
+Yann Sommer,Switzerland,7.0,0,0,7.1,0,0
+Robert Lüthi,Switzerland,7.2,0,0,7.3,0,1
+Karl Odermatt,Switzerland,7.2,0,0,7.3,0,1
+Fabian Schär,Switzerland,7.2,0,0,7.3,0,1
+Haris Sforza,Switzerland,7.2,0,0,7.3,0,1
+Christian Fassnacht,Switzerland,7.4,1,1,7.5,1,2
+René-Pierre Aebischer,Switzerland,7.4,1,1,7.5,1,2
+Amir Rrahmani,Switzerland,7.4,1,1,7.5,1,2
+Xherdan Frigerio,Switzerland,7.4,1,1,7.5,1,2
+Alfred Bickel,Switzerland,7.6,2,1,7.6,2,1
+Ruben Vargas,Switzerland,7.6,2,1,7.6,2,1
+Alisson Becker,Brazil,7.0,0,0,7.1,0,0
+Marquinhos,Brazil,7.2,0,0,7.3,0,1
+Éder Militão,Brazil,7.2,0,0,7.3,0,1
+Gabriel Magalhães,Brazil,7.2,0,0,7.3,0,1
+Raí,Brazil,7.2,0,0,7.3,0,1
+Bruno Guimarães,Brazil,7.4,1,1,7.5,1,2
+Lucas Paquetá,Brazil,7.4,1,1,7.5,1,2
+Jairzinho Belletti,Brazil,7.4,1,1,7.5,1,2
+Walter Sisenando,Brazil,7.4,1,1,7.5,1,2
+Vinícius Júnior,Brazil,7.9,2,2,8.3,3,2
+Rodrygo,Brazil,7.6,2,1,7.6,2,1
+Yassine Bounou,Morocco,7.0,0,0,7.1,0,0
+Achraf Hakimi,Morocco,7.2,0,0,7.3,0,1
+Khalid Boutaïb,Morocco,7.2,0,0,7.3,0,1
+Abdelfettah Zairi,Morocco,7.2,0,0,7.3,0,1
+Zakaria Belhanda,Morocco,7.2,0,0,7.3,0,1
+Hakim Ziyech,Morocco,7.4,1,1,7.5,1,2
+Sofyan Amrabat,Morocco,7.4,1,1,7.5,1,2
+Abdelmajid Bouyboud,Morocco,7.4,1,1,7.5,1,2
+Said Rokbi,Morocco,7.4,1,1,7.5,1,2
+Youssef En-Nesyri,Morocco,7.6,2,1,7.6,2,1
+Brahim Díaz,Morocco,7.6,2,1,7.6,2,1
+Johny Placide,Haiti,7.0,0,0,7.1,0,0
+Jean-Kévin Duverne,Haiti,7.2,0,0,7.3,0,1
+Réginal Goreux,Haiti,7.2,0,0,7.3,0,1
+Carnejy Pierre-Louis,Haiti,7.2,0,0,7.3,0,1
+Frantz Pierre,Haiti,7.2,0,0,7.3,0,1
+Jean-Eudes Maurice,Haiti,7.4,1,1,7.5,1,2
+Angelo Guerrier,Haiti,7.4,1,1,7.5,1,2
+Leonel Saint-Preux,Haiti,7.4,1,1,7.5,1,2
+Corriolan Wadson,Haiti,7.4,1,1,7.5,1,2
+James Wadson,Haiti,7.6,2,1,7.6,2,1
+Reynold Lafrance,Haiti,7.6,2,1,7.6,2,1
+Angus Gunn,Scotland,7.0,0,0,7.1,0,0
+Ross Findlay,Scotland,7.2,0,0,7.3,0,1
+Callum McGregor,Scotland,7.2,0,0,7.3,0,1
+Ben Patterson,Scotland,7.2,0,0,7.3,0,1
+Peter McStay,Scotland,7.2,0,0,7.3,0,1
+Jimmy Murray,Scotland,7.4,1,1,7.5,1,2
+Christian Hewie,Scotland,7.4,1,1,7.5,1,2
+Steven Thompson,Scotland,7.4,1,1,7.5,1,2
+Oliver Burke,Scotland,7.4,1,1,7.5,1,2
+Craig Beattie,Scotland,7.6,2,1,7.6,2,1
+Paul Hartley,Scotland,7.6,2,1,7.6,2,1
+Mathew Ryan,Australia,7.0,0,0,7.1,0,0
+Brandon Borrello,Australia,7.2,0,0,7.3,0,1
+John Iredale,Australia,7.2,0,0,7.3,0,1
+Nestory Irankunda,Australia,7.2,0,0,7.3,0,1
+Kris Trajanovski,Australia,7.2,0,0,7.3,0,1
+Mile Sterjovski,Australia,7.4,1,1,7.5,1,2
+Jason Davidson,Australia,7.4,1,1,7.5,1,2
+Keanu Baccus,Australia,7.4,1,1,7.5,1,2
+Chris Juric,Australia,7.4,1,1,7.5,1,2
+Vic Baccus,Australia,7.6,2,1,7.6,2,1
+Ken Boden,Australia,7.6,2,1,7.6,2,1
+Mert Günok,Turkey,7.0,0,0,7.1,0,0
+Fevzi Zemzem,Turkey,7.2,0,0,7.3,0,1
+Aydın Yelken,Turkey,7.2,0,0,7.3,0,1
+Tayfur Havutçu,Turkey,7.2,0,0,7.3,0,1
+Ender Konca,Turkey,7.2,0,0,7.3,0,1
+Fatih Toraman,Turkey,7.4,1,1,7.5,1,2
+Tuncay Şanlı,Turkey,7.4,1,1,7.5,1,2
+Orhan Çıkırıkçı,Turkey,7.4,1,1,7.5,1,2
+Rıza Erdinç,Turkey,7.4,1,1,7.5,1,2
+Samet Akaydin,Turkey,7.6,2,1,7.6,2,1
+Emre Belözoğlu,Turkey,7.6,2,1,7.6,2,1
+Marc-André ter Stegen,Germany,7.0,0,0,7.1,0,0
+Joshua Kimmich,Germany,7.2,0,0,7.3,0,1
+Antonio Rüdiger,Germany,7.2,0,0,7.3,0,1
+Jonathan Tah,Germany,7.2,0,0,7.3,0,1
+Cacau Santos,Germany,7.2,0,0,7.3,0,1
+Florian Wirtz,Germany,7.4,1,1,7.5,1,2
+Jamal Musiala,Germany,7.4,1,1,7.5,1,2
+Ilkay Gündogan,Germany,7.4,1,1,7.5,1,2
+Yogan Santos,Germany,7.4,1,1,7.5,1,2
+Kai Havertz,Germany,7.6,2,1,7.6,2,1
+Leroy Sané,Germany,7.6,2,1,7.6,2,1
+Eloy Room,Curaçao,7.0,0,0,7.1,0,0
+Martijn Brandborg,Curaçao,7.2,0,0,7.3,0,1
+Edwin Miliano Loran,Curaçao,7.2,0,0,7.3,0,1
+Gijsberta Chong,Curaçao,7.2,0,0,7.3,0,1
+Toribio Antonia,Curaçao,7.2,0,0,7.3,0,1
+Sontje Hansen,Curaçao,7.4,1,1,7.5,1,2
+Elson Comenencia,Curaçao,7.4,1,1,7.5,1,2
+Edgard Meulens,Curaçao,7.4,1,1,7.5,1,2
+Edrick de Lanoy,Curaçao,7.4,1,1,7.5,1,2
+Virgilio Sillie,Curaçao,7.6,2,1,7.6,2,1
+Rihairo Meulens,Curaçao,7.6,2,1,7.6,2,1
+Yahia Fofana,Ivory Coast,7.0,0,0,7.1,0,0
+Romaric,Ivory Coast,7.2,0,0,7.3,0,1
+Abdul Kouassi Kouame,Ivory Coast,7.2,0,0,7.3,0,1
+Kolo Touré,Ivory Coast,7.2,0,0,7.3,0,1
+Wilfried Zaha,Ivory Coast,7.2,0,0,7.3,0,1
+Seydou Dao,Ivory Coast,7.4,1,1,7.5,1,2
+Bernard N'Guessan,Ivory Coast,7.4,1,1,7.5,1,2
+Youssouf Falikou Fofana,Ivory Coast,7.4,1,1,7.5,1,2
+Lassina Dao,Ivory Coast,7.4,1,1,7.5,1,2
+Ahmed Abou El Fotouh,Ivory Coast,7.6,2,1,7.6,2,1
+Oumar Diakité,Ivory Coast,7.6,2,1,7.6,2,1
+Hernán Galíndez,Ecuador,7.0,0,0,7.1,0,0
+Hans Villacreses,Ecuador,7.2,0,0,7.3,0,1
+Christian Alvarez,Ecuador,7.2,0,0,7.3,0,1
+Ayrton Soliz,Ecuador,7.2,0,0,7.3,0,1
+Jordy Arboleda,Ecuador,7.2,0,0,7.3,0,1
+Máximo Tenorio,Ecuador,7.4,1,1,7.5,1,2
+Walter Ayoví,Ecuador,7.4,1,1,7.5,1,2
+Ney Ibarra,Ecuador,7.4,1,1,7.5,1,2
+Kevin Klinger,Ecuador,7.4,1,1,7.5,1,2
+Kevin Artega,Ecuador,7.6,2,1,7.6,2,1
+Gonzalo Montaño,Ecuador,7.6,2,1,7.6,2,1
+Bart Verbruggen,Netherlands,7.0,0,0,7.1,0,0
+Virgil van Dijk,Netherlands,7.2,0,0,7.3,0,1
+Nathan Aké,Netherlands,7.2,0,0,7.3,0,1
+Denzel Dumfries,Netherlands,7.2,0,0,7.3,0,1
+Jeremie Frimpong,Netherlands,7.2,0,0,7.3,0,1
+Xavi Simons,Netherlands,7.4,1,1,7.5,1,2
+Tijjani Reijnders,Netherlands,7.4,1,1,7.5,1,2
+John Bosman,Netherlands,7.4,1,1,7.5,1,2
+Jan Rensenbrink,Netherlands,7.4,1,1,7.5,1,2
+Cody Gakpo,Netherlands,7.6,2,1,7.6,2,1
+Memphis Depay,Netherlands,7.6,2,1,7.6,2,1
+Zion Suzuki,Japan,7.0,0,0,7.1,0,0
+Katsuyoshi Shinto,Japan,7.2,0,0,7.3,0,1
+Kazuyoshi Miura,Japan,7.2,0,0,7.3,0,1
+Wagner Mori,Japan,7.2,0,0,7.3,0,1
+Hiromi Hara,Japan,7.2,0,0,7.3,0,1
+Wataru Endo,Japan,7.4,1,1,7.5,1,2
+Takumi Minamino,Japan,7.4,1,1,7.5,1,2
+Makoto Hasebe,Japan,7.4,1,1,7.5,1,2
+Koki Ogawa,Japan,7.4,1,1,7.5,1,2
+Kaoru Mitoma,Japan,7.6,2,1,7.6,2,1
+Takefusa Kubo,Japan,7.6,2,1,7.6,2,1
+Robin Olsen,Sweden,7.0,0,0,7.1,0,0
+Arne Selmosson,Sweden,7.2,0,0,7.3,0,1
+Aldo Lundgren,Sweden,7.2,0,0,7.3,0,1
+Emil Holm,Sweden,7.2,0,0,7.3,0,1
+Aldo Junior Simoncini,Sweden,7.2,0,0,7.3,0,1
+Andreas Simoncini,Sweden,7.4,1,1,7.5,1,2
+Dan Rosenberg,Sweden,7.4,1,1,7.5,1,2
+Ken Sema,Sweden,7.4,1,1,7.5,1,2
+Agne Cervin,Sweden,7.4,1,1,7.5,1,2
+Patrik Andersson,Sweden,7.6,2,1,7.6,2,1
+Robert Prytz,Sweden,7.6,2,1,7.6,2,1
+Amanallah Memmiche,Tunisia,7.0,0,0,7.1,0,0
+Ellyes Sassi,Tunisia,7.2,0,0,7.3,0,1
+Chaouki Ben Saada,Tunisia,7.2,0,0,7.3,0,1
+Kais Yâakoubi,Tunisia,7.2,0,0,7.3,0,1
+Bassam Ben Larbi,Tunisia,7.2,0,0,7.3,0,1
+Hakim Merrichkou,Tunisia,7.4,1,1,7.5,1,2
+Ezzedine Gasri,Tunisia,7.4,1,1,7.5,1,2
+Adel Chedli,Tunisia,7.4,1,1,7.5,1,2
+Ali Kaabi,Tunisia,7.4,1,1,7.5,1,2
+Lotfi Hsoumi,Tunisia,7.6,2,1,7.6,2,1
+Mehdi Ben Slimane,Tunisia,7.6,2,1,7.6,2,1
+Koen Casteels,Belgium,7.0,0,0,7.1,0,0
+Timothy Castagne,Belgium,7.2,0,0,7.3,0,1
+Wout Faes,Belgium,7.2,0,0,7.3,0,1
+Luc Nilis,Belgium,7.2,0,0,7.3,0,1
+Nico Hazard,Belgium,7.2,0,0,7.3,0,1
+Kevin De Bruyne,Belgium,7.4,1,1,7.5,1,2
+Amadou Onana,Belgium,7.4,1,1,7.5,1,2
+Kypros Christoforou,Belgium,7.4,1,1,7.5,1,2
+Cristian Brolli,Belgium,7.4,1,1,7.5,1,2
+Romelu Lukaku,Belgium,7.6,2,1,7.6,2,1
+Leandro Trossard,Belgium,7.6,2,1,7.6,2,1
+Mohamed El Shenawy,Egypt,7.0,0,0,7.1,0,0
+Hussein El-Hamouly,Egypt,7.2,0,0,7.3,0,1
+Ahmed Abdel Baki,Egypt,7.2,0,0,7.3,0,1
+Mwepu Halim Ali,Egypt,7.2,0,0,7.3,0,1
+Moustafa El Said,Egypt,7.2,0,0,7.3,0,1
+Alaa Mayhoub,Egypt,7.4,1,1,7.5,1,2
+Taher Abouzeid,Egypt,7.4,1,1,7.5,1,2
+Yasser Radwan,Egypt,7.4,1,1,7.5,1,2
+Dario Abou Rehab,Egypt,7.6,2,1,7.6,2,1
+Mohamed Abdel-Shafy,Egypt,7.6,2,1,7.6,2,1
+Alireza Beiranvand,Iran,7.0,0,0,7.1,0,0
+Mohammad Hassan Ansarifard,Iran,7.2,0,0,7.3,0,1
+Masoud Dinmohammadi,Iran,7.2,0,0,7.3,0,1
+Javad Parvin,Iran,7.2,0,0,7.3,0,1
+Amirhossein Rowshan,Iran,7.2,0,0,7.3,0,1
+Sirous Dinmohammadi,Iran,7.4,1,1,7.5,1,2
+Ramin Rezaeian,Iran,7.4,1,1,7.5,1,2
+Sayed Hashemian,Iran,7.4,1,1,7.5,1,2
+Zia Azizi,Iran,7.4,1,1,7.5,1,2
+Parviz Ghelichkhani,Iran,7.6,2,1,7.6,2,1
+Samad Hassanzadeh,Iran,7.6,2,1,7.6,2,1
+Alex Paulsen,New Zealand,7.0,0,0,7.1,0,0
+Rory Just,New Zealand,7.2,0,0,7.3,0,1
+Brent Thomas,New Zealand,7.2,0,0,7.3,0,1
+Rupert Ryan,New Zealand,7.2,0,0,7.3,0,1
+Colin Walker,New Zealand,7.2,0,0,7.3,0,1
+Marco Rojas,New Zealand,7.4,1,1,7.5,1,2
+Rory Chih Tsong,New Zealand,7.4,1,1,7.5,1,2
+Jeff Perry,New Zealand,7.4,1,1,7.5,1,2
+Adrian Elrick,New Zealand,7.4,1,1,7.5,1,2
+Neil Jones,New Zealand,7.6,2,1,7.6,2,1
+Raf Rufer,New Zealand,7.6,2,1,7.6,2,1
+Unai Simón,Spain,7.0,0,0,7.1,0,0
+Dani Carvajal,Spain,7.2,0,0,7.3,0,1
+Robin Le Normand,Spain,7.2,0,0,7.3,0,1
+Aymeric Laporte,Spain,7.2,0,0,7.3,0,1
+Marc Cucurella,Spain,7.2,0,0,7.3,0,1
+Rodri,Spain,8.0,1,1,8.3,1,2
+Fabián Ruiz,Spain,7.4,1,1,7.5,1,2
+Dani Olmo,Spain,7.4,1,1,7.5,1,2
+Lamine Yamal,Spain,7.9,2,3,8.1,2,3
+Nico Williams,Spain,7.7,1,2,7.6,1,2
+Álvaro Morata,Spain,7.1,2,0,7.3,3,0
+Vozinha,Cape Verde,7.0,0,0,7.1,0,0
+Stopira,Cape Verde,7.2,0,0,7.3,0,1
+Diney,Cape Verde,7.2,0,0,7.3,0,1
+Jovane Modeste,Cape Verde,7.2,0,0,7.3,0,1
+Odaïr Tavares,Cape Verde,7.2,0,0,7.3,0,1
+Arlindo Filipe Correia Semedo,Cape Verde,7.4,1,1,7.5,1,2
+Nuno Miguel Monteiro Rocha,Cape Verde,7.4,1,1,7.5,1,2
+Yannick Semedo,Cape Verde,7.4,1,1,7.5,1,2
+Nuno Ramos,Cape Verde,7.4,1,1,7.5,1,2
+Jovane Cabral,Cape Verde,7.6,2,1,7.6,2,1
+Platini Morais Caló,Cape Verde,7.6,2,1,7.6,2,1
+Ahmed Al-Kassar,Saudi Arabia,7.0,0,0,7.1,0,0
+Fares Juma,Saudi Arabia,7.2,0,0,7.3,0,1
+Mohaisen Al-Jam'an,Saudi Arabia,7.2,0,0,7.3,0,1
+Ibrahim Al-Harbi,Saudi Arabia,7.2,0,0,7.3,0,1
+Saud Lajami,Saudi Arabia,7.2,0,0,7.3,0,1
+Saeed Al-Waked,Saudi Arabia,7.4,1,1,7.5,1,2
+Saleh Al-Suwaiyed Shehrani,Saudi Arabia,7.4,1,1,7.5,1,2
+Fares Al-Waked,Saudi Arabia,7.4,1,1,7.5,1,2
+Ahmed Al Nifawi,Saudi Arabia,7.4,1,1,7.5,1,2
+Obeid Jamil Madani,Saudi Arabia,7.6,2,1,7.6,2,1
+Ali Al-Hassan,Saudi Arabia,7.6,2,1,7.6,2,1
+Sergio Rochet,Uruguay,7.0,0,0,7.1,0,0
+Nahitan Nández,Uruguay,7.2,0,0,7.3,0,1
+Ronald Araújo,Uruguay,7.2,0,0,7.3,0,1
+Mathías Olivera,Uruguay,7.2,0,0,7.3,0,1
+Matías Viña,Uruguay,7.2,0,0,7.3,0,1
+Federico Valverde,Uruguay,7.9,1,1,8.0,1,1
+Manuel Ugarte,Uruguay,7.4,1,1,7.5,1,2
+Nicolás de la Cruz,Uruguay,7.4,1,1,7.5,1,2
+Facundo Pellistri,Uruguay,7.6,2,1,7.6,2,1
+Darwin Núñez,Uruguay,7.8,5,1,7.2,2,1
+Maximiliano Araújo,Uruguay,7.6,2,1,7.6,2,1
+Mike Maignan,France,7.0,0,0,7.1,0,0
+Jules Koundé,France,7.2,0,0,7.3,0,1
+William Saliba,France,7.2,0,0,7.3,0,1
+Dayot Upamecano,France,7.2,0,0,7.3,0,1
+Theo Hernandez,France,7.2,0,0,7.3,0,1
+Aurélien Tchouaméni,France,7.4,1,1,7.5,1,2
+N'Golo Kanté,France,7.4,1,1,7.5,1,2
+Antoine Griezmann,France,7.6,1,2,7.8,2,3
+Ousmane Dembélé,France,7.6,2,1,7.6,2,1
+Kylian Mbappé,France,8.3,4,2,7.9,3,1
+Bradley Barcola,France,7.6,2,1,7.6,2,1
+Édouard Mendy,Senegal,7.0,0,0,7.1,0,0
+Mamadou Niang,Senegal,7.2,0,0,7.3,0,1
+Thierno Youm,Senegal,7.2,0,0,7.3,0,1
+Omar Pierre Diéme,Senegal,7.2,0,0,7.3,0,1
+Khalilou N'Diaye,Senegal,7.2,0,0,7.3,0,1
+Pape Hadji Diouf,Senegal,7.4,1,1,7.5,1,2
+Henri Sané,Senegal,7.4,1,1,7.5,1,2
+Famara Diédhiou,Senegal,7.4,1,1,7.5,1,2
+Kader Mangane,Senegal,7.4,1,1,7.5,1,2
+Ibrahima Sonko,Senegal,7.6,2,1,7.6,2,1
+Ibrahima Baldé,Senegal,7.6,2,1,7.6,2,1
+Jalal Hassan,Iraq,7.0,0,0,7.1,0,0
+Hussam Fawzi,Iraq,7.2,0,0,7.3,0,1
+Emad Mohammed,Iraq,7.2,0,0,7.3,0,1
+Younis Mahmoud,Iraq,7.2,0,0,7.3,0,1
+Humam Ismail,Iraq,7.2,0,0,7.3,0,1
+Aymen Kalaf,Iraq,7.4,1,1,7.5,1,2
+Hesham Mohammed,Iraq,7.4,1,1,7.5,1,2
+Ahmed Radhi,Iraq,7.4,1,1,7.5,1,2
+Zidane Iqbal,Iraq,7.4,1,1,7.5,1,2
+Karim Saddam,Iraq,7.6,2,1,7.6,2,1
+Akram Khalaf,Iraq,7.6,2,1,7.6,2,1
+Ørjan Nyland,Norway,7.0,0,0,7.1,0,0
+Julian Ryerson,Norway,7.2,0,0,7.3,0,1
+Andreas Hanche-Olsen,Norway,7.2,0,0,7.3,0,1
+Leo Østigård,Norway,7.2,0,0,7.3,0,1
+David Møller Wolfe,Norway,7.2,0,0,7.3,0,1
+Martin Ødegaard,Norway,7.8,1,3,8.2,2,4
+Sander Berge,Norway,7.4,1,1,7.5,1,2
+Kristian Thorstvedt,Norway,7.4,1,1,7.5,1,2
+Oscar Bobb,Norway,7.6,2,1,7.6,2,1
+Erling Haaland,Norway,8.1,6,0,8.4,5,1
+Antonio Nusa,Norway,7.6,2,1,7.6,2,1
+Emiliano Martínez,Argentina,7.0,0,0,7.1,0,0
+Cristian Romero,Argentina,7.2,0,0,7.3,0,1
+Lisandro Martínez,Argentina,7.2,0,0,7.3,0,1
+Nicolas Otamendi,Argentina,7.2,0,0,7.3,0,1
+Jose Albornoz,Argentina,7.2,0,0,7.3,0,1
+Alexis Mac Allister,Argentina,7.4,1,1,7.5,1,2
+Enzo Fernández,Argentina,7.4,1,1,7.5,1,2
+Rodrigo De Paul,Argentina,7.4,1,1,7.5,1,2
+Ángel Correa,Argentina,7.4,1,1,7.5,1,2
+Lionel Messi,Argentina,8.0,3,2,8.1,4,2
+Lautaro Martínez,Argentina,7.6,2,1,7.6,2,1
+Anthony Mandrea,Algeria,7.0,0,0,7.1,0,0
+Djamel Zidane,Algeria,7.2,0,0,7.3,0,1
+Abdelmoumene Mansouri,Algeria,7.2,0,0,7.3,0,1
+Omar Betrouni,Algeria,7.2,0,0,7.3,0,1
+Mourad Meziane,Algeria,7.2,0,0,7.3,0,1
+Hacène Lalmas,Algeria,7.4,1,1,7.5,1,2
+Moussa Belaïd,Algeria,7.4,1,1,7.5,1,2
+Djamel Belmadi,Algeria,7.4,1,1,7.5,1,2
+Hocine Achiou,Algeria,7.4,1,1,7.5,1,2
+Hocine Benrahma,Algeria,7.6,2,1,7.6,2,1
+Said Benrahma,Algeria,7.6,2,1,7.6,2,1
+Patrick Pentz,Austria,7.0,0,0,7.1,0,0
+Anton Aufhauser,Austria,7.2,0,0,7.3,0,1
+Camillo Hasil,Austria,7.2,0,0,7.3,0,1
+Adi Hanappi,Austria,7.2,0,0,7.3,0,1
+Karim Bican,Austria,7.2,0,0,7.3,0,1
+Louis Schaub,Austria,7.4,1,1,7.5,1,2
+Felix Gasselich,Austria,7.4,1,1,7.5,1,2
+Hannes Reinmayr,Austria,7.4,1,1,7.5,1,2
+Saša Kalajdžić,Austria,7.4,1,1,7.5,1,2
+Marcel Sabitzer,Austria,7.6,2,1,7.6,2,1
+Helmut Redl,Austria,7.6,2,1,7.6,2,1
+Yazeed Abulaila,Jordan,7.0,0,0,7.1,0,0
+Ahmad Ersan,Jordan,7.2,0,0,7.3,0,1
+Mohamed Al-Diabaz,Jordan,7.2,0,0,7.3,0,1
+Hassan Abdel-Fattah,Jordan,7.2,0,0,7.3,0,1
+Odai Al-Saify,Jordan,7.2,0,0,7.3,0,1
+Mahmoud Al-Mardi,Jordan,7.4,1,1,7.5,1,2
+Hassouneh Al-Bakhit,Jordan,7.4,1,1,7.5,1,2
+Musa Al-Taamari,Jordan,7.4,1,1,7.5,1,2
+Baha' Faisal,Jordan,7.4,1,1,7.5,1,2
+Noor Al-Khateeb,Jordan,7.6,2,1,7.6,2,1
+Munther Abdel-Rahman,Jordan,7.6,2,1,7.6,2,1
+Diogo Costa,Portugal,7.0,0,0,7.1,0,0
+Rúben Dias,Portugal,7.2,0,0,7.3,0,1
+João Cancelo,Portugal,7.2,0,0,7.3,0,1
+José Augusto Torres,Portugal,7.2,0,0,7.3,0,1
+Matateu Boye,Portugal,7.2,0,0,7.3,0,1
+Bruno Fernandes,Portugal,7.4,1,1,7.5,1,2
+Bernardo Silva,Portugal,7.4,1,1,7.5,1,2
+Vitinha,Portugal,7.4,1,1,7.5,1,2
+Ivan Ronaldo,Portugal,7.4,1,1,7.5,1,2
+Cristiano Ronaldo,Portugal,7.8,3,1,8.0,4,1
+Rafael Leão,Portugal,7.6,2,1,7.6,2,1
+Lionel Mpasi,DR Congo,7.0,0,0,7.1,0,0
+Théo Ngassebe,DR Congo,7.2,0,0,7.3,0,1
+Monduone N'Kama,DR Congo,7.2,0,0,7.3,0,1
+Nathan Fasika,DR Congo,7.2,0,0,7.3,0,1
+Lomana LuaLua,DR Congo,7.2,0,0,7.3,0,1
+Paul-José M'Poku,DR Congo,7.4,1,1,7.5,1,2
+Yves Yuvuladio,DR Congo,7.4,1,1,7.5,1,2
+Jerry Tondelua,DR Congo,7.4,1,1,7.5,1,2
+Nathanaël Mbuku,DR Congo,7.4,1,1,7.5,1,2
+Michel Lukaku,DR Congo,7.6,2,1,7.6,2,1
+Nkiere Wawa,DR Congo,7.6,2,1,7.6,2,1
+Utkir Yusupov,Uzbekistan,7.0,0,0,7.1,0,0
+Mirjalol Lushan,Uzbekistan,7.2,0,0,7.3,0,1
+Stanislav Andreev,Uzbekistan,7.2,0,0,7.3,0,1
+Khojiakbar Alijonov,Uzbekistan,7.2,0,0,7.3,0,1
+Ulugbek Karpenko,Uzbekistan,7.2,0,0,7.3,0,1
+Timur Sergeev,Uzbekistan,7.4,1,1,7.5,1,2
+Egor Krimets,Uzbekistan,7.4,1,1,7.5,1,2
+Timur Kapadze,Uzbekistan,7.4,1,1,7.5,1,2
+Maksim Shkvyrin,Uzbekistan,7.4,1,1,7.5,1,2
+Sanjar Koshelev,Uzbekistan,7.6,2,1,7.6,2,1
+Jafar Salomov,Uzbekistan,7.6,2,1,7.6,2,1
+Camilo Vargas,Colombia,7.0,0,0,7.1,0,0
+Daniel Muñoz,Colombia,7.2,0,0,7.3,0,1
+Davinson Sánchez,Colombia,7.2,0,0,7.3,0,1
+Sergio Moreno,Colombia,7.2,0,0,7.3,0,1
+Antonio Zapata,Colombia,7.2,0,0,7.3,0,1
+James Rodríguez,Colombia,7.4,1,1,7.5,1,2
+Jefferson Lerma,Colombia,7.4,1,1,7.5,1,2
+Jefferson Hernández,Colombia,7.4,1,1,7.5,1,2
+Carlos Valderrama,Colombia,7.4,1,1,7.5,1,2
+Luis Díaz,Colombia,7.6,2,1,7.6,2,1
+Jhon Durán,Colombia,7.6,2,1,7.6,2,1
+Jordan Pickford,England,7.0,0,0,7.1,0,0
+John Stones,England,7.2,0,0,7.3,0,1
+Kyle Walker,England,7.2,0,0,7.3,0,1
+Trent Alexander-Arnold,England,7.2,0,0,7.3,0,1
+Kieran Trippier,England,7.2,0,0,7.3,0,1
+Jude Bellingham,England,8.0,2,2,8.1,2,3
+Phil Foden,England,7.4,1,1,7.5,1,2
+Declan Rice,England,7.4,1,1,7.5,1,2
+Cole Palmer,England,7.4,1,1,7.5,1,2
+Harry Kane,England,7.9,4,1,8.2,5,2
+Bukayo Saka,England,7.8,2,1,8.0,2,2
+Dominik Livaković,Croatia,7.0,0,0,7.1,0,0
+Lovro Majer,Croatia,7.2,0,0,7.3,0,1
+Milan Rapaić,Croatia,7.2,0,0,7.3,0,1
+Dejan Štimac,Croatia,7.2,0,0,7.3,0,1
+Mladen Petrić,Croatia,7.2,0,0,7.3,0,1
+Ante Budimir,Croatia,7.4,1,1,7.5,1,2
+Darijo Srna,Croatia,7.4,1,1,7.5,1,2
+Dado Pršo,Croatia,7.4,1,1,7.5,1,2
+Marko Vlaović,Croatia,7.4,1,1,7.5,1,2
+Robert Pršo,Croatia,7.6,2,1,7.6,2,1
+Davor Šuker,Croatia,7.6,2,1,7.6,2,1
+Lawrence Ati-Zigi,Ghana,7.0,0,0,7.1,0,0
+Edwin Armah,Ghana,7.2,0,0,7.3,0,1
+Joseph Draman,Ghana,7.2,0,0,7.3,0,1
+Baba Draman,Ghana,7.2,0,0,7.3,0,1
+Sulley Muntari,Ghana,7.2,0,0,7.3,0,1
+Charles Majeed Waris,Ghana,7.4,1,1,7.5,1,2
+Mohammed Gargo,Ghana,7.4,1,1,7.5,1,2
+Ishmael Kingston,Ghana,7.4,1,1,7.5,1,2
+Nélson Preko,Ghana,7.4,1,1,7.5,1,2
+Arthur Bedoui,Ghana,7.6,2,1,7.6,2,1
+Arthur Moses,Ghana,7.6,2,1,7.6,2,1
+Orlando Mosquera,Panama,7.0,0,0,7.1,0,0
+Yassine Martínez,Panama,7.2,0,0,7.3,0,1
+Benjamín Smith,Panama,7.2,0,0,7.3,0,1
+Javain Brown,Panama,7.2,0,0,7.3,0,1
+Benjamín Piggott,Panama,7.2,0,0,7.3,0,1
+Miguel Camargo,Panama,7.4,1,1,7.5,1,2
+Ricardo Phillips,Panama,7.4,1,1,7.5,1,2
+Román Torres,Panama,7.4,1,1,7.5,1,2
+Yoel Góyez,Panama,7.4,1,1,7.5,1,2
+Amir Waithe,Panama,7.6,2,1,7.6,2,1
+Carlos Gabriel Rodríguez,Panama,7.6,2,1,7.6,2,1

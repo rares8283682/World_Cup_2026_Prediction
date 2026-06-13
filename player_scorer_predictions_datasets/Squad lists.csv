@@ -1,0 +1,1249 @@
+team,player_name,position,detailed_role,age,club,club_minutes_2025_26,intl_minutes_qualifiers
+Algeria,Anthony Mandrea,GK,Sweeper Keeper,29,Club_Algeria,2835,848
+Algeria,Brahim Aouar,GK,Sweeper Keeper,28,Club_Algeria,1395,238
+Algeria,Nacer Bouiche,GK,Sweeper Keeper,24,Club_Algeria,421,264
+Algeria,Djamel Zidane,DF,Attacking Fullback,28,Club_Algeria,387,422
+Algeria,Abdelmoumene Mansouri,DF,Inverted Wingback,25,Club_Algeria,1987,180
+Algeria,Omar Betrouni,DF,No-Sense CB,19,Club_Algeria,643,463
+Algeria,Mourad Meziane,DF,No-Sense CB,19,Club_Algeria,1515,493
+Algeria,Ramiz Zerrouki,DF,Ball-Playing CB,18,Club_Algeria,759,363
+Algeria,Moussa Saïb,DF,No-Sense CB,29,Club_Algeria,1156,98
+Algeria,Abdelmoumene Belmadi,DF,Attacking Fullback,27,Club_Algeria,1799,237
+Algeria,Ramy Bensebaini,DF,Inverted Wingback,32,Club_Algeria,489,495
+Algeria,Hacène Lalmas,MF,Ball-Winning Midfielder,29,Club_Algeria,1890,293
+Algeria,Moussa Belaïd,MF,Advanced Playmaker,20,Club_Algeria,1808,356
+Algeria,Djamel Belmadi,MF,Ball-Winning Midfielder,26,Club_Algeria,466,323
+Algeria,Hocine Achiou,MF,Advanced Playmaker,31,Club_Algeria,541,314
+Algeria,Cheikh Gueye,MF,Box-to-Box Midfielder,19,Club_Algeria,1663,141
+Algeria,Sofiane Daoud,MF,Ball-Winning Midfielder,24,Club_Algeria,1751,313
+Algeria,Zakariya Matmour,MF,Ball-Winning Midfielder,20,Club_Algeria,505,130
+Algeria,Hocine Yahi,MF,Advanced Playmaker,25,Club_Algeria,1711,51
+Algeria,Hocine Benrahma,FW,Target Man,23,Club_Algeria,865,155
+Algeria,Said Benrahma,FW,Inside Forward,29,Club_Algeria,461,251
+Algeria,Djamel Assad,FW,Target Man,21,Club_Algeria,569,400
+Algeria,Ali Fergani,FW,Inside Forward,32,Club_Algeria,755,264
+Algeria,Farid Ghazi,FW,Inside Forward,25,Club_Algeria,1019,286
+Algeria,Hacène Kraouche,FW,Target Man,32,Club_Algeria,1376,329
+Algeria,Hocine Ghilas,FW,Target Man,30,Club_Algeria,1364,206
+Argentina,Emiliano Martínez,GK,Sweeper Keeper,23,Aston Villa,2920,843
+Argentina,Lionel Messi,FW,Inverted Winger,31,Inter Miami,2447,871
+Argentina,Lautaro Martínez,FW,Poacher,30,Inter Milan,2392,791
+Argentina,Alexis Mac Allister,MF,Ball-Winning Midfielder,22,Liverpool,2088,778
+Argentina,Enzo Fernández,MF,Deep-Lying Playmaker,29,Chelsea,2030,440
+Argentina,Rodrigo De Paul,MF,Advanced Playmaker,26,Atletico Madrid,2000,432
+Argentina,Cristian Romero,DF,Inverted Wingback,26,Tottenham Hotspur,2206,498
+Argentina,Lisandro Martínez,DF,Inverted Wingback,27,Manchester United,2525,946
+Argentina,Julián Álvarez,FW,Inverted Winger,22,Atletico Madrid,2412,861
+Argentina,Angel Di Maria,FW,Poacher,20,Benfica,2828,617
+Argentina,Nicolas Otamendi,DF,Attacking Fullback,26,Benfica,2594,792
+Argentina,Daniel Díaz,GK,Sweeper Keeper,32,Club_Argentina,1877,429
+Argentina,Vladislao Cap,GK,Sweeper Keeper,24,Club_Argentina,1564,101
+Argentina,Jose Albornoz,DF,Ball-Playing CB,21,Club_Argentina,784,456
+Argentina,Nicolás Tagliafico,DF,Attacking Fullback,30,Club_Argentina,1978,220
+Argentina,Herminio Batistuta,DF,Ball-Playing CB,21,Club_Argentina,824,209
+Argentina,Francisco Pasculli,DF,Attacking Fullback,19,Club_Argentina,981,94
+Argentina,Carlos Guerini,DF,No-Sense CB,23,Club_Argentina,1095,77
+Argentina,Ángel Correa,MF,Advanced Playmaker,29,Club_Argentina,1663,335
+Argentina,Gonzalo Ortega,MF,Box-to-Box Midfielder,28,Club_Argentina,1963,397
+Argentina,Rolf Feltscher,MF,Deep-Lying Playmaker,24,Club_Argentina,489,274
+Argentina,Gabino Marcovecchio,MF,Deep-Lying Playmaker,30,Club_Argentina,1582,408
+Argentina,Humberto Maschio,MF,Box-to-Box Midfielder,25,Club_Argentina,1734,186
+Argentina,José Gaslini,FW,Target Man,22,Club_Argentina,1548,356
+Argentina,José Luis Brown,FW,Target Man,29,Club_Argentina,963,364
+Argentina,Marcos Pellegrina,FW,Target Man,26,Club_Argentina,1436,367
+Australia,Mathew Ryan,GK,Sweeper Keeper,23,Club_Australia,2841,551
+Australia,Brandon Campbell,GK,Line Keeper,24,Club_Australia,1709,436
+Australia,Robbie Dunn,GK,Sweeper Keeper,22,Club_Australia,1948,489
+Australia,Brandon Borrello,DF,Ball-Playing CB,34,Club_Australia,301,179
+Australia,John Iredale,DF,Inverted Wingback,22,Club_Australia,1548,434
+Australia,Nestory Irankunda,DF,Attacking Fullback,19,Club_Australia,1376,221
+Australia,Kris Trajanovski,DF,No-Sense CB,23,Club_Australia,1739,296
+Australia,Ray Abonyi,DF,Inverted Wingback,28,Club_Australia,1507,172
+Australia,Branko Buljevic,DF,Ball-Playing CB,23,Club_Australia,579,374
+Australia,Willie Duke,DF,Inverted Wingback,19,Club_Australia,497,444
+Australia,Alex Dasovic,DF,Attacking Fullback,33,Club_Australia,443,146
+Australia,Mile Sterjovski,MF,Deep-Lying Playmaker,23,Club_Australia,763,398
+Australia,Jason Davidson,MF,Ball-Winning Midfielder,21,Club_Australia,702,395
+Australia,Keanu Baccus,MF,Ball-Winning Midfielder,24,Club_Australia,788,466
+Australia,Chris Juric,MF,Advanced Playmaker,24,Club_Australia,637,409
+Australia,Adam Vidmar,MF,Deep-Lying Playmaker,28,Club_Australia,772,483
+Australia,Branko Cole,MF,Ball-Winning Midfielder,27,Club_Australia,1934,312
+Australia,Warren Spink,MF,Advanced Playmaker,33,Club_Australia,645,161
+Australia,Troy Halpin,MF,Deep-Lying Playmaker,34,Club_Australia,301,434
+Australia,Vic Baccus,FW,Inside Forward,29,Club_Australia,752,86
+Australia,Ken Boden,FW,Inside Forward,26,Club_Australia,1556,148
+Australia,Massimo Byrne,FW,Poacher,33,Club_Australia,507,180
+Australia,Willie Alston,FW,Inside Forward,18,Club_Australia,927,124
+Australia,Arno Popovic,FW,Inverted Winger,25,Club_Australia,1743,471
+Australia,Nathan Barnes,FW,Inside Forward,20,Club_Australia,1435,148
+Australia,Tony Henderson,FW,Inverted Winger,31,Club_Australia,637,243
+Austria,Patrick Pentz,GK,Sweeper Keeper,28,Club_Austria,2562,707
+Austria,Berti Dunne,GK,Sweeper Keeper,26,Club_Austria,460,117
+Austria,Adrian Grbić,GK,Sweeper Keeper,31,Club_Austria,1600,353
+Austria,Anton Aufhauser,DF,Inverted Wingback,25,Club_Austria,1458,244
+Austria,Camillo Hasil,DF,Ball-Playing CB,18,Club_Austria,987,492
+Austria,Adi Hanappi,DF,Attacking Fullback,31,Club_Austria,1993,87
+Austria,Karim Bican,DF,No-Sense CB,30,Club_Austria,862,487
+Austria,Romano Schmid,DF,Inverted Wingback,19,Club_Austria,1600,335
+Austria,Kurt Welzl,DF,Ball-Playing CB,32,Club_Austria,1259,366
+Austria,Ernst Spiteri,DF,Inverted Wingback,21,Club_Austria,846,241
+Austria,Alfred Aigner,DF,Ball-Playing CB,34,Club_Austria,1495,269
+Austria,Louis Schaub,MF,Box-to-Box Midfielder,31,Club_Austria,1696,55
+Austria,Felix Gasselich,MF,Ball-Winning Midfielder,26,Club_Austria,1360,329
+Austria,Hannes Reinmayr,MF,Deep-Lying Playmaker,34,Club_Austria,601,230
+Austria,Saša Kalajdžić,MF,Ball-Winning Midfielder,20,Club_Austria,999,165
+Austria,Walter Schachner,MF,Ball-Winning Midfielder,18,Club_Austria,1579,372
+Austria,Alfred Körner,MF,Advanced Playmaker,27,Club_Austria,865,107
+Austria,Franz Binder,MF,Ball-Winning Midfielder,25,Club_Austria,985,329
+Austria,Fernando Walzhofer,MF,Box-to-Box Midfielder,32,Club_Austria,1153,200
+Austria,Marcel Sabitzer,FW,Target Man,27,Club_Austria,1709,322
+Austria,Helmut Redl,FW,Inside Forward,18,Club_Austria,1716,348
+Austria,Donyell Linz,FW,Target Man,33,Club_Austria,1362,219
+Austria,György Garics,FW,Poacher,20,Club_Austria,1220,457
+Austria,Heimo Grbić,FW,Inverted Winger,24,Club_Austria,335,222
+Austria,Marc Janko,FW,Inside Forward,18,Club_Austria,811,449
+Austria,Emanuel Pogatetz,FW,Target Man,29,Club_Austria,770,192
+Belgium,Koen Casteels,GK,Sweeper Keeper,24,Al-Qadsiah,2450,652
+Belgium,Kevin De Bruyne,MF,Box-to-Box Midfielder,32,Manchester City,1949,713
+Belgium,Romelu Lukaku,FW,Target Man,25,Napoli,2104,453
+Belgium,Leandro Trossard,FW,Poacher,31,Arsenal,2412,663
+Belgium,Amadou Onana,MF,Deep-Lying Playmaker,31,Aston Villa,2803,404
+Belgium,Jérémy Doku,FW,Poacher,23,Manchester City,2573,749
+Belgium,Timothy Castagne,DF,Attacking Fullback,22,Fulham,2622,668
+Belgium,Wout Faes,DF,No-Sense CB,31,Leicester City,2929,519
+Belgium,Henri Coppens,GK,Sweeper Keeper,22,Club_Belgium,1797,166
+Belgium,Marcel Dolmans,GK,Line Keeper,26,Club_Belgium,1312,178
+Belgium,Luc Nilis,DF,No-Sense CB,18,Club_Belgium,1101,145
+Belgium,Nico Hazard,DF,No-Sense CB,33,Club_Belgium,1924,286
+Belgium,Thorgan Hazard,DF,Ball-Playing CB,18,Club_Belgium,1595,238
+Belgium,Mbo Mpenza,DF,Attacking Fullback,22,Club_Belgium,1089,398
+Belgium,Nicolas Lombaerts,DF,Attacking Fullback,20,Club_Belgium,1399,203
+Belgium,Denis Houf,DF,Inverted Wingback,22,Club_Belgium,1409,234
+Belgium,Kypros Christoforou,MF,Deep-Lying Playmaker,31,Club_Belgium,1543,118
+Belgium,Cristian Brolli,MF,Ball-Winning Midfielder,34,Club_Belgium,393,287
+Belgium,Raoul Dockx,MF,Box-to-Box Midfielder,22,Club_Belgium,1527,449
+Belgium,Dries Mertens,MF,Box-to-Box Midfielder,33,Club_Belgium,640,88
+Belgium,Philippe Clement,MF,Advanced Playmaker,18,Club_Belgium,1577,271
+Belgium,Jason Carrasco,MF,Deep-Lying Playmaker,27,Club_Belgium,1423,339
+Belgium,Peter Van Der Heyden,FW,Inside Forward,27,Club_Belgium,1061,196
+Belgium,Jan Vertonghen,FW,Target Man,18,Club_Belgium,1315,374
+Belgium,Leander Dendoncker,FW,Inverted Winger,21,Club_Belgium,1339,329
+Belgium,Loïs Degryse,FW,Inside Forward,19,Club_Belgium,796,433
+Bosnia and Herzegovina,Nikola Vasilj,GK,Sweeper Keeper,33,Club_Bosnia and Herzegovina,3063,895
+Bosnia and Herzegovina,Miralem Pjanić,GK,Line Keeper,20,Club_Bosnia and Herzegovina,679,82
+Bosnia and Herzegovina,Deni Mujčin,GK,Sweeper Keeper,28,Club_Bosnia and Herzegovina,1936,317
+Bosnia and Herzegovina,Andreas Bajramović,DF,Attacking Fullback,18,Club_Bosnia and Herzegovina,1740,217
+Bosnia and Herzegovina,Neofytos Michail,DF,No-Sense CB,28,Club_Bosnia and Herzegovina,1879,334
+Bosnia and Herzegovina,Luka Bartolović,DF,Ball-Playing CB,29,Club_Bosnia and Herzegovina,1930,351
+Bosnia and Herzegovina,Haris Tabaković,DF,No-Sense CB,20,Club_Bosnia and Herzegovina,1026,386
+Bosnia and Herzegovina,Senijad Ibričić,DF,No-Sense CB,25,Club_Bosnia and Herzegovina,904,459
+Bosnia and Herzegovina,Muhamed Konjić,DF,No-Sense CB,19,Club_Bosnia and Herzegovina,414,154
+Bosnia and Herzegovina,Senijad Menalo,DF,Attacking Fullback,21,Club_Bosnia and Herzegovina,1125,163
+Bosnia and Herzegovina,Armin Gigović,DF,Ball-Playing CB,28,Club_Bosnia and Herzegovina,712,425
+Bosnia and Herzegovina,Elvis Sarić,MF,Advanced Playmaker,21,Club_Bosnia and Herzegovina,1717,406
+Bosnia and Herzegovina,Amer Gojak,MF,Deep-Lying Playmaker,20,Club_Bosnia and Herzegovina,1422,85
+Bosnia and Herzegovina,Haris Hajradinović,MF,Box-to-Box Midfielder,34,Club_Bosnia and Herzegovina,395,201
+Bosnia and Herzegovina,Toni Šunjić,MF,Ball-Winning Midfielder,22,Club_Bosnia and Herzegovina,1692,232
+Bosnia and Herzegovina,Mladen Bartolović,MF,Deep-Lying Playmaker,20,Club_Bosnia and Herzegovina,1172,335
+Bosnia and Herzegovina,Amar Dedić,MF,Deep-Lying Playmaker,34,Club_Bosnia and Herzegovina,361,133
+Bosnia and Herzegovina,Zlatan Muslimović,MF,Advanced Playmaker,30,Club_Bosnia and Herzegovina,998,68
+Bosnia and Herzegovina,Anel Ahmedhodžić,MF,Deep-Lying Playmaker,21,Club_Bosnia and Herzegovina,695,494
+Bosnia and Herzegovina,Dario Vršajević,FW,Inverted Winger,29,Club_Bosnia and Herzegovina,564,333
+Bosnia and Herzegovina,Neofytos Barbarez,FW,Target Man,32,Club_Bosnia and Herzegovina,443,422
+Bosnia and Herzegovina,Andreas Malin,FW,Inverted Winger,20,Club_Bosnia and Herzegovina,695,74
+Bosnia and Herzegovina,Neofytos Đumić,FW,Inside Forward,21,Club_Bosnia and Herzegovina,1888,200
+Bosnia and Herzegovina,Bruno Akrapović,FW,Inside Forward,24,Club_Bosnia and Herzegovina,408,230
+Bosnia and Herzegovina,Zlatan Hota,FW,Target Man,24,Club_Bosnia and Herzegovina,697,272
+Bosnia and Herzegovina,Sejad Ćustović,FW,Target Man,22,Club_Bosnia and Herzegovina,1486,264
+Brazil,Alisson Becker,GK,Sweeper Keeper,33,Liverpool,3057,738
+Brazil,Vinícius Júnior,FW,Inside Forward,28,Real Madrid,2897,891
+Brazil,Rodrygo,FW,Inverted Winger,32,Real Madrid,3053,918
+Brazil,Endrick,FW,Target Man,32,Real Madrid,2991,569
+Brazil,Bruno Guimarães,MF,Deep-Lying Playmaker,21,Newcastle United,2594,593
+Brazil,Lucas Paquetá,MF,Deep-Lying Playmaker,32,West Ham United,2988,821
+Brazil,Marquinhos,DF,Attacking Fullback,27,Paris Saint-Germain,3188,741
+Brazil,Éder Militão,DF,Inverted Wingback,20,Real Madrid,2310,726
+Brazil,Gabriel Magalhães,DF,Ball-Playing CB,32,Arsenal,2955,469
+Brazil,Raphinha,FW,Inside Forward,22,Barcelona,2244,581
+Brazil,Cláudio Ibrahim Vaz Leal,GK,Sweeper Keeper,27,Club_Brazil,1854,88
+Brazil,Washington Gomes,GK,Line Keeper,20,Club_Brazil,472,190
+Brazil,Raí,DF,No-Sense CB,25,Club_Brazil,1128,432
+Brazil,Willian Cunha,DF,Ball-Playing CB,24,Club_Brazil,1324,436
+Brazil,Danilo Alvim,DF,Ball-Playing CB,34,Club_Brazil,1732,361
+Brazil,Heleno Anunciado de Oliveira,DF,Ball-Playing CB,23,Club_Brazil,1440,183
+Brazil,Roberto Batata,DF,No-Sense CB,29,Club_Brazil,984,209
+Brazil,Jairzinho Belletti,MF,Deep-Lying Playmaker,32,Club_Brazil,1472,129
+Brazil,Walter Sisenando,MF,Box-to-Box Midfielder,28,Club_Brazil,1063,278
+Brazil,Carvalho Leite,MF,Advanced Playmaker,20,Club_Brazil,1982,69
+Brazil,Adriano Leite Ribeiro,MF,Deep-Lying Playmaker,32,Club_Brazil,1556,354
+Brazil,Edmílson da Silva,MF,Box-to-Box Midfielder,32,Club_Brazil,1738,50
+Brazil,Djalma Santos,MF,Deep-Lying Playmaker,20,Club_Brazil,955,490
+Brazil,Walter Minuano,FW,Poacher,29,Club_Brazil,1653,273
+Brazil,Zdenko Rodrigues,FW,Inside Forward,25,Club_Brazil,657,457
+Brazil,Friaça,FW,Inside Forward,25,Club_Brazil,1445,397
+Canada,Maxime Crépeau,GK,Sweeper Keeper,26,Club_Canada,2489,635
+Canada,Nayef Aguerd,GK,Line Keeper,22,Club_Canada,340,277
+Canada,Tesho Sweeney,GK,Line Keeper,34,Club_Canada,1524,466
+Canada,Kim Kaye,DF,Ball-Playing CB,30,Club_Canada,1031,289
+Canada,Wes McLeod,DF,Ball-Playing CB,30,Club_Canada,1881,84
+Canada,Atiba Hutchinson,DF,Ball-Playing CB,23,Club_Canada,1917,420
+Canada,Nikolas Berdusco,DF,Inverted Wingback,22,Club_Canada,749,59
+Canada,Mark Watson,DF,Inverted Wingback,30,Club_Canada,1328,168
+Canada,Domenic Parsons,DF,Inverted Wingback,18,Club_Canada,673,114
+Canada,Nathan Koné,DF,No-Sense CB,32,Club_Canada,476,316
+Canada,Sergio Osorio,DF,Ball-Playing CB,34,Club_Canada,1784,466
+Canada,Norm Arfield,MF,Box-to-Box Midfielder,26,Club_Canada,1422,434
+Canada,Nathan Saliba,MF,Deep-Lying Playmaker,33,Club_Canada,1122,55
+Canada,Nathan Brault-Guillard,MF,Advanced Playmaker,34,Club_Canada,1008,400
+Canada,Sam Gerba,MF,Deep-Lying Playmaker,23,Club_Canada,1070,486
+Canada,Jacob Shaffelburg,MF,Ball-Winning Midfielder,22,Club_Canada,1888,214
+Canada,Ostap Steckiw,MF,Box-to-Box Midfielder,27,Club_Canada,382,194
+Canada,Jason Nakajima-Farran,MF,Deep-Lying Playmaker,31,Club_Canada,756,415
+Canada,Méddy Maldonado,MF,Deep-Lying Playmaker,30,Club_Canada,1016,309
+Canada,Nick Dasovic,FW,Target Man,18,Club_Canada,1180,337
+Canada,Jayden Nelson,FW,Target Man,25,Club_Canada,1874,203
+Canada,Paul Stalteri,FW,Target Man,19,Club_Canada,737,167
+Canada,Norman Patterson,FW,Poacher,29,Club_Canada,1377,285
+Canada,Promise Maldonado,FW,Inverted Winger,34,Club_Canada,923,304
+Canada,Geoff Corazzin,FW,Poacher,32,Club_Canada,1552,390
+Canada,Julian Stalteri,FW,Target Man,19,Club_Canada,374,484
+Cape Verde,Vozinha,GK,Sweeper Keeper,29,Club_Cape Verde,2821,691
+Cape Verde,Odaïr Monteiro,GK,Line Keeper,19,Club_Cape Verde,1105,355
+Cape Verde,Júlio Tavares,GK,Line Keeper,32,Club_Cape Verde,1158,484
+Cape Verde,Stopira,DF,Attacking Fullback,19,Club_Cape Verde,1631,298
+Cape Verde,Diney,DF,No-Sense CB,18,Club_Cape Verde,1283,384
+Cape Verde,Jovane Modeste,DF,Inverted Wingback,27,Club_Cape Verde,1886,130
+Cape Verde,Odaïr Tavares,DF,Ball-Playing CB,21,Club_Cape Verde,437,233
+Cape Verde,Janício Monteiro,DF,Ball-Playing CB,27,Club_Cape Verde,1084,389
+Cape Verde,Héldon Ramos,DF,Inverted Wingback,22,Club_Cape Verde,845,311
+Cape Verde,Telmo Arcanjo,DF,Ball-Playing CB,19,Club_Cape Verde,504,175
+Cape Verde,Dailon Livramento,DF,Attacking Fullback,28,Club_Cape Verde,410,298
+Cape Verde,Arlindo Filipe Correia Semedo,MF,Ball-Winning Midfielder,33,Club_Cape Verde,394,423
+Cape Verde,Nuno Miguel Monteiro Rocha,MF,Advanced Playmaker,25,Club_Cape Verde,1199,409
+Cape Verde,Yannick Semedo,MF,Advanced Playmaker,20,Club_Cape Verde,1518,204
+Cape Verde,Nuno Ramos,MF,Deep-Lying Playmaker,22,Club_Cape Verde,1789,141
+Cape Verde,Odaïr Morais Caló,MF,Box-to-Box Midfielder,23,Club_Cape Verde,1836,182
+Cape Verde,Ryan Gomes Semedo,MF,Deep-Lying Playmaker,29,Club_Cape Verde,645,95
+Cape Verde,Telmo Tavares,MF,Box-to-Box Midfielder,34,Club_Cape Verde,1401,267
+Cape Verde,Bryan Lopes Cabral,MF,Deep-Lying Playmaker,26,Club_Cape Verde,1093,298
+Cape Verde,Jovane Cabral,FW,Poacher,32,Club_Cape Verde,1379,399
+Cape Verde,Platini Morais Caló,FW,Poacher,33,Club_Cape Verde,1896,386
+Cape Verde,Nuno Cabral,FW,Target Man,21,Club_Cape Verde,1580,57
+Cape Verde,Bebé,FW,Inverted Winger,20,Club_Cape Verde,1576,229
+Cape Verde,Diney Gomes Semedo,FW,Poacher,32,Club_Cape Verde,938,105
+Cape Verde,Gilson Tavares,FW,Target Man,31,Club_Cape Verde,773,77
+Cape Verde,Telmo Fortes,FW,Poacher,31,Club_Cape Verde,1539,435
+Colombia,Camilo Vargas,GK,Sweeper Keeper,32,Atlas,2925,686
+Colombia,James Rodríguez,MF,Advanced Playmaker,22,Rayo Vallecano,2830,402
+Colombia,Luis Díaz,FW,Poacher,26,Liverpool,2549,762
+Colombia,Jhon Durán,FW,Poacher,31,Aston Villa,3097,905
+Colombia,Daniel Muñoz,DF,No-Sense CB,22,Crystal Palace,2838,591
+Colombia,Davinson Sánchez,DF,Ball-Playing CB,26,Galatasaray,2284,427
+Colombia,Jefferson Lerma,MF,Box-to-Box Midfielder,26,Crystal Palace,3096,630
+Colombia,Juan Jairo Galeano,GK,Line Keeper,29,Club_Colombia,836,194
+Colombia,Hernán Darío Herrera,GK,Sweeper Keeper,21,Club_Colombia,1717,116
+Colombia,Sergio Moreno,DF,Ball-Playing CB,30,Club_Colombia,1469,160
+Colombia,Antonio Zapata,DF,Inverted Wingback,32,Club_Colombia,1793,83
+Colombia,Orlando Maturana,DF,Attacking Fullback,25,Club_Colombia,1692,285
+Colombia,Nolberto González,DF,Attacking Fullback,27,Club_Colombia,724,150
+Colombia,Alejandro Carrillo,DF,No-Sense CB,19,Club_Colombia,1766,489
+Colombia,Pablo Armero,DF,Attacking Fullback,30,Club_Colombia,1700,338
+Colombia,Jefferson Hernández,MF,Deep-Lying Playmaker,23,Club_Colombia,1905,161
+Colombia,Carlos Valderrama,MF,Advanced Playmaker,28,Club_Colombia,1769,367
+Colombia,Alejandro Arlex Castillo,MF,Box-to-Box Midfielder,26,Club_Colombia,1058,436
+Colombia,Eduardo Vilarete,MF,Ball-Winning Midfielder,25,Club_Colombia,528,85
+Colombia,Sebastián Cuéllar,MF,Advanced Playmaker,23,Club_Colombia,1645,269
+Colombia,Nolberto Darío Hernández,MF,Ball-Winning Midfielder,21,Club_Colombia,945,167
+Colombia,José Castrillón,FW,Inverted Winger,23,Club_Colombia,1246,111
+Colombia,Luis Suárez,FW,Inverted Winger,19,Club_Colombia,1146,252
+Colombia,Willington Ortiz,FW,Inside Forward,30,Club_Colombia,1623,182
+Colombia,Juan Fernando Quintero,FW,Target Man,21,Club_Colombia,1023,274
+Colombia,Marcial Gabriel Chaparro,FW,Inside Forward,34,Club_Colombia,439,96
+Croatia,Dominik Livaković,GK,Sweeper Keeper,23,Club_Croatia,2489,641
+Croatia,Tomislav Barišić,GK,Line Keeper,23,Club_Croatia,438,405
+Croatia,Tin Mandžukić,GK,Sweeper Keeper,28,Club_Croatia,558,210
+Croatia,Lovro Majer,DF,No-Sense CB,27,Club_Croatia,560,456
+Croatia,Milan Rapaić,DF,No-Sense CB,29,Club_Croatia,1197,62
+Croatia,Dejan Štimac,DF,Inverted Wingback,19,Club_Croatia,1919,370
+Croatia,Mladen Petrić,DF,Attacking Fullback,22,Club_Croatia,628,322
+Croatia,Milan Vukojević,DF,Ball-Playing CB,28,Club_Croatia,1210,457
+Croatia,Niko Kranjčar,DF,No-Sense CB,20,Club_Croatia,1929,144
+Croatia,Goran Vlaović,DF,Ball-Playing CB,22,Club_Croatia,617,493
+Croatia,Martin Sosa,DF,Inverted Wingback,31,Club_Croatia,675,186
+Croatia,Ante Budimir,MF,Box-to-Box Midfielder,29,Club_Croatia,1870,50
+Croatia,Darijo Srna,MF,Advanced Playmaker,25,Club_Croatia,1172,278
+Croatia,Dado Pršo,MF,Box-to-Box Midfielder,20,Club_Croatia,1024,214
+Croatia,Marko Vlaović,MF,Deep-Lying Playmaker,31,Club_Croatia,1733,111
+Croatia,Igor Matanović,MF,Advanced Playmaker,30,Club_Croatia,1365,138
+Croatia,Igor Štimac,MF,Box-to-Box Midfielder,25,Club_Croatia,1618,153
+Croatia,Bruno Petković,MF,Box-to-Box Midfielder,23,Club_Croatia,1346,112
+Croatia,Martin Erlić,MF,Ball-Winning Midfielder,18,Club_Croatia,964,194
+Croatia,Robert Pršo,FW,Inverted Winger,32,Club_Croatia,802,499
+Croatia,Davor Šuker,FW,Target Man,25,Club_Croatia,403,484
+Croatia,Duje Livaja,FW,Poacher,23,Club_Croatia,1969,116
+Croatia,Mislav Vlaović,FW,Poacher,25,Club_Croatia,853,497
+Croatia,Kristijan Jakić,FW,Inside Forward,32,Club_Croatia,1946,206
+Croatia,Tomislav Mladenović,FW,Inverted Winger,24,Club_Croatia,1222,469
+Croatia,Vedran Ćorluka,FW,Inverted Winger,23,Club_Croatia,1764,146
+Curaçao,Eloy Room,GK,Sweeper Keeper,27,Club_Curaçao,2810,788
+Curaçao,Eduvigis Rudolfo Dirksz,GK,Line Keeper,21,Club_Curaçao,897,371
+Curaçao,Charlison Benschop,GK,Line Keeper,22,Club_Curaçao,1958,379
+Curaçao,Martijn Brandborg,DF,Ball-Playing CB,23,Club_Curaçao,1482,352
+Curaçao,Edwin Miliano Loran,DF,Inverted Wingback,30,Club_Curaçao,515,485
+Curaçao,Gijsberta Chong,DF,Inverted Wingback,32,Club_Curaçao,1480,185
+Curaçao,Toribio Antonia,DF,Ball-Playing CB,32,Club_Curaçao,623,381
+Curaçao,Daniel Pablo,DF,Ball-Playing CB,19,Club_Curaçao,1734,144
+Curaçao,Darryl Lachman,DF,Attacking Fullback,21,Club_Curaçao,1615,331
+Curaçao,Charlton Vicento,DF,Attacking Fullback,22,Club_Curaçao,1983,60
+Curaçao,Michaël Maria,DF,No-Sense CB,27,Club_Curaçao,1171,87
+Curaçao,Sontje Hansen,MF,Box-to-Box Midfielder,25,Club_Curaçao,322,352
+Curaçao,Elson Comenencia,MF,Box-to-Box Midfielder,31,Club_Curaçao,662,445
+Curaçao,Edgard Meulens,MF,Box-to-Box Midfielder,30,Club_Curaçao,1939,495
+Curaçao,Edrick de Lanoy,MF,Box-to-Box Midfielder,18,Club_Curaçao,1946,153
+Curaçao,Juriën Gaari,MF,Advanced Playmaker,28,Club_Curaçao,1783,405
+Curaçao,Juninho Bacuna,MF,Advanced Playmaker,21,Club_Curaçao,1456,425
+Curaçao,Hubert Sambo,MF,Deep-Lying Playmaker,25,Club_Curaçao,426,155
+Curaçao,Erroll Comenencia,MF,Deep-Lying Playmaker,26,Club_Curaçao,1313,100
+Curaçao,Virgilio Sillie,FW,Inverted Winger,31,Club_Curaçao,1619,346
+Curaçao,Rihairo Meulens,FW,Target Man,28,Club_Curaçao,1730,306
+Curaçao,Darryl Brokke,FW,Target Man,22,Club_Curaçao,1728,395
+Curaçao,Rangelo Carmelia,FW,Target Man,21,Club_Curaçao,1505,362
+Curaçao,Rignald Croes,FW,Inverted Winger,25,Club_Curaçao,960,480
+Curaçao,Edgard Benschop,FW,Inverted Winger,26,Club_Curaçao,501,485
+Curaçao,Rignald Alfonso Clemencia,FW,Inverted Winger,26,Club_Curaçao,874,293
+Czech Republic,Jindřich Staněk,GK,Sweeper Keeper,31,Club_Czech Republic,3001,574
+Czech Republic,Zdeněk Pospěch,GK,Line Keeper,19,Club_Czech Republic,1533,467
+Czech Republic,Adam Hložek,GK,Sweeper Keeper,34,Club_Czech Republic,939,476
+Czech Republic,Filip Novák,DF,Attacking Fullback,29,Club_Czech Republic,1062,228
+Czech Republic,Alex Matějovský,DF,No-Sense CB,24,Club_Czech Republic,1503,247
+Czech Republic,Pavel Šulc,DF,Ball-Playing CB,18,Club_Czech Republic,476,334
+Czech Republic,Lukáš Provod,DF,Attacking Fullback,28,Club_Czech Republic,961,203
+Czech Republic,Radoslav Pudil,DF,Inverted Wingback,34,Club_Czech Republic,1266,386
+Czech Republic,Lukáš Baranek,DF,Inverted Wingback,26,Club_Czech Republic,988,197
+Czech Republic,Tomáš Sivok,DF,No-Sense CB,25,Club_Czech Republic,860,376
+Czech Republic,Janek Černý,DF,Ball-Playing CB,30,Club_Czech Republic,1289,264
+Czech Republic,Jakub Plašil,MF,Ball-Winning Midfielder,34,Club_Czech Republic,728,335
+Czech Republic,Boris Kováč,MF,Advanced Playmaker,25,Club_Czech Republic,1342,67
+Czech Republic,Alex Jiráček,MF,Deep-Lying Playmaker,31,Club_Czech Republic,1694,224
+Czech Republic,Jan Krejčí,MF,Box-to-Box Midfielder,19,Club_Czech Republic,801,162
+Czech Republic,Matěj Fenin,MF,Box-to-Box Midfielder,23,Club_Czech Republic,1246,368
+Czech Republic,Joel Čelůstka,MF,Advanced Playmaker,18,Club_Czech Republic,1587,462
+Czech Republic,Theodor Gebre Selassie,MF,Ball-Winning Midfielder,24,Club_Czech Republic,1966,337
+Czech Republic,Jón Fenin,MF,Box-to-Box Midfielder,27,Club_Czech Republic,461,429
+Czech Republic,Jiří Štajner,FW,Inverted Winger,24,Club_Czech Republic,1672,57
+Czech Republic,Ondřej Necid,FW,Inverted Winger,20,Club_Czech Republic,742,304
+Czech Republic,Patrik Barák,FW,Inverted Winger,25,Club_Czech Republic,1377,298
+Czech Republic,Zdeněk Ondrášek,FW,Poacher,22,Club_Czech Republic,878,100
+Czech Republic,Libor Kuka,FW,Inverted Winger,32,Club_Czech Republic,1587,467
+Czech Republic,Marek Matějovský,FW,Poacher,31,Club_Czech Republic,1611,169
+Czech Republic,Milan Baroš,FW,Target Man,28,Club_Czech Republic,751,214
+DR Congo,Lionel Mpasi,GK,Sweeper Keeper,28,Club_DR Congo,2868,897
+DR Congo,Roger Lukaku,GK,Sweeper Keeper,33,Club_DR Congo,306,379
+DR Congo,Tsholola Tshinyama,GK,Sweeper Keeper,18,Club_DR Congo,450,134
+DR Congo,Théo Ngassebe,DF,Attacking Fullback,33,Club_DR Congo,1704,452
+DR Congo,Monduone N'Kama,DF,Inverted Wingback,19,Club_DR Congo,1114,246
+DR Congo,Nathan Fasika,DF,Inverted Wingback,28,Club_DR Congo,1045,435
+DR Congo,Lomana LuaLua,DF,Attacking Fullback,29,Club_DR Congo,1855,310
+DR Congo,Imowa Pickel,DF,Ball-Playing CB,23,Club_DR Congo,1579,271
+DR Congo,Trésor Kisombe Mundaba,DF,Ball-Playing CB,19,Club_DR Congo,1376,477
+DR Congo,Ousmane Mpia,DF,Attacking Fullback,29,Club_DR Congo,1603,130
+DR Congo,Britt Assombalonga,DF,No-Sense CB,31,Club_DR Congo,427,273
+DR Congo,Paul-José M'Poku,MF,Deep-Lying Playmaker,34,Club_DR Congo,825,58
+DR Congo,Yves Yuvuladio,MF,Advanced Playmaker,19,Club_DR Congo,536,330
+DR Congo,Jerry Tondelua,MF,Ball-Winning Midfielder,26,Club_DR Congo,1601,284
+DR Congo,Nathanaël Mbuku,MF,Box-to-Box Midfielder,21,Club_DR Congo,965,491
+DR Congo,Bijou Kisombe Mundaba,MF,Deep-Lying Playmaker,30,Club_DR Congo,909,264
+DR Congo,Lomana Ilunga,MF,Deep-Lying Playmaker,28,Club_DR Congo,1137,195
+DR Congo,Mbungu Ekofa,MF,Advanced Playmaker,27,Club_DR Congo,1679,90
+DR Congo,Epotele Kabananga,MF,Box-to-Box Midfielder,19,Club_DR Congo,1340,214
+DR Congo,Michel Lukaku,FW,Inverted Winger,23,Club_DR Congo,1701,125
+DR Congo,Nkiere Wawa,FW,Poacher,27,Club_DR Congo,641,76
+DR Congo,Théo Lutonadio,FW,Inverted Winger,23,Club_DR Congo,1030,217
+DR Congo,Hérita Ilunga,FW,Target Man,29,Club_DR Congo,1120,443
+DR Congo,Kembo Uba Kembo,FW,Inverted Winger,34,Club_DR Congo,1221,239
+DR Congo,Nathanaël Bokese,FW,Target Man,31,Club_DR Congo,1899,179
+DR Congo,Étienne N'tsunda,FW,Inside Forward,28,Club_DR Congo,1118,230
+Ecuador,Hernán Galíndez,GK,Sweeper Keeper,26,Club_Ecuador,2770,781
+Ecuador,Agustín Delgado,GK,Sweeper Keeper,28,Club_Ecuador,1619,60
+Ecuador,Enrique Raymondi Chávez,GK,Line Keeper,21,Club_Ecuador,1436,236
+Ecuador,Hans Villacreses,DF,Attacking Fullback,25,Club_Ecuador,1550,359
+Ecuador,Christian Alvarez,DF,No-Sense CB,32,Club_Ecuador,963,295
+Ecuador,Ayrton Soliz,DF,No-Sense CB,22,Club_Ecuador,1635,338
+Ecuador,Jordy Arboleda,DF,No-Sense CB,21,Club_Ecuador,1050,197
+Ecuador,Raúl Noriega,DF,Attacking Fullback,20,Club_Ecuador,1567,386
+Ecuador,Víctor Aguayo,DF,No-Sense CB,30,Club_Ecuador,781,250
+Ecuador,Renato Tapia,DF,No-Sense CB,19,Club_Ecuador,1824,122
+Ecuador,Carlos Gruezo,DF,Ball-Playing CB,25,Club_Ecuador,1340,178
+Ecuador,Máximo Tenorio,MF,Deep-Lying Playmaker,28,Club_Ecuador,1939,91
+Ecuador,Walter Ayoví,MF,Deep-Lying Playmaker,24,Club_Ecuador,430,278
+Ecuador,Ney Ibarra,MF,Advanced Playmaker,29,Club_Ecuador,1758,151
+Ecuador,Kevin Klinger,MF,Box-to-Box Midfielder,29,Club_Ecuador,574,150
+Ecuador,Alan Mina,MF,Advanced Playmaker,34,Club_Ecuador,1256,66
+Ecuador,Washington Azón,MF,Box-to-Box Midfielder,34,Club_Ecuador,311,367
+Ecuador,Guillermo Torres,MF,Advanced Playmaker,25,Club_Ecuador,960,130
+Ecuador,Mario César Ramírez,MF,Ball-Winning Midfielder,22,Club_Ecuador,673,247
+Ecuador,Kevin Artega,FW,Inside Forward,29,Club_Ecuador,1978,108
+Ecuador,Gonzalo Montaño,FW,Target Man,26,Club_Ecuador,1861,96
+Ecuador,Orly Jacinto Vega,FW,Inside Forward,27,Club_Ecuador,1339,248
+Ecuador,Romario Ibarra,FW,Inverted Winger,24,Club_Ecuador,634,166
+Ecuador,Néstor Azón,FW,Poacher,26,Club_Ecuador,1182,225
+Ecuador,Víctor Artega,FW,Inside Forward,24,Club_Ecuador,1294,451
+Ecuador,Enrique Raymondi,FW,Poacher,27,Club_Ecuador,914,322
+Egypt,Mohamed El Shenawy,GK,Sweeper Keeper,30,Club_Egypt,3019,687
+Egypt,Hassan El-Shazly,GK,Sweeper Keeper,19,Club_Egypt,430,342
+Egypt,Bashir Abdel Samad,GK,Sweeper Keeper,25,Club_Egypt,1285,232
+Egypt,Hussein El-Hamouly,DF,Attacking Fullback,29,Club_Egypt,338,64
+Egypt,Ahmed Abdel Baki,DF,Inverted Wingback,34,Club_Egypt,1839,398
+Egypt,Mwepu Halim Ali,DF,No-Sense CB,30,Club_Egypt,1021,210
+Egypt,Moustafa El Said,DF,Inverted Wingback,30,Club_Egypt,1749,157
+Egypt,Alaa El-Seyagui,DF,No-Sense CB,19,Club_Egypt,610,276
+Egypt,Hassan Shehata,DF,No-Sense CB,19,Club_Egypt,713,300
+Egypt,Saliou Latif,DF,Attacking Fullback,30,Club_Egypt,1464,323
+Egypt,Moussa Hassan El-Ezam,DF,Inverted Wingback,20,Club_Egypt,1362,351
+Egypt,Alaa Mayhoub,MF,Advanced Playmaker,34,Club_Egypt,776,367
+Egypt,Ahmed Abou El Fotouh,MF,Deep-Lying Playmaker,29,Club_Egypt,996,321
+Egypt,Taher Abouzeid,MF,Advanced Playmaker,29,Club_Egypt,1562,426
+Egypt,Yasser Radwan,MF,Box-to-Box Midfielder,24,Club_Egypt,639,438
+Egypt,Mimi Elneny,MF,Deep-Lying Playmaker,34,Club_Egypt,302,478
+Egypt,Mohamed Farouk,MF,Box-to-Box Midfielder,21,Club_Egypt,445,495
+Egypt,Mohamed Shawky,MF,Deep-Lying Playmaker,33,Club_Egypt,1004,486
+Egypt,Hady Khashaba,MF,Box-to-Box Midfielder,32,Club_Egypt,884,448
+Egypt,Dario Abou Rehab,FW,Inverted Winger,21,Club_Egypt,1463,236
+Egypt,Mohamed Abdel-Shafy,FW,Target Man,22,Club_Egypt,360,476
+Egypt,Abdul-Hamid Suleiman,FW,Inside Forward,23,Club_Egypt,1106,489
+Egypt,Saliou Salah Hosny,FW,Poacher,31,Club_Egypt,1667,60
+Egypt,Mohamed Magdy,FW,Target Man,30,Club_Egypt,525,202
+Egypt,Tarek El-Said,FW,Poacher,21,Club_Egypt,1894,121
+Egypt,Kahraba Abd Rabo,FW,Inside Forward,30,Club_Egypt,1689,379
+England,Jordan Pickford,GK,Sweeper Keeper,33,Everton,2625,812
+England,Harry Kane,FW,Target Man,28,Bayern Munich,2552,905
+England,Jude Bellingham,MF,Ball-Winning Midfielder,27,Real Madrid,1853,446
+England,Bukayo Saka,FW,Poacher,20,Arsenal,2922,419
+England,Phil Foden,MF,Box-to-Box Midfielder,20,Manchester City,2218,461
+England,Declan Rice,MF,Deep-Lying Playmaker,27,Arsenal,1802,559
+England,John Stones,DF,Attacking Fullback,25,Manchester City,2580,519
+England,Kyle Walker,DF,Ball-Playing CB,28,Manchester City,2128,756
+England,Trent Alexander-Arnold,DF,No-Sense CB,30,Liverpool,2751,722
+England,Cole Palmer,MF,Ball-Winning Midfielder,31,Chelsea,3018,731
+England,Kieran Trippier,DF,No-Sense CB,28,Newcastle United,1839,936
+England,Raheem Jones,GK,Sweeper Keeper,28,Club_England,1254,275
+England,Cole Townsend,GK,Line Keeper,32,Club_England,337,377
+England,Mark Wright,DF,Attacking Fullback,22,Club_England,1499,139
+England,John Connelly,DF,No-Sense CB,23,Club_England,336,365
+England,Derek Hodge,DF,Inverted Wingback,30,Club_England,1095,130
+England,Leighton Arlauskis,DF,No-Sense CB,25,Club_England,1624,273
+England,Neil García,MF,Box-to-Box Midfielder,20,Club_England,1891,89
+England,Steve Hodge,MF,Box-to-Box Midfielder,25,Club_England,1612,311
+England,Geoff Hurst,MF,Advanced Playmaker,33,Club_England,1491,141
+England,Simon Gallagher,MF,Deep-Lying Playmaker,33,Club_England,1080,412
+England,Wayne Pointer,FW,Inverted Winger,27,Club_England,655,240
+England,Kieran Hodge,FW,Poacher,23,Club_England,999,56
+England,Alex Oxlade-Chamberlain,FW,Inverted Winger,28,Club_England,856,363
+England,Joleon Lescott,FW,Inverted Winger,27,Club_England,1717,209
+England,Michael Grealish,FW,Poacher,24,Club_England,381,405
+France,Mike Maignan,GK,Sweeper Keeper,24,Milan,2988,511
+France,Jules Koundé,DF,Attacking Fullback,21,Barcelona,3047,924
+France,William Saliba,DF,No-Sense CB,30,Arsenal,2936,632
+France,Dayot Upamecano,DF,Ball-Playing CB,27,Bayern Munich,3046,847
+France,Theo Hernandez,DF,Inverted Wingback,32,Milan,2474,725
+France,Aurélien Tchouaméni,MF,Ball-Winning Midfielder,26,Real Madrid,2385,632
+France,N'Golo Kanté,MF,Advanced Playmaker,21,Al-Ittihad,2371,734
+France,Antoine Griezmann,MF,Box-to-Box Midfielder,24,Atletico Madrid,2788,677
+France,Ousmane Dembélé,FW,Inside Forward,23,Paris Saint-Germain,2283,641
+France,Kylian Mbappé,FW,Inside Forward,30,Real Madrid,1991,416
+France,Bradley Barcola,FW,Inside Forward,25,Paris Saint-Germain,2200,421
+France,Marcus Thuram,FW,Target Man,27,Inter Milan,2009,705
+France,Said Brahimi,GK,Line Keeper,32,Club_France,584,253
+France,Hatem Tudor,GK,Line Keeper,20,Club_France,1247,430
+France,Christian Deschamps,DF,Inverted Wingback,24,Club_France,328,444
+France,Said Dereuddre,DF,Ball-Playing CB,23,Club_France,1178,128
+France,Jacques Faivre,DF,Inverted Wingback,28,Club_France,869,75
+France,Juste Brouzes,DF,No-Sense CB,31,Club_France,1037,334
+France,Joseph Ujlaki,MF,Advanced Playmaker,34,Club_France,1422,446
+France,Hugo Ekitike,MF,Deep-Lying Playmaker,24,Club_France,1594,424
+France,Édouard Crut,MF,Deep-Lying Playmaker,28,Club_France,1183,337
+France,Samir Kopa,MF,Box-to-Box Midfielder,32,Club_France,1273,133
+France,Gérard Revelli,MF,Box-to-Box Midfielder,28,Club_France,1862,244
+France,Luis Loubet,FW,Inverted Winger,29,Club_France,1763,141
+France,Christophe Cocard,FW,Inverted Winger,32,Club_France,1168,492
+France,Ludovic Giuly,FW,Inside Forward,23,Club_France,1982,490
+Germany,Marc-André ter Stegen,GK,Sweeper Keeper,27,Barcelona,2786,756
+Germany,Florian Wirtz,MF,Box-to-Box Midfielder,31,Bayer Leverkusen,2733,926
+Germany,Jamal Musiala,MF,Box-to-Box Midfielder,32,Bayern Munich,2986,923
+Germany,Kai Havertz,FW,Target Man,31,Arsenal,2007,938
+Germany,Joshua Kimmich,DF,Inverted Wingback,31,Bayern Munich,2229,708
+Germany,Antonio Rüdiger,DF,Inverted Wingback,30,Real Madrid,1998,786
+Germany,Jonathan Tah,DF,Ball-Playing CB,31,Bayer Leverkusen,2492,935
+Germany,Ilkay Gündogan,MF,Advanced Playmaker,29,Manchester City,2698,926
+Germany,Leroy Sané,FW,Inverted Winger,26,Bayern Munich,3096,635
+Germany,Niclas Füllkrug,FW,Inside Forward,23,West Ham United,2320,900
+Germany,Max Lorenz,GK,Sweeper Keeper,19,Club_Germany,1667,121
+Germany,Jamal Flohe,GK,Sweeper Keeper,30,Club_Germany,1020,121
+Germany,Cacau Santos,DF,Ball-Playing CB,31,Club_Germany,1818,144
+Germany,Gerhard Doll,DF,No-Sense CB,28,Club_Germany,1624,266
+Germany,Jérôme Wigold,DF,Ball-Playing CB,23,Club_Germany,1748,441
+Germany,Helmut Schweinsteiger,DF,Attacking Fullback,26,Club_Germany,700,125
+Germany,Ján Ďurica,DF,Ball-Playing CB,31,Club_Germany,1995,129
+Germany,Yogan Santos,MF,Box-to-Box Midfielder,18,Club_Germany,1013,473
+Germany,Werner Krämer,MF,Advanced Playmaker,18,Club_Germany,301,274
+Germany,Michael Preetz,MF,Deep-Lying Playmaker,26,Club_Germany,888,165
+Germany,Philipp Lahm,MF,Box-to-Box Midfielder,24,Club_Germany,493,215
+Germany,Guido Cullmann,MF,Ball-Winning Midfielder,31,Club_Germany,421,192
+Germany,Rainer Ďurica,FW,Target Man,27,Club_Germany,1186,477
+Germany,Thomas Häßler,FW,Inverted Winger,25,Club_Germany,616,172
+Germany,Nadiem Amiri,FW,Target Man,26,Club_Germany,1073,122
+Germany,Hans-Peter Briegel,FW,Poacher,26,Club_Germany,1693,253
+Ghana,Lawrence Ati-Zigi,GK,Sweeper Keeper,30,Club_Ghana,3089,847
+Ghana,Junior Ebow Essien,GK,Line Keeper,32,Club_Ghana,550,432
+Ghana,Dominic Tagoe,GK,Sweeper Keeper,28,Club_Ghana,1407,257
+Ghana,Edwin Armah,DF,Inverted Wingback,23,Club_Ghana,1637,71
+Ghana,Joseph Draman,DF,No-Sense CB,20,Club_Ghana,1450,346
+Ghana,Baba Draman,DF,Inverted Wingback,27,Club_Ghana,313,61
+Ghana,Sulley Muntari,DF,Attacking Fullback,29,Club_Ghana,1208,74
+Ghana,Clifford Odame,DF,Ball-Playing CB,31,Club_Ghana,1679,222
+Ghana,Kwesi Appiah,DF,Inverted Wingback,29,Club_Ghana,1917,451
+Ghana,Christian Partey,DF,Attacking Fullback,22,Club_Ghana,1675,361
+Ghana,Otto Attram,DF,Ball-Playing CB,20,Club_Ghana,1223,251
+Ghana,Charles Majeed Waris,MF,Ball-Winning Midfielder,20,Club_Ghana,744,142
+Ghana,Mohammed Gargo,MF,Box-to-Box Midfielder,32,Club_Ghana,652,440
+Ghana,Ishmael Kingston,MF,Advanced Playmaker,34,Club_Ghana,1161,262
+Ghana,Nélson Preko,MF,Ball-Winning Midfielder,22,Club_Ghana,815,269
+Ghana,Kwame Nti,MF,Advanced Playmaker,34,Club_Ghana,1246,145
+Ghana,Osman Bukari,MF,Deep-Lying Playmaker,21,Club_Ghana,1573,166
+Ghana,Felix Adamu,MF,Box-to-Box Midfielder,21,Club_Ghana,877,384
+Ghana,Emmanuel Ola,MF,Box-to-Box Midfielder,21,Club_Ghana,594,475
+Ghana,Arthur Bedoui,FW,Poacher,29,Club_Ghana,1966,286
+Ghana,Arthur Moses,FW,Target Man,25,Club_Ghana,320,448
+Ghana,Michael Semenyo,FW,Inverted Winger,20,Club_Ghana,1093,57
+Ghana,Osman Djiku,FW,Inside Forward,33,Club_Ghana,777,136
+Ghana,Ibrahim Kassum,FW,Target Man,29,Club_Ghana,825,383
+Ghana,Michael Essien,FW,Target Man,22,Club_Ghana,1136,471
+Ghana,Mohammed Ahmed,FW,Inverted Winger,26,Club_Ghana,617,365
+Haiti,Johny Placide,GK,Sweeper Keeper,30,Club_Haiti,2630,583
+Haiti,Reynold Saint Surin,GK,Line Keeper,24,Club_Haiti,1137,194
+Haiti,Ruben Guerrier,GK,Sweeper Keeper,19,Club_Haiti,1486,278
+Haiti,Jean-Kévin Duverne,DF,Ball-Playing CB,18,Club_Haiti,1747,489
+Haiti,Réginal Goreux,DF,Inverted Wingback,30,Club_Haiti,1218,352
+Haiti,Carnejy Pierre-Louis,DF,Attacking Fullback,28,Club_Haiti,1333,244
+Haiti,Frantz Pierre,DF,No-Sense CB,31,Club_Haiti,891,142
+Haiti,Mondy Vorbe,DF,No-Sense CB,29,Club_Haiti,1161,410
+Haiti,Brunel Fucien,DF,Ball-Playing CB,22,Club_Haiti,1599,313
+Haiti,Vladimir Bertin,DF,Attacking Fullback,29,Club_Haiti,812,362
+Haiti,Carnejy Prunier,DF,Inverted Wingback,28,Club_Haiti,986,253
+Haiti,Jean-Eudes Maurice,MF,Deep-Lying Playmaker,34,Club_Haiti,1820,169
+Haiti,Angelo Guerrier,MF,Advanced Playmaker,32,Club_Haiti,919,300
+Haiti,Leonel Saint-Preux,MF,Deep-Lying Playmaker,31,Club_Haiti,1965,342
+Haiti,Corriolan Wadson,MF,Advanced Playmaker,18,Club_Haiti,418,84
+Haiti,Kevin Lafrance,MF,Box-to-Box Midfielder,22,Club_Haiti,1382,374
+Haiti,Mondy Prunier,MF,Deep-Lying Playmaker,34,Club_Haiti,990,255
+Haiti,Listner Fucien,MF,Advanced Playmaker,27,Club_Haiti,575,230
+Haiti,Manuel Boucicaut,MF,Box-to-Box Midfielder,28,Club_Haiti,425,266
+Haiti,James Wadson,FW,Target Man,24,Club_Haiti,1546,233
+Haiti,Reynold Lafrance,FW,Poacher,28,Club_Haiti,1501,456
+Haiti,Jean-Philippe Chevalier,FW,Inside Forward,23,Club_Haiti,450,433
+Haiti,Emmanuel Désir,FW,Target Man,30,Club_Haiti,607,385
+Haiti,Jean-Claude Desir,FW,Target Man,27,Club_Haiti,1191,424
+Haiti,Lawrence Harvey,FW,Inside Forward,18,Club_Haiti,1314,313
+Haiti,Duckens Nazon,FW,Inverted Winger,23,Club_Haiti,816,135
+Iran,Alireza Beiranvand,GK,Sweeper Keeper,24,Club_Iran,2592,810
+Iran,Alireza Khorshidi,GK,Sweeper Keeper,28,Club_Iran,1737,163
+Iran,Shahrokh Khouphachansy,GK,Line Keeper,34,Club_Iran,1861,185
+Iran,Mohammad Hassan Ansarifard,DF,Attacking Fullback,25,Club_Iran,887,377
+Iran,Masoud Dinmohammadi,DF,Ball-Playing CB,31,Club_Iran,1100,50
+Iran,Javad Parvin,DF,Attacking Fullback,33,Club_Iran,1977,102
+Iran,Amirhossein Rowshan,DF,Inverted Wingback,22,Club_Iran,660,139
+Iran,Abdolreza Azmoun,DF,No-Sense CB,19,Club_Iran,1309,241
+Iran,Saman Kazemian,DF,No-Sense CB,26,Club_Iran,1484,218
+Iran,Shahrokh Abbas,DF,Ball-Playing CB,33,Club_Iran,1080,122
+Iran,Walid Zandi,DF,Ball-Playing CB,30,Club_Iran,1482,373
+Iran,Sirous Dinmohammadi,MF,Box-to-Box Midfielder,23,Club_Iran,793,181
+Iran,Ramin Rezaeian,MF,Box-to-Box Midfielder,23,Club_Iran,1805,131
+Iran,Sayed Hashemian,MF,Deep-Lying Playmaker,26,Club_Iran,1602,388
+Iran,Zia Azizi,MF,Deep-Lying Playmaker,28,Club_Iran,1964,393
+Iran,Park Visal,MF,Box-to-Box Midfielder,24,Club_Iran,1924,262
+Iran,Ali Parvin,MF,Ball-Winning Midfielder,18,Club_Iran,1399,248
+Iran,Reza Hosseinzadeh,MF,Ball-Winning Midfielder,18,Club_Iran,604,273
+Iran,Alireza Mansourian,MF,Deep-Lying Playmaker,20,Club_Iran,401,316
+Iran,Parviz Ghelichkhani,FW,Poacher,25,Club_Iran,1945,379
+Iran,Samad Hassanzadeh,FW,Target Man,31,Club_Iran,1326,134
+Iran,Sirous Ghayeghran,FW,Target Man,25,Club_Iran,1115,499
+Iran,Parviz Jabbari,FW,Target Man,29,Club_Iran,1456,353
+Iran,Sardar Azmoun,FW,Inverted Winger,32,Club_Iran,1623,277
+Iran,Majid Afshin,FW,Poacher,28,Club_Iran,1243,392
+Iran,Ahmad Nourollahi,FW,Target Man,31,Club_Iran,797,413
+Iraq,Jalal Hassan,GK,Sweeper Keeper,33,Club_Iraq,2826,520
+Iraq,Razzaq Farhan,GK,Sweeper Keeper,28,Club_Iraq,1314,385
+Iraq,Hadi Dirjal,GK,Sweeper Keeper,32,Club_Iraq,1092,341
+Iraq,Hussam Fawzi,DF,Attacking Fullback,32,Club_Iraq,623,326
+Iraq,Emad Mohammed,DF,Ball-Playing CB,19,Club_Iraq,1657,430
+Iraq,Younis Mahmoud,DF,Inverted Wingback,33,Club_Iraq,672,101
+Iraq,Humam Ismail,DF,No-Sense CB,32,Club_Iraq,1479,340
+Iraq,Haris Mulla Mohammed,DF,Inverted Wingback,33,Club_Iraq,405,469
+Iraq,Jaffar Salah Alwan,DF,No-Sense CB,19,Club_Iraq,888,181
+Iraq,Natiq Hashim,DF,No-Sense CB,28,Club_Iraq,1586,400
+Iraq,Nazar Attiya,DF,Inverted Wingback,27,Club_Iraq,1362,446
+Iraq,Aymen Kalaf,MF,Ball-Winning Midfielder,24,Club_Iraq,1258,361
+Iraq,Hesham Mohammed,MF,Deep-Lying Playmaker,27,Club_Iraq,744,347
+Iraq,Ahmed Radhi,MF,Advanced Playmaker,21,Club_Iraq,1407,423
+Iraq,Zidane Iqbal,MF,Ball-Winning Midfielder,18,Club_Iraq,1495,425
+Iraq,Jordi Karim,MF,Deep-Lying Playmaker,27,Club_Iraq,858,428
+Iraq,Radhi Shenaishil,MF,Deep-Lying Playmaker,26,Club_Iraq,1349,58
+Iraq,Haris Mohammed,MF,Ball-Winning Midfielder,27,Club_Iraq,1283,427
+Iraq,Aymen Emmanuel,MF,Deep-Lying Playmaker,27,Club_Iraq,883,201
+Iraq,Karim Saddam,FW,Inside Forward,34,Club_Iraq,1477,396
+Iraq,Akram Khalaf,FW,Inverted Winger,21,Club_Iraq,349,201
+Iraq,Jassim Ali,FW,Poacher,21,Club_Iraq,1383,216
+Iraq,Ahmad Kasim,FW,Target Man,21,Club_Iraq,1292,488
+Iraq,Khalid Mohammed Sabbar,FW,Target Man,22,Club_Iraq,986,98
+Iraq,Bashar Rashid,FW,Poacher,29,Club_Iraq,1549,210
+Iraq,Kadhim Waal,FW,Poacher,34,Club_Iraq,961,481
+Ivory Coast,Yahia Fofana,GK,Sweeper Keeper,27,Club_Ivory Coast,3054,659
+Ivory Coast,Salomon Kalou,GK,Sweeper Keeper,27,Club_Ivory Coast,1268,127
+Ivory Coast,Vakoun Issouf Bayo,GK,Sweeper Keeper,19,Club_Ivory Coast,1643,340
+Ivory Coast,Romaric,DF,Attacking Fullback,20,Club_Ivory Coast,1877,423
+Ivory Coast,Abdul Kouassi Kouame,DF,Ball-Playing CB,24,Club_Ivory Coast,758,329
+Ivory Coast,Kolo Touré,DF,Inverted Wingback,31,Club_Ivory Coast,1854,117
+Ivory Coast,Wilfried Zaha,DF,No-Sense CB,23,Club_Ivory Coast,853,337
+Ivory Coast,Simon Adingra,DF,Attacking Fullback,30,Club_Ivory Coast,1305,85
+Ivory Coast,Saïdou Panandétiguiri,DF,Inverted Wingback,22,Club_Ivory Coast,652,213
+Ivory Coast,Ahmed Coulibaly,DF,Attacking Fullback,26,Club_Ivory Coast,947,402
+Ivory Coast,Bakary Manglé,DF,Attacking Fullback,23,Club_Ivory Coast,724,245
+Ivory Coast,Seydou Dao,MF,Deep-Lying Playmaker,34,Club_Ivory Coast,1127,179
+Ivory Coast,Bernard N'Guessan,MF,Advanced Playmaker,22,Club_Ivory Coast,727,76
+Ivory Coast,Youssouf Falikou Fofana,MF,Advanced Playmaker,25,Club_Ivory Coast,1553,249
+Ivory Coast,Lassina Dao,MF,Box-to-Box Midfielder,20,Club_Ivory Coast,1313,349
+Ivory Coast,Kanga Dindane,MF,Deep-Lying Playmaker,20,Club_Ivory Coast,641,375
+Ivory Coast,Jean-Philippe Bawa,MF,Box-to-Box Midfielder,29,Club_Ivory Coast,1069,151
+Ivory Coast,Emmanuel Eboué,MF,Deep-Lying Playmaker,20,Club_Ivory Coast,653,335
+Ivory Coast,Gervinho,MF,Advanced Playmaker,25,Club_Ivory Coast,961,349
+Ivory Coast,Ahmed Abou El Fotouh,FW,Target Man,21,Club_Ivory Coast,752,382
+Ivory Coast,Oumar Diakité,FW,Inverted Winger,32,Club_Ivory Coast,1316,360
+Ivory Coast,Jérôme Kalou,FW,Inside Forward,27,Club_Ivory Coast,745,207
+Ivory Coast,Donald-Olivier Sié,FW,Inverted Winger,33,Club_Ivory Coast,1335,194
+Ivory Coast,Cheick Tioté,FW,Inside Forward,29,Club_Ivory Coast,1971,52
+Ivory Coast,Lucien Kouassi Kouame,FW,Inside Forward,30,Club_Ivory Coast,1602,397
+Ivory Coast,Gilles Yapi Yapo,FW,Poacher,25,Club_Ivory Coast,929,54
+Japan,Zion Suzuki,GK,Sweeper Keeper,26,Parma,2647,863
+Japan,Wataru Endo,MF,Deep-Lying Playmaker,28,Liverpool,2085,548
+Japan,Kaoru Mitoma,FW,Inside Forward,25,Brighton & Hove Albion,2205,855
+Japan,Takefusa Kubo,FW,Poacher,20,Real Sociedad,2812,859
+Japan,Takumi Minamino,MF,Box-to-Box Midfielder,23,Monaco,2537,908
+Japan,Ritsu Doan,FW,Target Man,23,Freiburg,2280,513
+Japan,Wagner Kiyotake,GK,Sweeper Keeper,19,Club_Japan,660,390
+Japan,Kyogo Furuhashi,GK,Line Keeper,26,Club_Japan,748,380
+Japan,Katsuyoshi Shinto,DF,Attacking Fullback,21,Club_Japan,1789,360
+Japan,Kazuyoshi Miura,DF,No-Sense CB,20,Club_Japan,705,476
+Japan,Wagner Mori,DF,Attacking Fullback,22,Club_Japan,543,61
+Japan,Hiromi Hara,DF,Attacking Fullback,34,Club_Japan,341,215
+Japan,Tadanari Lee,DF,No-Sense CB,30,Club_Japan,1481,265
+Japan,Koichi Furuhashi,DF,No-Sense CB,31,Club_Japan,433,116
+Japan,Koji Dōan,DF,Inverted Wingback,24,Club_Japan,1247,63
+Japan,Kenta Suzuki,DF,Ball-Playing CB,32,Club_Japan,1728,212
+Japan,Makoto Hasebe,MF,Box-to-Box Midfielder,19,Club_Japan,1230,255
+Japan,Koki Ogawa,MF,Advanced Playmaker,27,Club_Japan,1860,499
+Japan,Daizen Maeda,MF,Deep-Lying Playmaker,18,Club_Japan,463,144
+Japan,Mitsunori Yoshida,MF,Box-to-Box Midfielder,18,Club_Japan,1433,385
+Japan,Genki Haraguchi,MF,Box-to-Box Midfielder,31,Club_Japan,680,485
+Japan,Kengo Nakamura,MF,Ball-Winning Midfielder,20,Club_Japan,1201,74
+Japan,Hidemasa Morita,FW,Inverted Winger,19,Club_Japan,1715,454
+Japan,Shoji Konno,FW,Target Man,21,Club_Japan,836,128
+Japan,Kensuke Hosoya,FW,Inside Forward,30,Club_Japan,1335,337
+Japan,Masahiko Inoha,FW,Inside Forward,30,Club_Japan,842,383
+Jordan,Yazeed Abulaila,GK,Sweeper Keeper,26,Club_Jordan,3057,815
+Jordan,Saeed Al-Laham,GK,Sweeper Keeper,23,Club_Jordan,971,398
+Jordan,Ghanem Hamarsheh,GK,Sweeper Keeper,19,Club_Jordan,1383,200
+Jordan,Ahmad Ersan,DF,Attacking Fullback,22,Club_Jordan,1790,467
+Jordan,Mohamed Al-Diabaz,DF,No-Sense CB,19,Club_Jordan,681,316
+Jordan,Hassan Abdel-Fattah,DF,No-Sense CB,32,Club_Jordan,756,132
+Jordan,Odai Al-Saify,DF,Ball-Playing CB,20,Club_Jordan,448,378
+Jordan,Anas Al-Zboun,DF,Inverted Wingback,31,Club_Jordan,1182,312
+Jordan,Mo'ayyad Salim,DF,Inverted Wingback,33,Club_Jordan,1063,146
+Jordan,Odai Al-Naimat,DF,Inverted Wingback,21,Club_Jordan,1938,89
+Jordan,Khaled Awad,DF,Ball-Playing CB,22,Club_Jordan,1682,429
+Jordan,Mahmoud Al-Mardi,MF,Advanced Playmaker,21,Club_Jordan,423,471
+Jordan,Hassouneh Al-Bakhit,MF,Ball-Winning Midfielder,22,Club_Jordan,1951,240
+Jordan,Musa Al-Taamari,MF,Box-to-Box Midfielder,20,Club_Jordan,818,204
+Jordan,Baha' Faisal,MF,Advanced Playmaker,31,Club_Jordan,754,278
+Jordan,Awad Ragheb,MF,Deep-Lying Playmaker,22,Club_Jordan,809,232
+Jordan,Mussab Al-Laham,MF,Box-to-Box Midfielder,23,Club_Jordan,1914,198
+Jordan,Ahmad Hayel,MF,Box-to-Box Midfielder,24,Club_Jordan,1200,114
+Jordan,Park Yong-woo,MF,Deep-Lying Playmaker,30,Club_Jordan,1536,230
+Jordan,Noor Al-Khateeb,FW,Target Man,22,Club_Jordan,472,209
+Jordan,Munther Abdel-Rahman,FW,Inside Forward,34,Club_Jordan,1294,237
+Jordan,Tareq Khattab,FW,Poacher,21,Club_Jordan,845,101
+Jordan,Badran Al-Shagran,FW,Inside Forward,25,Club_Jordan,1550,282
+Jordan,Essam Abu Touk,FW,Inverted Winger,23,Club_Jordan,853,70
+Jordan,Bashar Faisal,FW,Target Man,30,Club_Jordan,924,154
+Jordan,Aref Al-Shewaier,FW,Inside Forward,34,Club_Jordan,1443,442
+Mexico,Luis Malagón,GK,Sweeper Keeper,31,Club_Mexico,2528,629
+Mexico,Luis Montes,GK,Line Keeper,33,Club_Mexico,328,146
+Mexico,Enrique Sesma,GK,Line Keeper,25,Club_Mexico,1088,333
+Mexico,Aldo de Nigris,DF,Attacking Fullback,19,Club_Mexico,1075,492
+Mexico,Omar Bravo,DF,No-Sense CB,25,Club_Mexico,1244,128
+Mexico,Octavio Madu,DF,Ball-Playing CB,30,Club_Mexico,766,118
+Mexico,Luis Romo,DF,Inverted Wingback,29,Club_Mexico,748,136
+Mexico,Carlos García Postigo,DF,Ball-Playing CB,25,Club_Mexico,1144,249
+Mexico,Mario Ochoa,DF,Ball-Playing CB,28,Club_Mexico,1708,158
+Mexico,Damián Cerda Canela,DF,Attacking Fullback,20,Club_Mexico,963,66
+Mexico,Héctor Moreno,DF,Ball-Playing CB,25,Club_Mexico,665,277
+Mexico,Benjamín Garcés,MF,Ball-Winning Midfielder,32,Club_Mexico,1534,440
+Mexico,Fernando Quirarte,MF,Ball-Winning Midfielder,28,Club_Mexico,741,310
+Mexico,Guillermo Franco,MF,Deep-Lying Playmaker,25,Club_Mexico,1643,187
+Mexico,Néstor Araujo,MF,Box-to-Box Midfielder,32,Club_Mexico,1291,417
+Mexico,Hugo Pollard,MF,Advanced Playmaker,34,Club_Mexico,1546,185
+Mexico,Alfredo Pollard,MF,Advanced Playmaker,25,Club_Mexico,1220,378
+Mexico,Duilio Davino,MF,Box-to-Box Midfielder,32,Club_Mexico,1245,98
+Mexico,Arturo Vázquez Ayala,MF,Advanced Playmaker,21,Club_Mexico,1913,154
+Mexico,Ricardo Reyes Monteón,FW,Inverted Winger,27,Club_Mexico,448,213
+Mexico,Ramiro Jáuregui,FW,Inside Forward,25,Club_Mexico,1069,423
+Mexico,Angel Jáuregui,FW,Inverted Winger,33,Club_Mexico,1611,337
+Mexico,Edson Álvarez,FW,Inside Forward,19,Club_Mexico,822,59
+Mexico,Héctor Herrera,FW,Poacher,34,Club_Mexico,1235,451
+Mexico,Charles Antuna,FW,Poacher,26,Club_Mexico,1988,364
+Mexico,Francisco Flores,FW,Target Man,29,Club_Mexico,1611,484
+Morocco,Yassine Bounou,GK,Sweeper Keeper,23,Al-Hilal,2521,531
+Morocco,Achraf Hakimi,DF,No-Sense CB,26,Paris Saint-Germain,1838,896
+Morocco,Hakim Ziyech,MF,Advanced Playmaker,28,Galatasaray,2742,929
+Morocco,Sofyan Amrabat,MF,Deep-Lying Playmaker,32,Fenerbahçe,2821,701
+Morocco,Youssef En-Nesyri,FW,Inside Forward,26,Fenerbahçe,2462,635
+Morocco,Brahim Díaz,FW,Inside Forward,30,Real Madrid,2055,634
+Morocco,Ahmed Makrouh,GK,Sweeper Keeper,30,Club_Morocco,1789,307
+Morocco,Abdelfattah Barkok,GK,Sweeper Keeper,32,Club_Morocco,735,332
+Morocco,Khalid Boutaïb,DF,No-Sense CB,32,Club_Morocco,1730,137
+Morocco,Abdelfettah Zairi,DF,Inverted Wingback,30,Club_Morocco,577,220
+Morocco,Zakaria Belhanda,DF,Ball-Playing CB,18,Club_Morocco,995,52
+Morocco,Achraf Sektioui,DF,Attacking Fullback,24,Club_Morocco,407,416
+Morocco,Moulay Khanousi,DF,Ball-Playing CB,22,Club_Morocco,1434,185
+Morocco,Hicham Aboucherouane,DF,No-Sense CB,33,Club_Morocco,1907,178
+Morocco,Abdelfettah Rhiati,DF,Inverted Wingback,22,Club_Morocco,814,498
+Morocco,Abdelmajid Bouyboud,MF,Advanced Playmaker,25,Club_Morocco,1806,273
+Morocco,Said Rokbi,MF,Advanced Playmaker,27,Club_Morocco,1814,59
+Morocco,Boujemaa Benkhrif,MF,Deep-Lying Playmaker,31,Club_Morocco,530,268
+Morocco,Sofiane Boufal,MF,Ball-Winning Midfielder,19,Club_Morocco,1236,161
+Morocco,Hamza Abourazzouk,MF,Deep-Lying Playmaker,26,Club_Morocco,799,469
+Morocco,Gharib Arbi Hababi,MF,Box-to-Box Midfielder,27,Club_Morocco,901,363
+Morocco,Nabil Baha,FW,Target Man,29,Club_Morocco,508,63
+Morocco,Mbark Yaghcha,FW,Inverted Winger,19,Club_Morocco,1760,426
+Morocco,Issam Chilengi,FW,Inside Forward,28,Club_Morocco,1314,119
+Morocco,Gharib Amzine,FW,Inside Forward,22,Club_Morocco,997,181
+Morocco,Houmane Jarir,FW,Poacher,21,Club_Morocco,1343,443
+Netherlands,Bart Verbruggen,GK,Sweeper Keeper,30,Brighton & Hove Albion,2626,653
+Netherlands,Virgil van Dijk,DF,Ball-Playing CB,25,Liverpool,2621,804
+Netherlands,Cody Gakpo,FW,Target Man,25,Liverpool,2741,587
+Netherlands,Memphis Depay,FW,Inverted Winger,32,Corinthians,2843,672
+Netherlands,Xavi Simons,MF,Ball-Winning Midfielder,26,RB Leipzig,2315,620
+Netherlands,Tijjani Reijnders,MF,Box-to-Box Midfielder,22,Milan,2135,454
+Netherlands,Nathan Aké,DF,Inverted Wingback,23,Manchester City,2565,935
+Netherlands,Denzel Dumfries,DF,No-Sense CB,21,Inter Milan,1958,587
+Netherlands,Jeremie Frimpong,DF,Inverted Wingback,22,Bayer Leverkusen,3142,610
+Netherlands,Nikos Pantziaras,GK,Line Keeper,30,Club_Netherlands,1399,79
+Netherlands,Steven Malen,GK,Line Keeper,23,Club_Netherlands,1440,464
+Netherlands,Servaas Hartman,DF,Inverted Wingback,33,Club_Netherlands,1039,399
+Netherlands,Donyell Cruyff,DF,Attacking Fullback,34,Club_Netherlands,1506,195
+Netherlands,Dick van Dijk,DF,Attacking Fullback,34,Club_Netherlands,1062,300
+Netherlands,Cees Schapendonk,DF,Attacking Fullback,28,Club_Netherlands,1319,167
+Netherlands,John Bosman,MF,Deep-Lying Playmaker,18,Club_Netherlands,700,247
+Netherlands,Jan Rensenbrink,MF,Advanced Playmaker,33,Club_Netherlands,1370,448
+Netherlands,Toon Rijsbergen,MF,Box-to-Box Midfielder,32,Club_Netherlands,377,173
+Netherlands,Quilindschy Hartman,MF,Ball-Winning Midfielder,24,Club_Netherlands,436,139
+Netherlands,Piet Wildschut,MF,Advanced Playmaker,22,Club_Netherlands,1828,110
+Netherlands,Noud Metgod,MF,Box-to-Box Midfielder,20,Club_Netherlands,1272,156
+Netherlands,Teun Koopmeiners,FW,Inverted Winger,30,Club_Netherlands,1009,386
+Netherlands,Dennis Bergkamp,FW,Poacher,30,Club_Netherlands,862,294
+Netherlands,Arnaut Danjuma,FW,Poacher,27,Club_Netherlands,846,351
+Netherlands,Simon Thijssen,FW,Target Man,22,Club_Netherlands,1672,369
+Netherlands,Henk Groot,FW,Inverted Winger,34,Club_Netherlands,1216,123
+New Zealand,Alex Paulsen,GK,Sweeper Keeper,27,Club_New Zealand,2755,569
+New Zealand,Danny Hay,GK,Line Keeper,21,Club_New Zealand,937,280
+New Zealand,Bill Perry,GK,Sweeper Keeper,20,Club_New Zealand,940,329
+New Zealand,Rory Just,DF,Ball-Playing CB,21,Club_New Zealand,1108,231
+New Zealand,Brent Thomas,DF,No-Sense CB,29,Club_New Zealand,487,106
+New Zealand,Rupert Ryan,DF,Attacking Fullback,21,Club_New Zealand,1024,463
+New Zealand,Colin Walker,DF,Inverted Wingback,29,Club_New Zealand,917,463
+New Zealand,Callum McCowatt,DF,No-Sense CB,24,Club_New Zealand,462,488
+New Zealand,Malcolm Dunford,DF,Inverted Wingback,31,Club_New Zealand,931,443
+New Zealand,Andre Stamenić,DF,Inverted Wingback,33,Club_New Zealand,1505,155
+New Zealand,Kevin Weymouth,DF,Ball-Playing CB,30,Club_New Zealand,881,93
+New Zealand,Marco Rojas,MF,Deep-Lying Playmaker,30,Club_New Zealand,1551,233
+New Zealand,Rory Chih Tsong,MF,Ball-Winning Midfielder,28,Club_New Zealand,1764,70
+New Zealand,Jeff Perry,MF,Advanced Playmaker,18,Club_New Zealand,1842,119
+New Zealand,Adrian Elrick,MF,Ball-Winning Midfielder,32,Club_New Zealand,971,297
+New Zealand,Ben Old,MF,Ball-Winning Midfielder,32,Club_New Zealand,1243,248
+New Zealand,David Bevan,MF,Deep-Lying Playmaker,27,Club_New Zealand,1989,425
+New Zealand,Ryan Nelsen,MF,Advanced Playmaker,31,Club_New Zealand,1636,214
+New Zealand,Marko Stamenić,MF,Box-to-Box Midfielder,22,Club_New Zealand,1454,136
+New Zealand,Neil Jones,FW,Target Man,22,Club_New Zealand,1283,354
+New Zealand,Raf Rufer,FW,Poacher,29,Club_New Zealand,744,474
+New Zealand,Riki van Steeden,FW,Inverted Winger,21,Club_New Zealand,1194,376
+New Zealand,Simon Halligan,FW,Target Man,18,Club_New Zealand,892,201
+New Zealand,Ben Waine,FW,Inverted Winger,19,Club_New Zealand,327,491
+New Zealand,Mark McCowatt,FW,Poacher,26,Club_New Zealand,722,135
+New Zealand,Noah Hickey,FW,Inverted Winger,34,Club_New Zealand,1933,247
+Norway,Ørjan Nyland,GK,Sweeper Keeper,24,Sevilla,2976,829
+Norway,Julian Ryerson,DF,Ball-Playing CB,24,Borussia Dortmund,1821,511
+Norway,Andreas Hanche-Olsen,DF,Ball-Playing CB,21,Mainz 05,2641,497
+Norway,Leo Østigård,DF,Inverted Wingback,22,Rennes,2436,485
+Norway,David Møller Wolfe,DF,Inverted Wingback,27,AZ Alkmaar,3117,642
+Norway,Martin Ødegaard,MF,Ball-Winning Midfielder,20,Arsenal,2759,431
+Norway,Sander Berge,MF,Ball-Winning Midfielder,24,Fulham,2331,553
+Norway,Kristian Thorstvedt,MF,Ball-Winning Midfielder,23,Sassuolo,2683,613
+Norway,Oscar Bobb,FW,Poacher,27,Manchester City,2543,612
+Norway,Erling Haaland,FW,Poacher,25,Manchester City,2427,780
+Norway,Antonio Nusa,FW,Inverted Winger,27,RB Leipzig,1857,425
+Norway,Alexander Sørloth,FW,Inverted Winger,21,Atletico Madrid,3077,443
+Norway,Håvard Nordtveit,GK,Sweeper Keeper,27,Club_Norway,1311,276
+Norway,Erik Larsen Økland,GK,Line Keeper,24,Club_Norway,1759,328
+Norway,Ola Mykland,DF,Ball-Playing CB,28,Club_Norway,1008,356
+Norway,Tore Reginiussen,DF,Attacking Fullback,29,Club_Norway,1909,57
+Norway,Antonio Rudi,DF,Inverted Wingback,26,Club_Norway,463,134
+Norway,Thelo Sadygov,DF,Inverted Wingback,26,Club_Norway,858,448
+Norway,Hallvar Thoresen,MF,Advanced Playmaker,31,Club_Norway,1427,259
+Norway,Felix Horn Myhre,MF,Box-to-Box Midfielder,23,Club_Norway,1591,435
+Norway,Davide Simoncini,MF,Ball-Winning Midfielder,33,Club_Norway,686,414
+Norway,Kjetil Rekdal,MF,Ball-Winning Midfielder,28,Club_Norway,339,466
+Norway,John Bohinen,MF,Advanced Playmaker,18,Club_Norway,1314,57
+Norway,Tarik Elyounoussi,FW,Inverted Winger,33,Club_Norway,1942,150
+Norway,Øyvind Leonhardsen,FW,Inside Forward,23,Club_Norway,665,295
+Norway,Ole Stavrum,FW,Poacher,26,Club_Norway,1847,444
+Panama,Orlando Mosquera,GK,Sweeper Keeper,29,Club_Panama,2415,628
+Panama,Luis Góyez,GK,Sweeper Keeper,30,Club_Panama,1312,70
+Panama,Juan Carlos Cubillas,GK,Line Keeper,30,Club_Panama,1485,309
+Panama,Yassine Martínez,DF,Inverted Wingback,23,Club_Panama,1829,272
+Panama,Benjamín Smith,DF,Attacking Fullback,22,Club_Panama,1860,180
+Panama,Javain Brown,DF,Ball-Playing CB,21,Club_Panama,1229,203
+Panama,Benjamín Piggott,DF,No-Sense CB,22,Club_Panama,526,238
+Panama,Everardo Vega,DF,Inverted Wingback,26,Club_Panama,1695,483
+Panama,Amir Catuy,DF,No-Sense CB,29,Club_Panama,1700,444
+Panama,Carlos Rivera,DF,No-Sense CB,32,Club_Panama,1687,413
+Panama,César Yanis,DF,Ball-Playing CB,19,Club_Panama,1281,180
+Panama,Miguel Camargo,MF,Advanced Playmaker,33,Club_Panama,1600,205
+Panama,Ricardo Phillips,MF,Advanced Playmaker,18,Club_Panama,1280,212
+Panama,Román Torres,MF,Advanced Playmaker,19,Club_Panama,340,356
+Panama,Yoel Góyez,MF,Ball-Winning Midfielder,28,Club_Panama,1252,328
+Panama,Freddy Góndola,MF,Advanced Playmaker,34,Club_Panama,1136,157
+Panama,Jorman Blanco,MF,Ball-Winning Midfielder,32,Club_Panama,1230,338
+Panama,Gabriel Palacios,MF,Advanced Playmaker,33,Club_Panama,1389,473
+Panama,Adolfo Waterman,MF,Advanced Playmaker,32,Club_Panama,753,250
+Panama,Amir Waithe,FW,Inside Forward,18,Club_Panama,1267,296
+Panama,Carlos Gabriel Rodríguez,FW,Poacher,20,Club_Panama,815,491
+Panama,Briel Thomas,FW,Inverted Winger,32,Club_Panama,442,240
+Panama,Rolando Blackburn,FW,Inverted Winger,20,Club_Panama,1636,166
+Panama,Ismael Díaz,FW,Inverted Winger,31,Club_Panama,1977,450
+Panama,Cristian Martínez,FW,Poacher,26,Club_Panama,1144,256
+Panama,Cecilio Blanco,FW,Target Man,18,Club_Panama,945,300
+Paraguay,Roberto Junior Fernández,GK,Sweeper Keeper,33,Club_Paraguay,2806,590
+Paraguay,Juan Carlos Villamayor,GK,Line Keeper,31,Club_Paraguay,849,191
+Paraguay,Jorge Amado Nunes,GK,Line Keeper,25,Club_Paraguay,1001,84
+Paraguay,Florencio da Silva,DF,Attacking Fullback,31,Club_Paraguay,1830,133
+Paraguay,Martín Flor,DF,Ball-Playing CB,25,Club_Paraguay,1155,319
+Paraguay,Piero Hincapié,DF,No-Sense CB,23,Club_Paraguay,961,481
+Paraguay,Eladio Ortiz,DF,Ball-Playing CB,31,Club_Paraguay,1246,436
+Paraguay,Néstor Lezcano,DF,No-Sense CB,26,Club_Paraguay,583,222
+Paraguay,Carles Puyol,DF,Attacking Fullback,31,Club_Paraguay,1386,122
+Paraguay,Luis Nery Caballero,DF,Attacking Fullback,32,Club_Paraguay,1311,447
+Paraguay,Ángel Romero,DF,Inverted Wingback,23,Club_Paraguay,1760,366
+Paraguay,Alejandro Romero Gamarra,MF,Advanced Playmaker,25,Club_Paraguay,764,335
+Paraguay,Ireneo Hermosilla,MF,Deep-Lying Playmaker,18,Club_Paraguay,1699,357
+Paraguay,Adalberto Morínigo,MF,Deep-Lying Playmaker,31,Club_Paraguay,1526,358
+Paraguay,Ángel Jara Saguier,MF,Ball-Winning Midfielder,26,Club_Paraguay,633,271
+Paraguay,Juan Bautista Agüero,MF,Deep-Lying Playmaker,21,Club_Paraguay,367,313
+Paraguay,Rubén Puyol,MF,Box-to-Box Midfielder,26,Club_Paraguay,1960,159
+Paraguay,Julio Valentín González,MF,Box-to-Box Midfielder,26,Club_Paraguay,1955,176
+Paraguay,Pablo Ramírez,MF,Ball-Winning Midfielder,33,Club_Paraguay,776,111
+Paraguay,Romulo Guirland,FW,Inverted Winger,33,Club_Paraguay,1993,317
+Paraguay,Lino Nessi,FW,Poacher,28,Club_Paraguay,1899,99
+Paraguay,Néstor Alderete,FW,Inverted Winger,22,Club_Paraguay,1627,325
+Paraguay,Justo Jacquet,FW,Inverted Winger,20,Club_Paraguay,1312,250
+Paraguay,José del Solar,FW,Inverted Winger,26,Club_Paraguay,1647,84
+Paraguay,Gorgonio Nery Caballero,FW,Inverted Winger,19,Club_Paraguay,1027,114
+Paraguay,Salvador Villalba,FW,Inside Forward,30,Club_Paraguay,642,480
+Portugal,Diogo Costa,GK,Sweeper Keeper,30,Porto,2731,575
+Portugal,Cristiano Ronaldo,FW,Target Man,28,Al-Nassr,2458,425
+Portugal,Bruno Fernandes,MF,Advanced Playmaker,32,Manchester United,2205,631
+Portugal,Bernardo Silva,MF,Deep-Lying Playmaker,22,Manchester City,2304,578
+Portugal,Rúben Dias,DF,Inverted Wingback,26,Manchester City,2147,939
+Portugal,João Cancelo,DF,Inverted Wingback,25,Al-Hilal,1875,891
+Portugal,Vitinha,MF,Box-to-Box Midfielder,27,Paris Saint-Germain,2985,746
+Portugal,Rafael Leão,FW,Poacher,28,Milan,2910,661
+Portugal,Gonçalo Ramos,FW,Target Man,28,Paris Saint-Germain,2372,661
+Portugal,Diogo Jota,FW,Target Man,30,Liverpool,2161,848
+Portugal,Eder,GK,Sweeper Keeper,30,Club_Portugal,1052,404
+Portugal,Johan Djourou,GK,Line Keeper,31,Club_Portugal,1614,481
+Portugal,José Augusto Torres,DF,Ball-Playing CB,34,Club_Portugal,952,238
+Portugal,Matateu Boye,DF,No-Sense CB,34,Club_Portugal,1625,418
+Portugal,Jorge Postiga,DF,No-Sense CB,25,Club_Portugal,854,453
+Portugal,Ricardo Sá Pinto,DF,Inverted Wingback,18,Club_Portugal,901,344
+Portugal,Pedro Barbosa,DF,Ball-Playing CB,34,Club_Portugal,1003,367
+Portugal,Frederico Paciência,DF,No-Sense CB,28,Club_Portugal,681,282
+Portugal,Ivan Ronaldo,MF,Deep-Lying Playmaker,22,Club_Portugal,1116,90
+Portugal,Kamil Paciência,MF,Deep-Lying Playmaker,24,Club_Portugal,482,90
+Portugal,Rui Jorge,MF,Ball-Winning Midfielder,30,Club_Portugal,1078,196
+Portugal,Eliseu Sá Pinto,MF,Ball-Winning Midfielder,30,Club_Portugal,426,95
+Portugal,Jeff Peyroteo,MF,Deep-Lying Playmaker,18,Club_Portugal,1491,157
+Portugal,Ricardo Quaresma,FW,Poacher,29,Club_Portugal,883,494
+Portugal,Fernando Chalana,FW,Inverted Winger,30,Club_Portugal,1591,494
+Portugal,Humberto Pinto,FW,Inside Forward,18,Club_Portugal,1624,139
+Qatar,Meshaal Barsham,GK,Sweeper Keeper,29,Club_Qatar,2649,507
+Qatar,Abdulgadir Soria,GK,Sweeper Keeper,31,Club_Qatar,1666,207
+Qatar,Nasir Khamees,GK,Sweeper Keeper,32,Club_Qatar,1026,226
+Qatar,Abdul Mendes,DF,Attacking Fullback,19,Club_Qatar,1647,210
+Qatar,Abdelkarim Hassan,DF,Attacking Fullback,21,Club_Qatar,893,196
+Qatar,Khalifa Al-Sulaiti,DF,Attacking Fullback,25,Club_Qatar,1407,162
+Qatar,Anbar Sulaiti,DF,Ball-Playing CB,29,Club_Qatar,1701,292
+Qatar,Adel Malulla,DF,Attacking Fullback,26,Club_Qatar,1258,334
+Qatar,Boualem Khoukhi,DF,Ball-Playing CB,27,Club_Qatar,749,356
+Qatar,Magid Mohamed,DF,Attacking Fullback,30,Club_Qatar,1589,447
+Qatar,Bilal Ismail,DF,No-Sense CB,26,Club_Qatar,1700,88
+Qatar,Rayed Al-Boloushi,MF,Advanced Playmaker,20,Club_Qatar,1407,204
+Qatar,Fábio César Montezine,MF,Deep-Lying Playmaker,19,Club_Qatar,1928,215
+Qatar,Adel Salem Al-Mal,MF,Ball-Winning Midfielder,33,Club_Qatar,1673,345
+Qatar,Saleh Eid Al-Mehaizaa,MF,Box-to-Box Midfielder,34,Club_Qatar,567,468
+Qatar,Feng Mubarak,MF,Ball-Winning Midfielder,18,Club_Qatar,1634,350
+Qatar,Ali Al-Rawi,MF,Ball-Winning Midfielder,22,Club_Qatar,1536,111
+Qatar,Muhsin Musabah,MF,Deep-Lying Playmaker,23,Club_Qatar,576,487
+Qatar,Hassan Al-Haydos,MF,Ball-Winning Midfielder,21,Club_Qatar,910,478
+Qatar,Karim Meshaal,FW,Poacher,26,Club_Qatar,1957,79
+Qatar,Ali Mohammed Al-Saadah,FW,Inside Forward,29,Club_Qatar,1774,244
+Qatar,Nasser Kamil Mubarak,FW,Inside Forward,29,Club_Qatar,1146,90
+Qatar,Ró-Ró Ilyas Bakur,FW,Poacher,25,Club_Qatar,1398,97
+Qatar,Talal Al-Bloushi,FW,Inside Forward,21,Club_Qatar,1703,466
+Qatar,Fahad Al Kuwari,FW,Inside Forward,24,Club_Qatar,1613,489
+Qatar,Yusef Khoukhi,FW,Inside Forward,22,Club_Qatar,306,245
+Saudi Arabia,Ahmed Al-Kassar,GK,Sweeper Keeper,27,Club_Saudi Arabia,2967,820
+Saudi Arabia,Abdulrahman Al-Shamrani,GK,Sweeper Keeper,32,Club_Saudi Arabia,1471,324
+Saudi Arabia,Mohsin Harthi,GK,Sweeper Keeper,27,Club_Saudi Arabia,1767,451
+Saudi Arabia,Fares Juma,DF,Inverted Wingback,20,Club_Saudi Arabia,1750,175
+Saudi Arabia,Mohaisen Al-Jam'an,DF,Attacking Fullback,34,Club_Saudi Arabia,1180,343
+Saudi Arabia,Ibrahim Al-Harbi,DF,Inverted Wingback,22,Club_Saudi Arabia,1715,467
+Saudi Arabia,Saud Lajami,DF,Inverted Wingback,29,Club_Saudi Arabia,1809,370
+Saudi Arabia,Saleh Abu Al-Shamat,DF,Attacking Fullback,21,Club_Saudi Arabia,1948,414
+Saudi Arabia,Yahya Al-Shehri,DF,No-Sense CB,22,Club_Saudi Arabia,1225,425
+Saudi Arabia,Nawaf Al-Temyat,DF,Inverted Wingback,20,Club_Saudi Arabia,374,94
+Saudi Arabia,Omar Kesarat,DF,Inverted Wingback,31,Club_Saudi Arabia,662,497
+Saudi Arabia,Saeed Al-Waked,MF,Ball-Winning Midfielder,27,Club_Saudi Arabia,1886,355
+Saudi Arabia,Saleh Al-Suwaiyed Shehrani,MF,Box-to-Box Midfielder,32,Club_Saudi Arabia,544,79
+Saudi Arabia,Fares Al-Waked,MF,Box-to-Box Midfielder,22,Club_Saudi Arabia,421,174
+Saudi Arabia,Ahmed Al Nifawi,MF,Deep-Lying Playmaker,27,Club_Saudi Arabia,423,406
+Saudi Arabia,Saad Kanno,MF,Ball-Winning Midfielder,23,Club_Saudi Arabia,1085,250
+Saudi Arabia,Saado Al-Suwaiti,MF,Deep-Lying Playmaker,30,Club_Saudi Arabia,358,480
+Saudi Arabia,Musab Al-Juwayr,MF,Box-to-Box Midfielder,34,Club_Saudi Arabia,408,273
+Saudi Arabia,Hassan Fallatah,MF,Advanced Playmaker,21,Club_Saudi Arabia,1392,214
+Saudi Arabia,Obeid Jamil Madani,FW,Inverted Winger,34,Club_Saudi Arabia,973,414
+Saudi Arabia,Ali Al-Hassan,FW,Target Man,20,Club_Saudi Arabia,1877,403
+Saudi Arabia,Faisal Al-Waked,FW,Inside Forward,30,Club_Saudi Arabia,1886,299
+Saudi Arabia,Fuad Hazazi,FW,Inverted Winger,31,Club_Saudi Arabia,682,70
+Saudi Arabia,Sami Al-Najei,FW,Inside Forward,28,Club_Saudi Arabia,658,373
+Saudi Arabia,Hattan Bahebri,FW,Poacher,18,Club_Saudi Arabia,1927,496
+Saudi Arabia,Mohamed Kanno,FW,Inside Forward,20,Club_Saudi Arabia,1208,160
+Scotland,Angus Gunn,GK,Sweeper Keeper,24,Club_Scotland,2538,772
+Scotland,Kieran Gemmill,GK,Sweeper Keeper,25,Club_Scotland,1537,298
+Scotland,Antonio McAllister,GK,Line Keeper,22,Club_Scotland,1298,390
+Scotland,Ross Findlay,DF,Inverted Wingback,22,Club_Scotland,956,150
+Scotland,Callum McGregor,DF,Inverted Wingback,19,Club_Scotland,566,359
+Scotland,Ben Patterson,DF,Ball-Playing CB,32,Club_Scotland,1463,295
+Scotland,Peter McStay,DF,Ball-Playing CB,28,Club_Scotland,1810,54
+Scotland,Andrew Shearer,DF,Ball-Playing CB,26,Club_Scotland,857,61
+Scotland,Scott McTominay,DF,No-Sense CB,34,Club_Scotland,1182,196
+Scotland,Craig Miller,DF,No-Sense CB,33,Club_Scotland,919,285
+Scotland,Denis Gallacher,DF,Inverted Wingback,23,Club_Scotland,1322,232
+Scotland,Jimmy Murray,MF,Box-to-Box Midfielder,21,Club_Scotland,1425,124
+Scotland,Christian Hewie,MF,Deep-Lying Playmaker,32,Club_Scotland,1014,241
+Scotland,Steven Thompson,MF,Deep-Lying Playmaker,34,Club_Scotland,1273,268
+Scotland,Oliver Burke,MF,Box-to-Box Midfielder,32,Club_Scotland,1071,440
+Scotland,John Collins,MF,Deep-Lying Playmaker,20,Club_Scotland,1371,378
+Scotland,Archie Hutchison,MF,Advanced Playmaker,30,Club_Scotland,636,418
+Scotland,Janek Meet,MF,Deep-Lying Playmaker,25,Club_Scotland,446,112
+Scotland,Davie Wilson,MF,Box-to-Box Midfielder,20,Club_Scotland,742,374
+Scotland,Craig Beattie,FW,Inverted Winger,32,Club_Scotland,1817,238
+Scotland,Paul Hartley,FW,Poacher,33,Club_Scotland,1437,71
+Scotland,Denis Law,FW,Inverted Winger,28,Club_Scotland,1889,443
+Scotland,Don Hutchison,FW,Target Man,33,Club_Scotland,1527,243
+Scotland,Peter Chalmers,FW,Inverted Winger,20,Club_Scotland,995,335
+Scotland,Christian O'Hare,FW,Inverted Winger,32,Club_Scotland,1486,68
+Scotland,Berat McArthur,FW,Target Man,25,Club_Scotland,1093,162
+Senegal,Édouard Mendy,GK,Sweeper Keeper,30,Club_Senegal,2726,529
+Senegal,Alagame Seck,GK,Sweeper Keeper,20,Club_Senegal,1388,341
+Senegal,Cheikh N'Doye,GK,Sweeper Keeper,22,Club_Senegal,300,448
+Senegal,Mamadou Niang,DF,Ball-Playing CB,30,Club_Senegal,947,438
+Senegal,Thierno Youm,DF,Inverted Wingback,26,Club_Senegal,1450,306
+Senegal,Omar Pierre Diéme,DF,Inverted Wingback,20,Club_Senegal,493,240
+Senegal,Khalilou N'Diaye,DF,Inverted Wingback,26,Club_Senegal,1101,479
+Senegal,Salif Diao,DF,No-Sense CB,21,Club_Senegal,713,407
+Senegal,Cherif Ndiaye,DF,Attacking Fullback,20,Club_Senegal,1907,308
+Senegal,Idrissa Matar Sarr,DF,No-Sense CB,30,Club_Senegal,1613,94
+Senegal,Athanas Bocandé,DF,Ball-Playing CB,23,Club_Senegal,1851,115
+Senegal,Pape Hadji Diouf,MF,Advanced Playmaker,34,Club_Senegal,674,211
+Senegal,Henri Sané,MF,Box-to-Box Midfielder,33,Club_Senegal,1681,237
+Senegal,Famara Diédhiou,MF,Box-to-Box Midfielder,19,Club_Senegal,1797,62
+Senegal,Kader Mangane,MF,Advanced Playmaker,32,Club_Senegal,807,339
+Senegal,Abdoulaye Ba,MF,Ball-Winning Midfielder,20,Club_Senegal,1203,264
+Senegal,Papakouli Diop,MF,Box-to-Box Midfielder,24,Club_Senegal,1888,344
+Senegal,Krépin Wagué,MF,Deep-Lying Playmaker,34,Club_Senegal,1556,207
+Senegal,Mamadou Diallo,MF,Deep-Lying Playmaker,30,Club_Senegal,1856,452
+Senegal,Ibrahima Sonko,FW,Inverted Winger,34,Club_Senegal,482,72
+Senegal,Ibrahima Baldé,FW,Inside Forward,27,Club_Senegal,1333,103
+Senegal,Momath Badiane,FW,Inside Forward,31,Club_Senegal,1501,461
+Senegal,Yatma Diouck,FW,Target Man,32,Club_Senegal,1345,79
+Senegal,Mamadou Diarra,FW,Poacher,21,Club_Senegal,1528,108
+Senegal,Iliman Karim Sèye,FW,Poacher,25,Club_Senegal,1789,61
+Senegal,Omar Traoré,FW,Poacher,31,Club_Senegal,1613,387
+South Africa,Ronwen Williams,GK,Sweeper Keeper,30,Club_South Africa,2753,626
+South Africa,Benni Mashego,GK,Sweeper Keeper,26,Club_South Africa,1884,128
+South Africa,Bongani Nyathi,GK,Sweeper Keeper,34,Club_South Africa,1317,398
+South Africa,Bongani Khumalo,DF,No-Sense CB,23,Club_South Africa,508,392
+South Africa,Iqraam Rayners,DF,Inverted Wingback,25,Club_South Africa,689,374
+South Africa,Delron Mphela,DF,Inverted Wingback,28,Club_South Africa,932,114
+South Africa,Mark Williams,DF,Attacking Fullback,26,Club_South Africa,1997,477
+South Africa,Siyabonga Nomvethe,DF,Inverted Wingback,21,Club_South Africa,1210,356
+South Africa,Thuso Matlaba,DF,Ball-Playing CB,34,Club_South Africa,497,161
+South Africa,Thembinkosi Fanteni,DF,Inverted Wingback,29,Club_South Africa,990,470
+South Africa,Lungisani Booth,DF,Ball-Playing CB,18,Club_South Africa,931,488
+South Africa,Quinton Fortune,MF,Box-to-Box Midfielder,32,Club_South Africa,322,262
+South Africa,Manucho Diniz,MF,Deep-Lying Playmaker,28,Club_South Africa,1336,150
+South Africa,Surprise Moriri,MF,Deep-Lying Playmaker,29,Club_South Africa,822,322
+South Africa,Jabu Pule,MF,Advanced Playmaker,32,Club_South Africa,1092,143
+South Africa,Thapelo Maseko,MF,Deep-Lying Playmaker,29,Club_South Africa,1616,347
+South Africa,Teboho Mokoena,MF,Deep-Lying Playmaker,22,Club_South Africa,1825,353
+South Africa,Dumisa Ngobe,MF,Ball-Winning Midfielder,26,Club_South Africa,1678,352
+South Africa,Bongokuhle Hlongwane,MF,Advanced Playmaker,31,Club_South Africa,526,285
+South Africa,Evidence Radebe,FW,Inverted Winger,24,Club_South Africa,1336,259
+South Africa,Bongokuhle Tinkler,FW,Inverted Winger,30,Club_South Africa,1423,80
+South Africa,Thamsanqa Gabuza,FW,Target Man,33,Club_South Africa,948,378
+South Africa,Lungisani Ndlela,FW,Target Man,28,Club_South Africa,1251,149
+South Africa,Benni McCarthy,FW,Inverted Winger,30,Club_South Africa,461,442
+South Africa,Katlego Mashego,FW,Inside Forward,25,Club_South Africa,1586,341
+South Africa,Abram Raselemane,FW,Target Man,20,Club_South Africa,1351,375
+South Korea,Jo Hyeon-woo,GK,Sweeper Keeper,27,Ulsan HD,2939,809
+South Korea,Son Heung-min,FW,Target Man,20,Tottenham Hotspur,2155,932
+South Korea,Kim Min-jae,DF,Inverted Wingback,30,Bayern Munich,2026,924
+South Korea,Lee Kang-in,MF,Deep-Lying Playmaker,20,Paris Saint-Germain,1917,453
+South Korea,Hwang Hee-chan,FW,Target Man,24,Wolverhampton Wanderers,2867,452
+South Korea,Woo Kwang-suk,GK,Line Keeper,31,Club_South Korea,1848,214
+South Korea,Paik Seung-hyun,GK,Line Keeper,19,Club_South Korea,1167,447
+South Korea,Choi Yong-soo,DF,No-Sense CB,20,Club_South Korea,686,160
+South Korea,Park Kun-Ha,DF,No-Sense CB,34,Club_South Korea,1505,421
+South Korea,Akmal Kyung-Hoon,DF,Inverted Wingback,28,Club_South Korea,708,277
+South Korea,Hwang Chun-soo,DF,No-Sense CB,23,Club_South Korea,418,205
+South Korea,Kim Pan-Keun,DF,Inverted Wingback,32,Club_South Korea,764,153
+South Korea,Oh Se-hun,DF,Inverted Wingback,29,Club_South Korea,1825,230
+South Korea,Koo Ja-cheol,DF,No-Sense CB,32,Club_South Korea,1044,211
+South Korea,Yazan Kyu-Poong,MF,Deep-Lying Playmaker,23,Club_South Korea,1714,273
+South Korea,Roh Sang-Rae,MF,Deep-Lying Playmaker,18,Club_South Korea,354,491
+South Korea,Choi Byung-kuk,MF,Ball-Winning Midfielder,29,Club_South Korea,1851,257
+South Korea,Jang Zhi,MF,Ball-Winning Midfielder,21,Club_South Korea,1272,184
+South Korea,Bae Young-pyo,MF,Advanced Playmaker,32,Club_South Korea,606,209
+South Korea,Koo Jung-won,MF,Ball-Winning Midfielder,25,Club_South Korea,524,266
+South Korea,Shin Young-Moo,MF,Advanced Playmaker,25,Club_South Korea,1368,263
+South Korea,Park Chul,FW,Poacher,21,Club_South Korea,915,244
+South Korea,Bae Jun-ho,FW,Inverted Winger,26,Club_South Korea,456,147
+South Korea,Choi Moon-Sik,FW,Target Man,30,Club_South Korea,1402,173
+South Korea,Artyom Filiposyan,FW,Poacher,29,Club_South Korea,1541,53
+South Korea,Na Sang-ho,FW,Target Man,25,Club_South Korea,692,168
+Spain,Unai Simón,GK,Sweeper Keeper,27,Athletic Bilbao,3007,830
+Spain,Dani Carvajal,DF,Attacking Fullback,31,Real Madrid,2077,632
+Spain,Robin Le Normand,DF,Ball-Playing CB,30,Atletico Madrid,2913,891
+Spain,Aymeric Laporte,DF,Attacking Fullback,29,Al-Nassr,1825,424
+Spain,Marc Cucurella,DF,No-Sense CB,30,Chelsea,3124,738
+Spain,Rodri,MF,Ball-Winning Midfielder,32,Manchester City,2255,759
+Spain,Fabián Ruiz,MF,Advanced Playmaker,31,Paris Saint-Germain,2290,448
+Spain,Dani Olmo,MF,Ball-Winning Midfielder,23,Barcelona,2925,615
+Spain,Lamine Yamal,FW,Target Man,31,Barcelona,2358,558
+Spain,Nico Williams,FW,Inverted Winger,21,Athletic Bilbao,2593,404
+Spain,Álvaro Morata,FW,Inside Forward,23,Milan,2160,858
+Spain,Ferran Torres,FW,Inside Forward,25,Barcelona,2745,821
+Spain,Mikel Merino,MF,Ball-Winning Midfielder,21,Arsenal,1814,521
+Spain,Maximilian Göppel,GK,Sweeper Keeper,31,Club_Spain,752,439
+Spain,César Martín,GK,Line Keeper,31,Club_Spain,1013,351
+Spain,Maximilian Gento,DF,Ball-Playing CB,20,Club_Spain,1289,55
+Spain,Pau Kvirkvelia,DF,Ball-Playing CB,25,Club_Spain,1751,284
+Spain,Juan Gensana,DF,Inverted Wingback,18,Club_Spain,630,382
+Spain,Venancio García,DF,No-Sense CB,28,Club_Spain,1162,205
+Spain,Mikel Maceda,MF,Advanced Playmaker,23,Club_Spain,571,117
+Spain,Fran,MF,Ball-Winning Midfielder,33,Club_Spain,995,369
+Spain,Javier Roberto,MF,Ball-Winning Midfielder,29,Club_Spain,1462,406
+Spain,César Azpilicueta,MF,Deep-Lying Playmaker,23,Club_Spain,1185,203
+Spain,Telmo Zarra,FW,Target Man,21,Club_Spain,919,420
+Spain,Adrián Kucka,FW,Inverted Winger,19,Club_Spain,1596,156
+Spain,Aritz Aduriz,FW,Poacher,33,Club_Spain,749,467
+Sweden,Robin Olsen,GK,Sweeper Keeper,29,Club_Sweden,2919,640
+Sweden,Sven Nordahl,GK,Line Keeper,25,Club_Sweden,777,401
+Sweden,Andreas Álvarez,GK,Line Keeper,32,Club_Sweden,1929,370
+Sweden,Arne Selmosson,DF,Attacking Fullback,24,Club_Sweden,892,236
+Sweden,Aldo Lundgren,DF,Inverted Wingback,29,Club_Sweden,436,470
+Sweden,Emil Holm,DF,No-Sense CB,21,Club_Sweden,1936,205
+Sweden,Aldo Junior Simoncini,DF,No-Sense CB,28,Club_Sweden,469,301
+Sweden,Markus Sandell,DF,Inverted Wingback,19,Club_Sweden,1890,481
+Sweden,Ove Grahn,DF,Attacking Fullback,22,Club_Sweden,1478,426
+Sweden,Aldo Granström,DF,Ball-Playing CB,20,Club_Sweden,1976,222
+Sweden,Pär Junior Simoncini,DF,No-Sense CB,21,Club_Sweden,1588,487
+Sweden,Andreas Simoncini,MF,Advanced Playmaker,19,Club_Sweden,1822,178
+Sweden,Dan Rosenberg,MF,Advanced Playmaker,24,Club_Sweden,1279,453
+Sweden,Ken Sema,MF,Deep-Lying Playmaker,20,Club_Sweden,1934,162
+Sweden,Agne Cervin,MF,Ball-Winning Midfielder,31,Club_Sweden,1340,323
+Sweden,Nils Liedholm,MF,Deep-Lying Playmaker,21,Club_Sweden,1260,163
+Sweden,Bror Mellberg,MF,Deep-Lying Playmaker,30,Club_Sweden,1727,165
+Sweden,Torbjörn Jonsson,MF,Ball-Winning Midfielder,27,Club_Sweden,614,252
+Sweden,Gabriel Mendes,MF,Deep-Lying Playmaker,26,Club_Sweden,1516,450
+Sweden,Patrik Andersson,FW,Target Man,19,Club_Sweden,1315,286
+Sweden,Robert Prytz,FW,Inverted Winger,21,Club_Sweden,1008,305
+Sweden,Lars Bajrami,FW,Poacher,20,Club_Sweden,887,331
+Sweden,Stefan Landberg,FW,Poacher,30,Club_Sweden,999,248
+Sweden,Harry Zengin,FW,Poacher,24,Club_Sweden,453,89
+Sweden,Ove Kindvall,FW,Inverted Winger,31,Club_Sweden,431,328
+Sweden,Alexander Kačaniklić,FW,Target Man,32,Club_Sweden,1053,165
+Switzerland,Yann Sommer,GK,Sweeper Keeper,30,Club_Switzerland,2952,867
+Switzerland,Adrian Inler,GK,Sweeper Keeper,33,Club_Switzerland,914,95
+Switzerland,Leopold Quentin,GK,Line Keeper,31,Club_Switzerland,1828,373
+Switzerland,Robert Lüthi,DF,No-Sense CB,32,Club_Switzerland,720,434
+Switzerland,Karl Odermatt,DF,Attacking Fullback,32,Club_Switzerland,1603,332
+Switzerland,Fabian Schär,DF,Inverted Wingback,21,Club_Switzerland,1293,73
+Switzerland,Haris Sforza,DF,Inverted Wingback,27,Club_Switzerland,1327,372
+Switzerland,Manuel Akanji,DF,No-Sense CB,34,Club_Switzerland,770,230
+Switzerland,Rolf Frigerio,DF,Inverted Wingback,30,Club_Switzerland,880,400
+Switzerland,Andi Ponte,DF,No-Sense CB,26,Club_Switzerland,1124,298
+Switzerland,Thomas Sutter,DF,Inverted Wingback,23,Club_Switzerland,1680,362
+Switzerland,Christian Fassnacht,MF,Box-to-Box Midfielder,25,Club_Switzerland,690,152
+Switzerland,René-Pierre Aebischer,MF,Box-to-Box Midfielder,20,Club_Switzerland,683,228
+Switzerland,Amir Rrahmani,MF,Box-to-Box Midfielder,32,Club_Switzerland,1143,87
+Switzerland,Xherdan Frigerio,MF,Ball-Winning Midfielder,21,Club_Switzerland,1050,218
+Switzerland,Sébastien Fournier,MF,Deep-Lying Playmaker,30,Club_Switzerland,1666,363
+Switzerland,Jacques Zwicker,MF,Box-to-Box Midfielder,22,Club_Switzerland,836,161
+Switzerland,Alexandre Hufschmid,MF,Ball-Winning Midfielder,31,Club_Switzerland,1508,431
+Switzerland,Remo Freuler,MF,Advanced Playmaker,32,Club_Switzerland,1874,65
+Switzerland,Alfred Bickel,FW,Inside Forward,25,Club_Switzerland,1052,321
+Switzerland,Ruben Vargas,FW,Poacher,27,Club_Switzerland,1525,81
+Switzerland,René Maillard,FW,Poacher,19,Club_Switzerland,1066,303
+Switzerland,Massimo Lombardo,FW,Inverted Winger,34,Club_Switzerland,1974,59
+Switzerland,Dario Akanji,FW,Target Man,34,Club_Switzerland,1883,485
+Switzerland,Marco Ponte,FW,Poacher,22,Club_Switzerland,1425,290
+Switzerland,Georges Aeby,FW,Inverted Winger,21,Club_Switzerland,1404,432
+Tunisia,Amanallah Memmiche,GK,Sweeper Keeper,30,Club_Tunisia,2593,603
+Tunisia,Khemais Labidi,GK,Sweeper Keeper,24,Club_Tunisia,1521,50
+Tunisia,Tarak Dhiab,GK,Sweeper Keeper,24,Club_Tunisia,808,175
+Tunisia,Ellyes Sassi,DF,Ball-Playing CB,34,Club_Tunisia,1741,300
+Tunisia,Chaouki Ben Saada,DF,Ball-Playing CB,26,Club_Tunisia,1464,119
+Tunisia,Kais Yâakoubi,DF,No-Sense CB,20,Club_Tunisia,1660,112
+Tunisia,Bassam Ben Larbi,DF,Ball-Playing CB,29,Club_Tunisia,474,158
+Tunisia,Rached Sidibé,DF,Attacking Fullback,18,Club_Tunisia,1262,320
+Tunisia,Aïssa Laïdouni,DF,Inverted Wingback,21,Club_Tunisia,668,388
+Tunisia,Hamza Ben-Hatira,DF,Attacking Fullback,20,Club_Tunisia,787,127
+Tunisia,Ali Abdi,DF,No-Sense CB,18,Club_Tunisia,1593,211
+Tunisia,Hakim Merrichkou,MF,Deep-Lying Playmaker,21,Club_Tunisia,1027,364
+Tunisia,Ezzedine Gasri,MF,Deep-Lying Playmaker,23,Club_Tunisia,1188,482
+Tunisia,Adel Chedli,MF,Advanced Playmaker,18,Club_Tunisia,1776,332
+Tunisia,Ali Kaabi,MF,Advanced Playmaker,23,Club_Tunisia,1299,62
+Tunisia,Wissem Hamrouni,MF,Advanced Playmaker,20,Club_Tunisia,958,253
+Tunisia,Abdelmajid Tlemçani,MF,Advanced Playmaker,28,Club_Tunisia,1781,138
+Tunisia,Khemais Lahzami,MF,Advanced Playmaker,21,Club_Tunisia,727,200
+Tunisia,Mohieddine Bronn,MF,Box-to-Box Midfielder,22,Club_Tunisia,1139,56
+Tunisia,Lotfi Hsoumi,FW,Target Man,20,Club_Tunisia,1949,321
+Tunisia,Mehdi Ben Slimane,FW,Poacher,33,Club_Tunisia,1447,162
+Tunisia,Kamel Gabsi,FW,Inside Forward,28,Club_Tunisia,1606,189
+Tunisia,Hassen Herichi,FW,Inverted Winger,23,Club_Tunisia,1420,54
+Tunisia,Anis Ben Slimane,FW,Inverted Winger,31,Club_Tunisia,1392,167
+Tunisia,Mejdi Meddeb,FW,Inside Forward,18,Club_Tunisia,1641,99
+Tunisia,Firas Jaziri,FW,Inside Forward,26,Club_Tunisia,318,263
+Turkey,Mert Günok,GK,Sweeper Keeper,27,Club_Turkey,2849,546
+Turkey,Tony Dunne,GK,Sweeper Keeper,21,Club_Turkey,588,190
+Turkey,Enes Ünal,GK,Line Keeper,24,Club_Turkey,1914,264
+Turkey,Fevzi Zemzem,DF,No-Sense CB,27,Club_Turkey,660,106
+Turkey,Aydın Yelken,DF,Inverted Wingback,27,Club_Turkey,316,371
+Turkey,Tayfur Havutçu,DF,No-Sense CB,22,Club_Turkey,1735,367
+Turkey,Ender Konca,DF,Ball-Playing CB,22,Club_Turkey,1405,474
+Turkey,Necati Ateş,DF,Ball-Playing CB,34,Club_Turkey,1527,120
+Turkey,Sabri Sarıoğlu,DF,Attacking Fullback,20,Club_Turkey,1077,147
+Turkey,Mehmet Aurélio,DF,Ball-Playing CB,20,Club_Turkey,507,51
+Turkey,İlyas Tüfekçi,DF,Inverted Wingback,27,Club_Turkey,465,71
+Turkey,Fatih Toraman,MF,Box-to-Box Midfielder,28,Club_Turkey,1762,344
+Turkey,Tuncay Şanlı,MF,Ball-Winning Midfielder,32,Club_Turkey,529,69
+Turkey,Orhan Çıkırıkçı,MF,Ball-Winning Midfielder,26,Club_Turkey,1249,197
+Turkey,Rıza Erdinç,MF,Advanced Playmaker,20,Club_Turkey,666,371
+Turkey,Umut Bulut,MF,Box-to-Box Midfielder,19,Club_Turkey,1217,372
+Turkey,Arda Altıntop,MF,Box-to-Box Midfielder,32,Club_Turkey,1606,315
+Turkey,Ender Eken,MF,Deep-Lying Playmaker,18,Club_Turkey,1675,97
+Turkey,Gökhan Ünal,MF,Box-to-Box Midfielder,26,Club_Turkey,1766,149
+Turkey,Samet Akaydin,FW,Poacher,19,Club_Turkey,712,114
+Turkey,Emre Belözoğlu,FW,Poacher,27,Club_Turkey,1120,128
+Turkey,Yusuf Altıntaş,FW,Poacher,33,Club_Turkey,1216,428
+Turkey,Samet Korkmaz,FW,Inside Forward,21,Club_Turkey,909,463
+Turkey,Saffet Popov,FW,Inverted Winger,30,Club_Turkey,583,498
+Turkey,Arif Kocabıyık,FW,Inverted Winger,30,Club_Turkey,1391,56
+Turkey,Burak Yılmaz,FW,Inverted Winger,26,Club_Turkey,1487,132
+United States,Matt Turner,GK,Sweeper Keeper,23,Club_United States,3049,572
+United States,Joe Corona,GK,Sweeper Keeper,31,Club_United States,917,465
+United States,Henry Straden,GK,Line Keeper,23,Club_United States,475,215
+United States,Walter Cameron,DF,Ball-Playing CB,27,Club_United States,669,332
+United States,Haji Wright,DF,No-Sense CB,20,Club_United States,1830,390
+United States,Davy Lassiter,DF,Attacking Fullback,32,Club_United States,1594,181
+United States,Aldo Chacurian,DF,Ball-Playing CB,26,Club_United States,1214,297
+United States,Brian Ching,DF,Inverted Wingback,34,Club_United States,342,426
+United States,Bart McGhee,DF,Ball-Playing CB,27,Club_United States,511,217
+United States,John Doyle,DF,Attacking Fullback,34,Club_United States,1056,200
+United States,Oguchi Chacurian,DF,Attacking Fullback,32,Club_United States,1323,112
+United States,Matt Armas,MF,Deep-Lying Playmaker,31,Club_United States,368,348
+United States,Brad Souza,MF,Advanced Playmaker,19,Club_United States,595,252
+United States,Sam Vines,MF,Deep-Lying Playmaker,20,Club_United States,1637,210
+United States,Claudio Ferreira,MF,Ball-Winning Midfielder,33,Club_United States,637,143
+United States,Sebastian Lletget,MF,Advanced Playmaker,27,Club_United States,1661,87
+United States,Bobby Wood,MF,Ball-Winning Midfielder,21,Club_United States,1766,368
+United States,Geoff Dooley,MF,Deep-Lying Playmaker,31,Club_United States,686,407
+United States,Conor Casey,MF,Deep-Lying Playmaker,31,Club_United States,990,258
+United States,Frank Klopas,FW,Inverted Winger,23,Club_United States,1942,394
+United States,Brek Ferreira,FW,Poacher,34,Club_United States,1095,402
+United States,Cade Cowell,FW,Target Man,22,Club_United States,948,387
+United States,Herculez Gomez,FW,Inside Forward,19,Club_United States,744,107
+United States,Alexi Lalas,FW,Poacher,23,Club_United States,979,469
+United States,Stuart Holden,FW,Target Man,28,Club_United States,1872,384
+United States,Eddie Pope,FW,Inside Forward,19,Club_United States,362,199
+Uruguay,Sergio Rochet,GK,Sweeper Keeper,33,Internacional,3097,684
+Uruguay,Nahitan Nández,DF,Ball-Playing CB,23,Al-Qadsiah,3037,655
+Uruguay,Ronald Araújo,DF,Attacking Fullback,32,Barcelona,2674,487
+Uruguay,Mathías Olivera,DF,Inverted Wingback,31,Napoli,3030,528
+Uruguay,Matías Viña,DF,Attacking Fullback,22,Flamengo,2773,520
+Uruguay,Federico Valverde,MF,Deep-Lying Playmaker,25,Real Madrid,2861,740
+Uruguay,Manuel Ugarte,MF,Advanced Playmaker,32,Manchester United,2444,420
+Uruguay,Nicolás de la Cruz,MF,Box-to-Box Midfielder,26,Flamengo,2762,702
+Uruguay,Facundo Pellistri,FW,Inside Forward,22,Panathinaikos,2602,468
+Uruguay,Darwin Núñez,FW,Inverted Winger,23,Liverpool,1939,843
+Uruguay,Maximiliano Araújo,FW,Poacher,27,Sporting CP,2545,934
+Uruguay,Luis Suárez,FW,Inverted Winger,24,Inter Miami,1860,718
+Uruguay,Andrés Martínez,GK,Line Keeper,30,Club_Uruguay,1634,351
+Uruguay,Ubaldo Corujo,GK,Line Keeper,22,Club_Uruguay,1871,159
+Uruguay,Cristhian Núñez,DF,No-Sense CB,34,Club_Uruguay,1685,363
+Uruguay,Cristhian Sarro,DF,Attacking Fullback,33,Club_Uruguay,396,418
+Uruguay,Rodrigo Bentancur,DF,Ball-Playing CB,26,Club_Uruguay,1329,158
+Uruguay,Segundo Villadóniga,DF,Attacking Fullback,24,Club_Uruguay,961,474
+Uruguay,Cristhian Diogo,MF,Box-to-Box Midfielder,22,Club_Uruguay,1749,136
+Uruguay,Arturo Laurido,MF,Deep-Lying Playmaker,29,Club_Uruguay,770,463
+Uruguay,Lorenzo García,MF,Deep-Lying Playmaker,26,Club_Uruguay,1608,288
+Uruguay,Edinson Hohberg,MF,Deep-Lying Playmaker,30,Club_Uruguay,971,95
+Uruguay,Isabelino Gradín,MF,Advanced Playmaker,32,Club_Uruguay,1947,456
+Uruguay,Rodrigo Lemos,FW,Inverted Winger,34,Club_Uruguay,1570,153
+Uruguay,Abel Hernández,FW,Inverted Winger,19,Club_Uruguay,784,183
+Uruguay,Raúl Sarro,FW,Inside Forward,18,Club_Uruguay,1737,258
+Uzbekistan,Utkir Yusupov,GK,Sweeper Keeper,33,Club_Uzbekistan,2815,621
+Uzbekistan,Anzur Ismailov,GK,Line Keeper,32,Club_Uzbekistan,1319,164
+Uzbekistan,Oston Urunov,GK,Line Keeper,19,Club_Uzbekistan,1557,77
+Uzbekistan,Mirjalol Lushan,DF,Attacking Fullback,31,Club_Uzbekistan,546,96
+Uzbekistan,Stanislav Andreev,DF,No-Sense CB,32,Club_Uzbekistan,1705,461
+Uzbekistan,Khojiakbar Alijonov,DF,Inverted Wingback,25,Club_Uzbekistan,662,186
+Uzbekistan,Ulugbek Karpenko,DF,Attacking Fullback,18,Club_Uzbekistan,1257,68
+Uzbekistan,Jaloliddin Masharipov,DF,Attacking Fullback,27,Club_Uzbekistan,474,498
+Uzbekistan,Andrei Ashoor,DF,Ball-Playing CB,19,Club_Uzbekistan,1822,190
+Uzbekistan,Mirdjalal Khasanov,DF,No-Sense CB,18,Club_Uzbekistan,1229,142
+Uzbekistan,Aziz Ibrahimov,DF,Inverted Wingback,32,Club_Uzbekistan,504,97
+Uzbekistan,Timur Sergeev,MF,Deep-Lying Playmaker,24,Club_Uzbekistan,939,393
+Uzbekistan,Egor Krimets,MF,Box-to-Box Midfielder,34,Club_Uzbekistan,370,318
+Uzbekistan,Timur Kapadze,MF,Deep-Lying Playmaker,34,Club_Uzbekistan,1774,56
+Uzbekistan,Maksim Shkvyrin,MF,Box-to-Box Midfielder,34,Club_Uzbekistan,1426,358
+Uzbekistan,Sanjar Kodirkulov,MF,Deep-Lying Playmaker,34,Club_Uzbekistan,1897,66
+Uzbekistan,Leonid Koshelev,MF,Ball-Winning Midfielder,20,Club_Uzbekistan,1530,78
+Uzbekistan,Pavel Solomin,MF,Deep-Lying Playmaker,28,Club_Uzbekistan,715,331
+Uzbekistan,Igor Shkvyrin,MF,Advanced Playmaker,33,Club_Uzbekistan,324,359
+Uzbekistan,Sanjar Koshelev,FW,Inside Forward,26,Club_Uzbekistan,931,361
+Uzbekistan,Jafar Salomov,FW,Inverted Winger,33,Club_Uzbekistan,724,413
+Uzbekistan,Igor Ashurmatov,FW,Poacher,26,Club_Uzbekistan,1522,255
+Uzbekistan,Odiljon Hamrobekov,FW,Inverted Winger,19,Club_Uzbekistan,728,320
+Uzbekistan,Bahtiyor Akopyants,FW,Poacher,28,Club_Uzbekistan,1241,79
+Uzbekistan,Andrei Fyodorov,FW,Inverted Winger,25,Club_Uzbekistan,957,484
+Uzbekistan,Husniddin Kodirkulov,FW,Inside Forward,33,Club_Uzbekistan,493,273

@@ -1,0 +1,1249 @@
+player_name,team,position,expected_minutes,prob_play_90_mins,prob_start_and_subbed_off,prob_bench_and_subbed_on,prob_no_appearance
+Anthony Mandrea,Algeria,GK,90,1.0,0.0,0.0,0.0
+Brahim Aouar,Algeria,GK,7,0.0,0.0,0.26,0.74
+Nacer Bouiche,Algeria,GK,9,0.0,0.0,0.2,0.8
+Djamel Zidane,Algeria,DF,75,0.95,0.05,0.0,0.0
+Abdelmoumene Mansouri,Algeria,DF,82,0.84,0.16,0.0,0.0
+Omar Betrouni,Algeria,DF,82,0.8,0.2,0.0,0.0
+Mourad Meziane,Algeria,DF,87,0.81,0.19,0.0,0.0
+Ramiz Zerrouki,Algeria,DF,12,0.0,0.0,0.19,0.81
+Moussa Saïb,Algeria,DF,6,0.0,0.0,0.19,0.81
+Abdelmoumene Belmadi,Algeria,DF,9,0.0,0.0,0.26,0.74
+Ramy Bensebaini,Algeria,DF,9,0.0,0.0,0.35,0.65
+Hacène Lalmas,Algeria,MF,83,0.77,0.23,0.0,0.0
+Moussa Belaïd,Algeria,MF,88,0.76,0.24,0.0,0.0
+Djamel Belmadi,Algeria,MF,77,0.81,0.19,0.0,0.0
+Hocine Achiou,Algeria,MF,82,0.93,0.07,0.0,0.0
+Cheikh Gueye,Algeria,MF,17,0.0,0.0,0.27,0.73
+Sofiane Daoud,Algeria,MF,11,0.0,0.0,0.32,0.68
+Zakariya Matmour,Algeria,MF,12,0.0,0.0,0.34,0.66
+Hocine Yahi,Algeria,MF,9,0.0,0.0,0.26,0.74
+Hocine Benrahma,Algeria,FW,80,0.83,0.17,0.0,0.0
+Said Benrahma,Algeria,FW,80,0.62,0.38,0.0,0.0
+Djamel Assad,Algeria,FW,10,0.0,0.0,0.14,0.86
+Ali Fergani,Algeria,FW,11,0.0,0.0,0.25,0.75
+Farid Ghazi,Algeria,FW,19,0.0,0.0,0.15,0.85
+Hacène Kraouche,Algeria,FW,10,0.0,0.0,0.21,0.79
+Hocine Ghilas,Algeria,FW,19,0.0,0.0,0.21,0.79
+Emiliano Martínez,Argentina,GK,90,1.0,0.0,0.0,0.0
+Lionel Messi,Argentina,FW,85,0.66,0.34,0.0,0.0
+Lautaro Martínez,Argentina,FW,89,0.87,0.13,0.0,0.0
+Alexis Mac Allister,Argentina,MF,82,0.76,0.24,0.0,0.0
+Enzo Fernández,Argentina,MF,79,0.88,0.12,0.0,0.0
+Rodrigo De Paul,Argentina,MF,77,0.79,0.21,0.0,0.0
+Cristian Romero,Argentina,DF,84,0.65,0.35,0.0,0.0
+Lisandro Martínez,Argentina,DF,76,0.89,0.11,0.0,0.0
+Julián Álvarez,Argentina,FW,6,0.0,0.0,0.33,0.67
+Angel Di Maria,Argentina,FW,14,0.0,0.0,0.29,0.71
+Nicolas Otamendi,Argentina,DF,83,0.72,0.28,0.0,0.0
+Daniel Díaz,Argentina,GK,10,0.0,0.0,0.28,0.72
+Vladislao Cap,Argentina,GK,17,0.0,0.0,0.21,0.79
+Jose Albornoz,Argentina,DF,88,0.81,0.19,0.0,0.0
+Nicolás Tagliafico,Argentina,DF,8,0.0,0.0,0.16,0.84
+Herminio Batistuta,Argentina,DF,18,0.0,0.0,0.26,0.74
+Francisco Pasculli,Argentina,DF,11,0.0,0.0,0.23,0.77
+Carlos Guerini,Argentina,DF,15,0.0,0.0,0.32,0.68
+Ángel Correa,Argentina,MF,87,0.73,0.27,0.0,0.0
+Gonzalo Ortega,Argentina,MF,11,0.0,0.0,0.17,0.83
+Rolf Feltscher,Argentina,MF,19,0.0,0.0,0.13,0.87
+Gabino Marcovecchio,Argentina,MF,7,0.0,0.0,0.11,0.89
+Humberto Maschio,Argentina,MF,14,0.0,0.0,0.27,0.73
+José Gaslini,Argentina,FW,19,0.0,0.0,0.34,0.66
+José Luis Brown,Argentina,FW,12,0.0,0.0,0.34,0.66
+Marcos Pellegrina,Argentina,FW,9,0.0,0.0,0.12,0.88
+Mathew Ryan,Australia,GK,90,1.0,0.0,0.0,0.0
+Brandon Campbell,Australia,GK,8,0.0,0.0,0.19,0.81
+Robbie Dunn,Australia,GK,9,0.0,0.0,0.34,0.66
+Brandon Borrello,Australia,DF,88,0.83,0.17,0.0,0.0
+John Iredale,Australia,DF,81,0.93,0.07,0.0,0.0
+Nestory Irankunda,Australia,DF,85,0.73,0.27,0.0,0.0
+Kris Trajanovski,Australia,DF,89,0.75,0.25,0.0,0.0
+Ray Abonyi,Australia,DF,14,0.0,0.0,0.16,0.84
+Branko Buljevic,Australia,DF,8,0.0,0.0,0.11,0.89
+Willie Duke,Australia,DF,12,0.0,0.0,0.13,0.87
+Alex Dasovic,Australia,DF,8,0.0,0.0,0.21,0.79
+Mile Sterjovski,Australia,MF,74,0.94,0.06,0.0,0.0
+Jason Davidson,Australia,MF,79,0.64,0.36,0.0,0.0
+Keanu Baccus,Australia,MF,83,0.7,0.3,0.0,0.0
+Chris Juric,Australia,MF,79,0.67,0.33,0.0,0.0
+Adam Vidmar,Australia,MF,12,0.0,0.0,0.15,0.85
+Branko Cole,Australia,MF,12,0.0,0.0,0.13,0.87
+Warren Spink,Australia,MF,11,0.0,0.0,0.19,0.81
+Troy Halpin,Australia,MF,8,0.0,0.0,0.27,0.73
+Vic Baccus,Australia,FW,75,0.67,0.33,0.0,0.0
+Ken Boden,Australia,FW,75,0.65,0.35,0.0,0.0
+Massimo Byrne,Australia,FW,10,0.0,0.0,0.32,0.68
+Willie Alston,Australia,FW,19,0.0,0.0,0.17,0.83
+Arno Popovic,Australia,FW,10,0.0,0.0,0.22,0.78
+Nathan Barnes,Australia,FW,11,0.0,0.0,0.28,0.72
+Tony Henderson,Australia,FW,18,0.0,0.0,0.3,0.7
+Patrick Pentz,Austria,GK,90,1.0,0.0,0.0,0.0
+Berti Dunne,Austria,GK,9,0.0,0.0,0.22,0.78
+Adrian Grbić,Austria,GK,14,0.0,0.0,0.23,0.77
+Anton Aufhauser,Austria,DF,85,0.71,0.29,0.0,0.0
+Camillo Hasil,Austria,DF,83,0.7,0.3,0.0,0.0
+Adi Hanappi,Austria,DF,88,0.75,0.25,0.0,0.0
+Karim Bican,Austria,DF,81,0.89,0.11,0.0,0.0
+Romano Schmid,Austria,DF,14,0.0,0.0,0.17,0.83
+Kurt Welzl,Austria,DF,6,0.0,0.0,0.21,0.79
+Ernst Spiteri,Austria,DF,17,0.0,0.0,0.19,0.81
+Alfred Aigner,Austria,DF,6,0.0,0.0,0.27,0.73
+Louis Schaub,Austria,MF,79,0.83,0.17,0.0,0.0
+Felix Gasselich,Austria,MF,81,0.71,0.29,0.0,0.0
+Hannes Reinmayr,Austria,MF,78,0.8,0.2,0.0,0.0
+Saša Kalajdžić,Austria,MF,80,0.93,0.07,0.0,0.0
+Walter Schachner,Austria,MF,14,0.0,0.0,0.15,0.85
+Alfred Körner,Austria,MF,6,0.0,0.0,0.22,0.78
+Franz Binder,Austria,MF,13,0.0,0.0,0.22,0.78
+Fernando Walzhofer,Austria,MF,16,0.0,0.0,0.27,0.73
+Marcel Sabitzer,Austria,FW,78,0.64,0.36,0.0,0.0
+Helmut Redl,Austria,FW,87,0.74,0.26,0.0,0.0
+Donyell Linz,Austria,FW,11,0.0,0.0,0.27,0.73
+György Garics,Austria,FW,15,0.0,0.0,0.29,0.71
+Heimo Grbić,Austria,FW,18,0.0,0.0,0.33,0.67
+Marc Janko,Austria,FW,17,0.0,0.0,0.34,0.66
+Emanuel Pogatetz,Austria,FW,9,0.0,0.0,0.23,0.77
+Koen Casteels,Belgium,GK,90,1.0,0.0,0.0,0.0
+Kevin De Bruyne,Belgium,MF,84,0.8,0.2,0.0,0.0
+Romelu Lukaku,Belgium,FW,85,0.83,0.17,0.0,0.0
+Leandro Trossard,Belgium,FW,75,0.94,0.06,0.0,0.0
+Amadou Onana,Belgium,MF,79,0.73,0.27,0.0,0.0
+Jérémy Doku,Belgium,FW,15,0.0,0.0,0.14,0.86
+Timothy Castagne,Belgium,DF,77,0.9,0.1,0.0,0.0
+Wout Faes,Belgium,DF,74,0.68,0.32,0.0,0.0
+Henri Coppens,Belgium,GK,17,0.0,0.0,0.2,0.8
+Marcel Dolmans,Belgium,GK,10,0.0,0.0,0.25,0.75
+Luc Nilis,Belgium,DF,77,0.94,0.06,0.0,0.0
+Nico Hazard,Belgium,DF,79,0.73,0.27,0.0,0.0
+Thorgan Hazard,Belgium,DF,10,0.0,0.0,0.19,0.81
+Mbo Mpenza,Belgium,DF,7,0.0,0.0,0.33,0.67
+Nicolas Lombaerts,Belgium,DF,15,0.0,0.0,0.18,0.82
+Denis Houf,Belgium,DF,15,0.0,0.0,0.31,0.69
+Kypros Christoforou,Belgium,MF,76,0.66,0.34,0.0,0.0
+Cristian Brolli,Belgium,MF,80,0.69,0.31,0.0,0.0
+Raoul Dockx,Belgium,MF,9,0.0,0.0,0.32,0.68
+Dries Mertens,Belgium,MF,11,0.0,0.0,0.25,0.75
+Philippe Clement,Belgium,MF,8,0.0,0.0,0.1,0.9
+Jason Carrasco,Belgium,MF,19,0.0,0.0,0.25,0.75
+Peter Van Der Heyden,Belgium,FW,5,0.0,0.0,0.26,0.74
+Jan Vertonghen,Belgium,FW,17,0.0,0.0,0.16,0.84
+Leander Dendoncker,Belgium,FW,8,0.0,0.0,0.21,0.79
+Loïs Degryse,Belgium,FW,19,0.0,0.0,0.15,0.85
+Nikola Vasilj,Bosnia and Herzegovina,GK,90,1.0,0.0,0.0,0.0
+Miralem Pjanić,Bosnia and Herzegovina,GK,12,0.0,0.0,0.22,0.78
+Deni Mujčin,Bosnia and Herzegovina,GK,6,0.0,0.0,0.34,0.66
+Andreas Bajramović,Bosnia and Herzegovina,DF,85,0.81,0.19,0.0,0.0
+Neofytos Michail,Bosnia and Herzegovina,DF,86,0.92,0.08,0.0,0.0
+Luka Bartolović,Bosnia and Herzegovina,DF,78,0.6,0.4,0.0,0.0
+Haris Tabaković,Bosnia and Herzegovina,DF,87,0.82,0.18,0.0,0.0
+Senijad Ibričić,Bosnia and Herzegovina,DF,10,0.0,0.0,0.21,0.79
+Muhamed Konjić,Bosnia and Herzegovina,DF,5,0.0,0.0,0.28,0.72
+Senijad Menalo,Bosnia and Herzegovina,DF,17,0.0,0.0,0.29,0.71
+Armin Gigović,Bosnia and Herzegovina,DF,17,0.0,0.0,0.28,0.72
+Elvis Sarić,Bosnia and Herzegovina,MF,89,0.66,0.34,0.0,0.0
+Amer Gojak,Bosnia and Herzegovina,MF,87,0.72,0.28,0.0,0.0
+Haris Hajradinović,Bosnia and Herzegovina,MF,79,0.68,0.32,0.0,0.0
+Toni Šunjić,Bosnia and Herzegovina,MF,86,0.92,0.08,0.0,0.0
+Mladen Bartolović,Bosnia and Herzegovina,MF,14,0.0,0.0,0.29,0.71
+Amar Dedić,Bosnia and Herzegovina,MF,9,0.0,0.0,0.11,0.89
+Zlatan Muslimović,Bosnia and Herzegovina,MF,8,0.0,0.0,0.17,0.83
+Anel Ahmedhodžić,Bosnia and Herzegovina,MF,13,0.0,0.0,0.21,0.79
+Dario Vršajević,Bosnia and Herzegovina,FW,86,0.66,0.34,0.0,0.0
+Neofytos Barbarez,Bosnia and Herzegovina,FW,74,0.86,0.14,0.0,0.0
+Andreas Malin,Bosnia and Herzegovina,FW,13,0.0,0.0,0.18,0.82
+Neofytos Đumić,Bosnia and Herzegovina,FW,16,0.0,0.0,0.28,0.72
+Bruno Akrapović,Bosnia and Herzegovina,FW,18,0.0,0.0,0.33,0.67
+Zlatan Hota,Bosnia and Herzegovina,FW,12,0.0,0.0,0.17,0.83
+Sejad Ćustović,Bosnia and Herzegovina,FW,18,0.0,0.0,0.27,0.73
+Alisson Becker,Brazil,GK,90,1.0,0.0,0.0,0.0
+Vinícius Júnior,Brazil,FW,82,0.88,0.12,0.0,0.0
+Rodrygo,Brazil,FW,82,0.8,0.2,0.0,0.0
+Endrick,Brazil,FW,19,0.0,0.0,0.29,0.71
+Bruno Guimarães,Brazil,MF,79,0.93,0.07,0.0,0.0
+Lucas Paquetá,Brazil,MF,77,0.73,0.27,0.0,0.0
+Marquinhos,Brazil,DF,77,0.61,0.39,0.0,0.0
+Éder Militão,Brazil,DF,79,0.87,0.13,0.0,0.0
+Gabriel Magalhães,Brazil,DF,74,0.75,0.25,0.0,0.0
+Raphinha,Brazil,FW,12,0.0,0.0,0.11,0.89
+Cláudio Ibrahim Vaz Leal,Brazil,GK,7,0.0,0.0,0.17,0.83
+Washington Gomes,Brazil,GK,12,0.0,0.0,0.33,0.67
+Raí,Brazil,DF,88,0.83,0.17,0.0,0.0
+Willian Cunha,Brazil,DF,12,0.0,0.0,0.18,0.82
+Danilo Alvim,Brazil,DF,6,0.0,0.0,0.25,0.75
+Heleno Anunciado de Oliveira,Brazil,DF,9,0.0,0.0,0.32,0.68
+Roberto Batata,Brazil,DF,8,0.0,0.0,0.19,0.81
+Jairzinho Belletti,Brazil,MF,88,0.7,0.3,0.0,0.0
+Walter Sisenando,Brazil,MF,84,0.6,0.4,0.0,0.0
+Carvalho Leite,Brazil,MF,5,0.0,0.0,0.28,0.72
+Adriano Leite Ribeiro,Brazil,MF,11,0.0,0.0,0.21,0.79
+Edmílson da Silva,Brazil,MF,7,0.0,0.0,0.18,0.82
+Djalma Santos,Brazil,MF,7,0.0,0.0,0.14,0.86
+Walter Minuano,Brazil,FW,12,0.0,0.0,0.21,0.79
+Zdenko Rodrigues,Brazil,FW,5,0.0,0.0,0.12,0.88
+Friaça,Brazil,FW,12,0.0,0.0,0.24,0.76
+Maxime Crépeau,Canada,GK,90,1.0,0.0,0.0,0.0
+Nayef Aguerd,Canada,GK,16,0.0,0.0,0.15,0.85
+Tesho Sweeney,Canada,GK,6,0.0,0.0,0.33,0.67
+Kim Kaye,Canada,DF,83,0.66,0.34,0.0,0.0
+Wes McLeod,Canada,DF,86,0.66,0.34,0.0,0.0
+Atiba Hutchinson,Canada,DF,83,0.7,0.3,0.0,0.0
+Nikolas Berdusco,Canada,DF,85,0.76,0.24,0.0,0.0
+Mark Watson,Canada,DF,19,0.0,0.0,0.23,0.77
+Domenic Parsons,Canada,DF,14,0.0,0.0,0.1,0.9
+Nathan Koné,Canada,DF,10,0.0,0.0,0.27,0.73
+Sergio Osorio,Canada,DF,14,0.0,0.0,0.26,0.74
+Norm Arfield,Canada,MF,79,0.8,0.2,0.0,0.0
+Nathan Saliba,Canada,MF,74,0.7,0.3,0.0,0.0
+Nathan Brault-Guillard,Canada,MF,74,0.86,0.14,0.0,0.0
+Sam Gerba,Canada,MF,87,0.87,0.13,0.0,0.0
+Jacob Shaffelburg,Canada,MF,7,0.0,0.0,0.15,0.85
+Ostap Steckiw,Canada,MF,9,0.0,0.0,0.16,0.84
+Jason Nakajima-Farran,Canada,MF,19,0.0,0.0,0.2,0.8
+Méddy Maldonado,Canada,MF,19,0.0,0.0,0.19,0.81
+Nick Dasovic,Canada,FW,83,0.92,0.08,0.0,0.0
+Jayden Nelson,Canada,FW,87,0.84,0.16,0.0,0.0
+Paul Stalteri,Canada,FW,5,0.0,0.0,0.21,0.79
+Norman Patterson,Canada,FW,6,0.0,0.0,0.15,0.85
+Promise Maldonado,Canada,FW,14,0.0,0.0,0.25,0.75
+Geoff Corazzin,Canada,FW,8,0.0,0.0,0.31,0.69
+Julian Stalteri,Canada,FW,10,0.0,0.0,0.14,0.86
+Vozinha,Cape Verde,GK,90,1.0,0.0,0.0,0.0
+Odaïr Monteiro,Cape Verde,GK,17,0.0,0.0,0.23,0.77
+Júlio Tavares,Cape Verde,GK,10,0.0,0.0,0.27,0.73
+Stopira,Cape Verde,DF,85,0.81,0.19,0.0,0.0
+Diney,Cape Verde,DF,85,0.82,0.18,0.0,0.0
+Jovane Modeste,Cape Verde,DF,76,0.72,0.28,0.0,0.0
+Odaïr Tavares,Cape Verde,DF,82,0.72,0.28,0.0,0.0
+Janício Monteiro,Cape Verde,DF,19,0.0,0.0,0.1,0.9
+Héldon Ramos,Cape Verde,DF,15,0.0,0.0,0.33,0.67
+Telmo Arcanjo,Cape Verde,DF,16,0.0,0.0,0.32,0.68
+Dailon Livramento,Cape Verde,DF,12,0.0,0.0,0.26,0.74
+Arlindo Filipe Correia Semedo,Cape Verde,MF,74,0.74,0.26,0.0,0.0
+Nuno Miguel Monteiro Rocha,Cape Verde,MF,81,0.71,0.29,0.0,0.0
+Yannick Semedo,Cape Verde,MF,88,0.63,0.37,0.0,0.0
+Nuno Ramos,Cape Verde,MF,82,0.88,0.12,0.0,0.0
+Odaïr Morais Caló,Cape Verde,MF,9,0.0,0.0,0.12,0.88
+Ryan Gomes Semedo,Cape Verde,MF,9,0.0,0.0,0.22,0.78
+Telmo Tavares,Cape Verde,MF,12,0.0,0.0,0.12,0.88
+Bryan Lopes Cabral,Cape Verde,MF,10,0.0,0.0,0.15,0.85
+Jovane Cabral,Cape Verde,FW,80,0.91,0.09,0.0,0.0
+Platini Morais Caló,Cape Verde,FW,73,0.86,0.14,0.0,0.0
+Nuno Cabral,Cape Verde,FW,16,0.0,0.0,0.25,0.75
+Bebé,Cape Verde,FW,15,0.0,0.0,0.23,0.77
+Diney Gomes Semedo,Cape Verde,FW,16,0.0,0.0,0.32,0.68
+Gilson Tavares,Cape Verde,FW,17,0.0,0.0,0.24,0.76
+Telmo Fortes,Cape Verde,FW,19,0.0,0.0,0.24,0.76
+Camilo Vargas,Colombia,GK,90,1.0,0.0,0.0,0.0
+James Rodríguez,Colombia,MF,80,0.61,0.39,0.0,0.0
+Luis Díaz,Colombia,FW,86,0.65,0.35,0.0,0.0
+Jhon Durán,Colombia,FW,83,0.78,0.22,0.0,0.0
+Daniel Muñoz,Colombia,DF,79,0.95,0.05,0.0,0.0
+Davinson Sánchez,Colombia,DF,72,0.69,0.31,0.0,0.0
+Jefferson Lerma,Colombia,MF,81,0.73,0.27,0.0,0.0
+Juan Jairo Galeano,Colombia,GK,9,0.0,0.0,0.29,0.71
+Hernán Darío Herrera,Colombia,GK,10,0.0,0.0,0.22,0.78
+Sergio Moreno,Colombia,DF,84,0.88,0.12,0.0,0.0
+Antonio Zapata,Colombia,DF,86,0.62,0.38,0.0,0.0
+Orlando Maturana,Colombia,DF,10,0.0,0.0,0.15,0.85
+Nolberto González,Colombia,DF,5,0.0,0.0,0.31,0.69
+Alejandro Carrillo,Colombia,DF,18,0.0,0.0,0.33,0.67
+Pablo Armero,Colombia,DF,7,0.0,0.0,0.16,0.84
+Jefferson Hernández,Colombia,MF,86,0.65,0.35,0.0,0.0
+Carlos Valderrama,Colombia,MF,86,0.89,0.11,0.0,0.0
+Alejandro Arlex Castillo,Colombia,MF,15,0.0,0.0,0.3,0.7
+Eduardo Vilarete,Colombia,MF,19,0.0,0.0,0.18,0.82
+Sebastián Cuéllar,Colombia,MF,7,0.0,0.0,0.1,0.9
+Nolberto Darío Hernández,Colombia,MF,9,0.0,0.0,0.33,0.67
+José Castrillón,Colombia,FW,5,0.0,0.0,0.21,0.79
+Luis Suárez,Colombia,FW,6,0.0,0.0,0.11,0.89
+Willington Ortiz,Colombia,FW,9,0.0,0.0,0.18,0.82
+Juan Fernando Quintero,Colombia,FW,10,0.0,0.0,0.14,0.86
+Marcial Gabriel Chaparro,Colombia,FW,6,0.0,0.0,0.34,0.66
+Dominik Livaković,Croatia,GK,90,1.0,0.0,0.0,0.0
+Tomislav Barišić,Croatia,GK,5,0.0,0.0,0.33,0.67
+Tin Mandžukić,Croatia,GK,18,0.0,0.0,0.12,0.88
+Lovro Majer,Croatia,DF,83,0.64,0.36,0.0,0.0
+Milan Rapaić,Croatia,DF,82,0.62,0.38,0.0,0.0
+Dejan Štimac,Croatia,DF,74,0.63,0.37,0.0,0.0
+Mladen Petrić,Croatia,DF,75,0.84,0.16,0.0,0.0
+Milan Vukojević,Croatia,DF,14,0.0,0.0,0.31,0.69
+Niko Kranjčar,Croatia,DF,12,0.0,0.0,0.18,0.82
+Goran Vlaović,Croatia,DF,17,0.0,0.0,0.19,0.81
+Martin Sosa,Croatia,DF,15,0.0,0.0,0.34,0.66
+Ante Budimir,Croatia,MF,74,0.72,0.28,0.0,0.0
+Darijo Srna,Croatia,MF,84,0.79,0.21,0.0,0.0
+Dado Pršo,Croatia,MF,85,0.7,0.3,0.0,0.0
+Marko Vlaović,Croatia,MF,86,0.74,0.26,0.0,0.0
+Igor Matanović,Croatia,MF,8,0.0,0.0,0.24,0.76
+Igor Štimac,Croatia,MF,16,0.0,0.0,0.33,0.67
+Bruno Petković,Croatia,MF,8,0.0,0.0,0.2,0.8
+Martin Erlić,Croatia,MF,16,0.0,0.0,0.23,0.77
+Robert Pršo,Croatia,FW,73,0.79,0.21,0.0,0.0
+Davor Šuker,Croatia,FW,79,0.78,0.22,0.0,0.0
+Duje Livaja,Croatia,FW,15,0.0,0.0,0.17,0.83
+Mislav Vlaović,Croatia,FW,11,0.0,0.0,0.16,0.84
+Kristijan Jakić,Croatia,FW,12,0.0,0.0,0.11,0.89
+Tomislav Mladenović,Croatia,FW,16,0.0,0.0,0.33,0.67
+Vedran Ćorluka,Croatia,FW,14,0.0,0.0,0.18,0.82
+Eloy Room,Curaçao,GK,90,1.0,0.0,0.0,0.0
+Eduvigis Rudolfo Dirksz,Curaçao,GK,7,0.0,0.0,0.12,0.88
+Charlison Benschop,Curaçao,GK,10,0.0,0.0,0.23,0.77
+Martijn Brandborg,Curaçao,DF,76,0.87,0.13,0.0,0.0
+Edwin Miliano Loran,Curaçao,DF,78,0.86,0.14,0.0,0.0
+Gijsberta Chong,Curaçao,DF,82,0.91,0.09,0.0,0.0
+Toribio Antonia,Curaçao,DF,76,0.6,0.4,0.0,0.0
+Daniel Pablo,Curaçao,DF,12,0.0,0.0,0.31,0.69
+Darryl Lachman,Curaçao,DF,18,0.0,0.0,0.13,0.87
+Charlton Vicento,Curaçao,DF,17,0.0,0.0,0.33,0.67
+Michaël Maria,Curaçao,DF,14,0.0,0.0,0.31,0.69
+Sontje Hansen,Curaçao,MF,79,0.79,0.21,0.0,0.0
+Elson Comenencia,Curaçao,MF,80,0.71,0.29,0.0,0.0
+Edgard Meulens,Curaçao,MF,77,0.71,0.29,0.0,0.0
+Edrick de Lanoy,Curaçao,MF,74,0.89,0.11,0.0,0.0
+Juriën Gaari,Curaçao,MF,15,0.0,0.0,0.34,0.66
+Juninho Bacuna,Curaçao,MF,8,0.0,0.0,0.18,0.82
+Hubert Sambo,Curaçao,MF,5,0.0,0.0,0.28,0.72
+Erroll Comenencia,Curaçao,MF,9,0.0,0.0,0.31,0.69
+Virgilio Sillie,Curaçao,FW,77,0.75,0.25,0.0,0.0
+Rihairo Meulens,Curaçao,FW,72,0.74,0.26,0.0,0.0
+Darryl Brokke,Curaçao,FW,11,0.0,0.0,0.17,0.83
+Rangelo Carmelia,Curaçao,FW,15,0.0,0.0,0.3,0.7
+Rignald Croes,Curaçao,FW,13,0.0,0.0,0.25,0.75
+Edgard Benschop,Curaçao,FW,11,0.0,0.0,0.21,0.79
+Rignald Alfonso Clemencia,Curaçao,FW,6,0.0,0.0,0.13,0.87
+Jindřich Staněk,Czech Republic,GK,90,1.0,0.0,0.0,0.0
+Zdeněk Pospěch,Czech Republic,GK,13,0.0,0.0,0.15,0.85
+Adam Hložek,Czech Republic,GK,14,0.0,0.0,0.26,0.74
+Filip Novák,Czech Republic,DF,86,0.75,0.25,0.0,0.0
+Alex Matějovský,Czech Republic,DF,73,0.66,0.34,0.0,0.0
+Pavel Šulc,Czech Republic,DF,87,0.75,0.25,0.0,0.0
+Lukáš Provod,Czech Republic,DF,81,0.91,0.09,0.0,0.0
+Radoslav Pudil,Czech Republic,DF,13,0.0,0.0,0.27,0.73
+Lukáš Baranek,Czech Republic,DF,18,0.0,0.0,0.13,0.87
+Tomáš Sivok,Czech Republic,DF,13,0.0,0.0,0.11,0.89
+Janek Černý,Czech Republic,DF,7,0.0,0.0,0.25,0.75
+Jakub Plašil,Czech Republic,MF,73,0.63,0.37,0.0,0.0
+Boris Kováč,Czech Republic,MF,82,0.61,0.39,0.0,0.0
+Alex Jiráček,Czech Republic,MF,84,0.71,0.29,0.0,0.0
+Jan Krejčí,Czech Republic,MF,88,0.68,0.32,0.0,0.0
+Matěj Fenin,Czech Republic,MF,6,0.0,0.0,0.33,0.67
+Joel Čelůstka,Czech Republic,MF,14,0.0,0.0,0.33,0.67
+Theodor Gebre Selassie,Czech Republic,MF,15,0.0,0.0,0.11,0.89
+Jón Fenin,Czech Republic,MF,5,0.0,0.0,0.1,0.9
+Jiří Štajner,Czech Republic,FW,74,0.61,0.39,0.0,0.0
+Ondřej Necid,Czech Republic,FW,87,0.6,0.4,0.0,0.0
+Patrik Barák,Czech Republic,FW,16,0.0,0.0,0.18,0.82
+Zdeněk Ondrášek,Czech Republic,FW,19,0.0,0.0,0.11,0.89
+Libor Kuka,Czech Republic,FW,16,0.0,0.0,0.19,0.81
+Marek Matějovský,Czech Republic,FW,8,0.0,0.0,0.34,0.66
+Milan Baroš,Czech Republic,FW,6,0.0,0.0,0.12,0.88
+Lionel Mpasi,DR Congo,GK,90,1.0,0.0,0.0,0.0
+Roger Lukaku,DR Congo,GK,15,0.0,0.0,0.28,0.72
+Tsholola Tshinyama,DR Congo,GK,19,0.0,0.0,0.29,0.71
+Théo Ngassebe,DR Congo,DF,86,0.78,0.22,0.0,0.0
+Monduone N'Kama,DR Congo,DF,79,0.63,0.37,0.0,0.0
+Nathan Fasika,DR Congo,DF,84,0.89,0.11,0.0,0.0
+Lomana LuaLua,DR Congo,DF,88,0.68,0.32,0.0,0.0
+Imowa Pickel,DR Congo,DF,5,0.0,0.0,0.16,0.84
+Trésor Kisombe Mundaba,DR Congo,DF,9,0.0,0.0,0.12,0.88
+Ousmane Mpia,DR Congo,DF,14,0.0,0.0,0.12,0.88
+Britt Assombalonga,DR Congo,DF,16,0.0,0.0,0.11,0.89
+Paul-José M'Poku,DR Congo,MF,86,0.9,0.1,0.0,0.0
+Yves Yuvuladio,DR Congo,MF,87,0.72,0.28,0.0,0.0
+Jerry Tondelua,DR Congo,MF,78,0.62,0.38,0.0,0.0
+Nathanaël Mbuku,DR Congo,MF,76,0.85,0.15,0.0,0.0
+Bijou Kisombe Mundaba,DR Congo,MF,19,0.0,0.0,0.2,0.8
+Lomana Ilunga,DR Congo,MF,18,0.0,0.0,0.24,0.76
+Mbungu Ekofa,DR Congo,MF,17,0.0,0.0,0.24,0.76
+Epotele Kabananga,DR Congo,MF,9,0.0,0.0,0.29,0.71
+Michel Lukaku,DR Congo,FW,77,0.72,0.28,0.0,0.0
+Nkiere Wawa,DR Congo,FW,73,0.74,0.26,0.0,0.0
+Théo Lutonadio,DR Congo,FW,6,0.0,0.0,0.11,0.89
+Hérita Ilunga,DR Congo,FW,8,0.0,0.0,0.25,0.75
+Kembo Uba Kembo,DR Congo,FW,7,0.0,0.0,0.27,0.73
+Nathanaël Bokese,DR Congo,FW,17,0.0,0.0,0.16,0.84
+Étienne N'tsunda,DR Congo,FW,10,0.0,0.0,0.16,0.84
+Hernán Galíndez,Ecuador,GK,90,1.0,0.0,0.0,0.0
+Agustín Delgado,Ecuador,GK,10,0.0,0.0,0.18,0.82
+Enrique Raymondi Chávez,Ecuador,GK,19,0.0,0.0,0.17,0.83
+Hans Villacreses,Ecuador,DF,78,0.64,0.36,0.0,0.0
+Christian Alvarez,Ecuador,DF,77,0.68,0.32,0.0,0.0
+Ayrton Soliz,Ecuador,DF,86,0.88,0.12,0.0,0.0
+Jordy Arboleda,Ecuador,DF,80,0.79,0.21,0.0,0.0
+Raúl Noriega,Ecuador,DF,6,0.0,0.0,0.2,0.8
+Víctor Aguayo,Ecuador,DF,8,0.0,0.0,0.26,0.74
+Renato Tapia,Ecuador,DF,15,0.0,0.0,0.19,0.81
+Carlos Gruezo,Ecuador,DF,14,0.0,0.0,0.11,0.89
+Máximo Tenorio,Ecuador,MF,83,0.63,0.37,0.0,0.0
+Walter Ayoví,Ecuador,MF,81,0.76,0.24,0.0,0.0
+Ney Ibarra,Ecuador,MF,78,0.64,0.36,0.0,0.0
+Kevin Klinger,Ecuador,MF,81,0.88,0.12,0.0,0.0
+Alan Mina,Ecuador,MF,7,0.0,0.0,0.24,0.76
+Washington Azón,Ecuador,MF,17,0.0,0.0,0.26,0.74
+Guillermo Torres,Ecuador,MF,19,0.0,0.0,0.22,0.78
+Mario César Ramírez,Ecuador,MF,6,0.0,0.0,0.21,0.79
+Kevin Artega,Ecuador,FW,81,0.75,0.25,0.0,0.0
+Gonzalo Montaño,Ecuador,FW,88,0.78,0.22,0.0,0.0
+Orly Jacinto Vega,Ecuador,FW,18,0.0,0.0,0.11,0.89
+Romario Ibarra,Ecuador,FW,19,0.0,0.0,0.27,0.73
+Néstor Azón,Ecuador,FW,5,0.0,0.0,0.13,0.87
+Víctor Artega,Ecuador,FW,9,0.0,0.0,0.29,0.71
+Enrique Raymondi,Ecuador,FW,14,0.0,0.0,0.23,0.77
+Mohamed El Shenawy,Egypt,GK,90,1.0,0.0,0.0,0.0
+Hassan El-Shazly,Egypt,GK,16,0.0,0.0,0.11,0.89
+Bashir Abdel Samad,Egypt,GK,5,0.0,0.0,0.22,0.78
+Hussein El-Hamouly,Egypt,DF,72,0.83,0.17,0.0,0.0
+Ahmed Abdel Baki,Egypt,DF,81,0.88,0.12,0.0,0.0
+Mwepu Halim Ali,Egypt,DF,81,0.9,0.1,0.0,0.0
+Moustafa El Said,Egypt,DF,83,0.62,0.38,0.0,0.0
+Alaa El-Seyagui,Egypt,DF,15,0.0,0.0,0.34,0.66
+Hassan Shehata,Egypt,DF,15,0.0,0.0,0.34,0.66
+Saliou Latif,Egypt,DF,7,0.0,0.0,0.18,0.82
+Moussa Hassan El-Ezam,Egypt,DF,14,0.0,0.0,0.32,0.68
+Alaa Mayhoub,Egypt,MF,73,0.87,0.13,0.0,0.0
+Ahmed Abou El Fotouh,Egypt,MF,73,0.8,0.2,0.0,0.0
+Taher Abouzeid,Egypt,MF,77,0.65,0.35,0.0,0.0
+Yasser Radwan,Egypt,MF,81,0.84,0.16,0.0,0.0
+Mimi Elneny,Egypt,MF,12,0.0,0.0,0.18,0.82
+Mohamed Farouk,Egypt,MF,12,0.0,0.0,0.29,0.71
+Mohamed Shawky,Egypt,MF,14,0.0,0.0,0.16,0.84
+Hady Khashaba,Egypt,MF,10,0.0,0.0,0.13,0.87
+Dario Abou Rehab,Egypt,FW,89,0.62,0.38,0.0,0.0
+Mohamed Abdel-Shafy,Egypt,FW,80,0.95,0.05,0.0,0.0
+Abdul-Hamid Suleiman,Egypt,FW,14,0.0,0.0,0.25,0.75
+Saliou Salah Hosny,Egypt,FW,16,0.0,0.0,0.18,0.82
+Mohamed Magdy,Egypt,FW,16,0.0,0.0,0.11,0.89
+Tarek El-Said,Egypt,FW,14,0.0,0.0,0.12,0.88
+Kahraba Abd Rabo,Egypt,FW,6,0.0,0.0,0.31,0.69
+Jordan Pickford,England,GK,90,1.0,0.0,0.0,0.0
+Harry Kane,England,FW,78,0.82,0.18,0.0,0.0
+Jude Bellingham,England,MF,72,0.84,0.16,0.0,0.0
+Bukayo Saka,England,FW,75,0.66,0.34,0.0,0.0
+Phil Foden,England,MF,73,0.83,0.17,0.0,0.0
+Declan Rice,England,MF,85,0.74,0.26,0.0,0.0
+John Stones,England,DF,86,0.91,0.09,0.0,0.0
+Kyle Walker,England,DF,78,0.78,0.22,0.0,0.0
+Trent Alexander-Arnold,England,DF,81,0.79,0.21,0.0,0.0
+Cole Palmer,England,MF,76,0.81,0.19,0.0,0.0
+Kieran Trippier,England,DF,85,0.88,0.12,0.0,0.0
+Raheem Jones,England,GK,14,0.0,0.0,0.2,0.8
+Cole Townsend,England,GK,12,0.0,0.0,0.31,0.69
+Mark Wright,England,DF,17,0.0,0.0,0.17,0.83
+John Connelly,England,DF,18,0.0,0.0,0.3,0.7
+Derek Hodge,England,DF,17,0.0,0.0,0.33,0.67
+Leighton Arlauskis,England,DF,13,0.0,0.0,0.18,0.82
+Neil García,England,MF,17,0.0,0.0,0.27,0.73
+Steve Hodge,England,MF,6,0.0,0.0,0.25,0.75
+Geoff Hurst,England,MF,11,0.0,0.0,0.1,0.9
+Simon Gallagher,England,MF,15,0.0,0.0,0.12,0.88
+Wayne Pointer,England,FW,9,0.0,0.0,0.27,0.73
+Kieran Hodge,England,FW,12,0.0,0.0,0.13,0.87
+Alex Oxlade-Chamberlain,England,FW,11,0.0,0.0,0.1,0.9
+Joleon Lescott,England,FW,10,0.0,0.0,0.27,0.73
+Michael Grealish,England,FW,5,0.0,0.0,0.27,0.73
+Mike Maignan,France,GK,90,1.0,0.0,0.0,0.0
+Jules Koundé,France,DF,85,0.64,0.36,0.0,0.0
+William Saliba,France,DF,85,0.65,0.35,0.0,0.0
+Dayot Upamecano,France,DF,83,0.92,0.08,0.0,0.0
+Theo Hernandez,France,DF,86,0.77,0.23,0.0,0.0
+Aurélien Tchouaméni,France,MF,76,0.64,0.36,0.0,0.0
+N'Golo Kanté,France,MF,79,0.7,0.3,0.0,0.0
+Antoine Griezmann,France,MF,85,0.64,0.36,0.0,0.0
+Ousmane Dembélé,France,FW,72,0.6,0.4,0.0,0.0
+Kylian Mbappé,France,FW,74,0.72,0.28,0.0,0.0
+Bradley Barcola,France,FW,85,0.6,0.4,0.0,0.0
+Marcus Thuram,France,FW,11,0.0,0.0,0.3,0.7
+Said Brahimi,France,GK,17,0.0,0.0,0.34,0.66
+Hatem Tudor,France,GK,7,0.0,0.0,0.32,0.68
+Christian Deschamps,France,DF,17,0.0,0.0,0.12,0.88
+Said Dereuddre,France,DF,13,0.0,0.0,0.2,0.8
+Jacques Faivre,France,DF,6,0.0,0.0,0.25,0.75
+Juste Brouzes,France,DF,16,0.0,0.0,0.16,0.84
+Joseph Ujlaki,France,MF,12,0.0,0.0,0.12,0.88
+Hugo Ekitike,France,MF,8,0.0,0.0,0.13,0.87
+Édouard Crut,France,MF,15,0.0,0.0,0.31,0.69
+Samir Kopa,France,MF,10,0.0,0.0,0.21,0.79
+Gérard Revelli,France,MF,17,0.0,0.0,0.12,0.88
+Luis Loubet,France,FW,7,0.0,0.0,0.32,0.68
+Christophe Cocard,France,FW,7,0.0,0.0,0.3,0.7
+Ludovic Giuly,France,FW,14,0.0,0.0,0.22,0.78
+Marc-André ter Stegen,Germany,GK,90,1.0,0.0,0.0,0.0
+Florian Wirtz,Germany,MF,72,0.74,0.26,0.0,0.0
+Jamal Musiala,Germany,MF,77,0.81,0.19,0.0,0.0
+Kai Havertz,Germany,FW,87,0.65,0.35,0.0,0.0
+Joshua Kimmich,Germany,DF,74,0.86,0.14,0.0,0.0
+Antonio Rüdiger,Germany,DF,76,0.8,0.2,0.0,0.0
+Jonathan Tah,Germany,DF,83,0.8,0.2,0.0,0.0
+Ilkay Gündogan,Germany,MF,80,0.88,0.12,0.0,0.0
+Leroy Sané,Germany,FW,77,0.63,0.37,0.0,0.0
+Niclas Füllkrug,Germany,FW,15,0.0,0.0,0.15,0.85
+Max Lorenz,Germany,GK,16,0.0,0.0,0.29,0.71
+Jamal Flohe,Germany,GK,16,0.0,0.0,0.21,0.79
+Cacau Santos,Germany,DF,84,0.9,0.1,0.0,0.0
+Gerhard Doll,Germany,DF,7,0.0,0.0,0.16,0.84
+Jérôme Wigold,Germany,DF,12,0.0,0.0,0.34,0.66
+Helmut Schweinsteiger,Germany,DF,7,0.0,0.0,0.22,0.78
+Ján Ďurica,Germany,DF,15,0.0,0.0,0.17,0.83
+Yogan Santos,Germany,MF,80,0.63,0.37,0.0,0.0
+Werner Krämer,Germany,MF,7,0.0,0.0,0.31,0.69
+Michael Preetz,Germany,MF,7,0.0,0.0,0.25,0.75
+Philipp Lahm,Germany,MF,19,0.0,0.0,0.12,0.88
+Guido Cullmann,Germany,MF,15,0.0,0.0,0.26,0.74
+Rainer Ďurica,Germany,FW,15,0.0,0.0,0.33,0.67
+Thomas Häßler,Germany,FW,6,0.0,0.0,0.22,0.78
+Nadiem Amiri,Germany,FW,10,0.0,0.0,0.16,0.84
+Hans-Peter Briegel,Germany,FW,10,0.0,0.0,0.26,0.74
+Lawrence Ati-Zigi,Ghana,GK,90,1.0,0.0,0.0,0.0
+Junior Ebow Essien,Ghana,GK,16,0.0,0.0,0.32,0.68
+Dominic Tagoe,Ghana,GK,12,0.0,0.0,0.24,0.76
+Edwin Armah,Ghana,DF,86,0.73,0.27,0.0,0.0
+Joseph Draman,Ghana,DF,82,0.92,0.08,0.0,0.0
+Baba Draman,Ghana,DF,75,0.67,0.33,0.0,0.0
+Sulley Muntari,Ghana,DF,77,0.79,0.21,0.0,0.0
+Clifford Odame,Ghana,DF,15,0.0,0.0,0.34,0.66
+Kwesi Appiah,Ghana,DF,9,0.0,0.0,0.11,0.89
+Christian Partey,Ghana,DF,12,0.0,0.0,0.33,0.67
+Otto Attram,Ghana,DF,17,0.0,0.0,0.29,0.71
+Charles Majeed Waris,Ghana,MF,75,0.74,0.26,0.0,0.0
+Mohammed Gargo,Ghana,MF,88,0.84,0.16,0.0,0.0
+Ishmael Kingston,Ghana,MF,82,0.73,0.27,0.0,0.0
+Nélson Preko,Ghana,MF,80,0.69,0.31,0.0,0.0
+Kwame Nti,Ghana,MF,11,0.0,0.0,0.18,0.82
+Osman Bukari,Ghana,MF,15,0.0,0.0,0.34,0.66
+Felix Adamu,Ghana,MF,14,0.0,0.0,0.3,0.7
+Emmanuel Ola,Ghana,MF,17,0.0,0.0,0.18,0.82
+Arthur Bedoui,Ghana,FW,75,0.66,0.34,0.0,0.0
+Arthur Moses,Ghana,FW,74,0.83,0.17,0.0,0.0
+Michael Semenyo,Ghana,FW,5,0.0,0.0,0.13,0.87
+Osman Djiku,Ghana,FW,18,0.0,0.0,0.19,0.81
+Ibrahim Kassum,Ghana,FW,17,0.0,0.0,0.32,0.68
+Michael Essien,Ghana,FW,18,0.0,0.0,0.32,0.68
+Mohammed Ahmed,Ghana,FW,7,0.0,0.0,0.1,0.9
+Johny Placide,Haiti,GK,90,1.0,0.0,0.0,0.0
+Reynold Saint Surin,Haiti,GK,15,0.0,0.0,0.26,0.74
+Ruben Guerrier,Haiti,GK,10,0.0,0.0,0.26,0.74
+Jean-Kévin Duverne,Haiti,DF,77,0.76,0.24,0.0,0.0
+Réginal Goreux,Haiti,DF,81,0.86,0.14,0.0,0.0
+Carnejy Pierre-Louis,Haiti,DF,88,0.93,0.07,0.0,0.0
+Frantz Pierre,Haiti,DF,80,0.66,0.34,0.0,0.0
+Mondy Vorbe,Haiti,DF,13,0.0,0.0,0.25,0.75
+Brunel Fucien,Haiti,DF,17,0.0,0.0,0.13,0.87
+Vladimir Bertin,Haiti,DF,15,0.0,0.0,0.18,0.82
+Carnejy Prunier,Haiti,DF,5,0.0,0.0,0.14,0.86
+Jean-Eudes Maurice,Haiti,MF,73,0.61,0.39,0.0,0.0
+Angelo Guerrier,Haiti,MF,75,0.67,0.33,0.0,0.0
+Leonel Saint-Preux,Haiti,MF,75,0.79,0.21,0.0,0.0
+Corriolan Wadson,Haiti,MF,89,0.91,0.09,0.0,0.0
+Kevin Lafrance,Haiti,MF,7,0.0,0.0,0.13,0.87
+Mondy Prunier,Haiti,MF,12,0.0,0.0,0.3,0.7
+Listner Fucien,Haiti,MF,6,0.0,0.0,0.23,0.77
+Manuel Boucicaut,Haiti,MF,15,0.0,0.0,0.24,0.76
+James Wadson,Haiti,FW,85,0.65,0.35,0.0,0.0
+Reynold Lafrance,Haiti,FW,87,0.8,0.2,0.0,0.0
+Jean-Philippe Chevalier,Haiti,FW,15,0.0,0.0,0.21,0.79
+Emmanuel Désir,Haiti,FW,8,0.0,0.0,0.25,0.75
+Jean-Claude Desir,Haiti,FW,11,0.0,0.0,0.33,0.67
+Lawrence Harvey,Haiti,FW,14,0.0,0.0,0.22,0.78
+Duckens Nazon,Haiti,FW,13,0.0,0.0,0.31,0.69
+Alireza Beiranvand,Iran,GK,90,1.0,0.0,0.0,0.0
+Alireza Khorshidi,Iran,GK,18,0.0,0.0,0.18,0.82
+Shahrokh Khouphachansy,Iran,GK,6,0.0,0.0,0.26,0.74
+Mohammad Hassan Ansarifard,Iran,DF,75,0.87,0.13,0.0,0.0
+Masoud Dinmohammadi,Iran,DF,78,0.84,0.16,0.0,0.0
+Javad Parvin,Iran,DF,84,0.74,0.26,0.0,0.0
+Amirhossein Rowshan,Iran,DF,83,0.61,0.39,0.0,0.0
+Abdolreza Azmoun,Iran,DF,10,0.0,0.0,0.22,0.78
+Saman Kazemian,Iran,DF,6,0.0,0.0,0.25,0.75
+Shahrokh Abbas,Iran,DF,9,0.0,0.0,0.1,0.9
+Walid Zandi,Iran,DF,14,0.0,0.0,0.22,0.78
+Sirous Dinmohammadi,Iran,MF,76,0.88,0.12,0.0,0.0
+Ramin Rezaeian,Iran,MF,78,0.94,0.06,0.0,0.0
+Sayed Hashemian,Iran,MF,83,0.89,0.11,0.0,0.0
+Zia Azizi,Iran,MF,72,0.8,0.2,0.0,0.0
+Park Visal,Iran,MF,9,0.0,0.0,0.21,0.79
+Ali Parvin,Iran,MF,8,0.0,0.0,0.11,0.89
+Reza Hosseinzadeh,Iran,MF,16,0.0,0.0,0.11,0.89
+Alireza Mansourian,Iran,MF,7,0.0,0.0,0.15,0.85
+Parviz Ghelichkhani,Iran,FW,89,0.73,0.27,0.0,0.0
+Samad Hassanzadeh,Iran,FW,76,0.92,0.08,0.0,0.0
+Sirous Ghayeghran,Iran,FW,16,0.0,0.0,0.11,0.89
+Parviz Jabbari,Iran,FW,14,0.0,0.0,0.21,0.79
+Sardar Azmoun,Iran,FW,15,0.0,0.0,0.25,0.75
+Majid Afshin,Iran,FW,5,0.0,0.0,0.23,0.77
+Ahmad Nourollahi,Iran,FW,12,0.0,0.0,0.24,0.76
+Jalal Hassan,Iraq,GK,90,1.0,0.0,0.0,0.0
+Razzaq Farhan,Iraq,GK,16,0.0,0.0,0.33,0.67
+Hadi Dirjal,Iraq,GK,14,0.0,0.0,0.3,0.7
+Hussam Fawzi,Iraq,DF,87,0.9,0.1,0.0,0.0
+Emad Mohammed,Iraq,DF,78,0.81,0.19,0.0,0.0
+Younis Mahmoud,Iraq,DF,88,0.8,0.2,0.0,0.0
+Humam Ismail,Iraq,DF,84,0.89,0.11,0.0,0.0
+Haris Mulla Mohammed,Iraq,DF,9,0.0,0.0,0.25,0.75
+Jaffar Salah Alwan,Iraq,DF,14,0.0,0.0,0.17,0.83
+Natiq Hashim,Iraq,DF,15,0.0,0.0,0.16,0.84
+Nazar Attiya,Iraq,DF,11,0.0,0.0,0.19,0.81
+Aymen Kalaf,Iraq,MF,78,0.75,0.25,0.0,0.0
+Hesham Mohammed,Iraq,MF,86,0.65,0.35,0.0,0.0
+Ahmed Radhi,Iraq,MF,81,0.67,0.33,0.0,0.0
+Zidane Iqbal,Iraq,MF,86,0.81,0.19,0.0,0.0
+Jordi Karim,Iraq,MF,16,0.0,0.0,0.2,0.8
+Radhi Shenaishil,Iraq,MF,17,0.0,0.0,0.34,0.66
+Haris Mohammed,Iraq,MF,7,0.0,0.0,0.2,0.8
+Aymen Emmanuel,Iraq,MF,11,0.0,0.0,0.15,0.85
+Karim Saddam,Iraq,FW,86,0.78,0.22,0.0,0.0
+Akram Khalaf,Iraq,FW,74,0.62,0.38,0.0,0.0
+Jassim Ali,Iraq,FW,11,0.0,0.0,0.23,0.77
+Ahmad Kasim,Iraq,FW,7,0.0,0.0,0.32,0.68
+Khalid Mohammed Sabbar,Iraq,FW,16,0.0,0.0,0.16,0.84
+Bashar Rashid,Iraq,FW,9,0.0,0.0,0.11,0.89
+Kadhim Waal,Iraq,FW,19,0.0,0.0,0.29,0.71
+Yahia Fofana,Ivory Coast,GK,90,1.0,0.0,0.0,0.0
+Salomon Kalou,Ivory Coast,GK,6,0.0,0.0,0.15,0.85
+Vakoun Issouf Bayo,Ivory Coast,GK,12,0.0,0.0,0.23,0.77
+Romaric,Ivory Coast,DF,83,0.62,0.38,0.0,0.0
+Abdul Kouassi Kouame,Ivory Coast,DF,82,0.81,0.19,0.0,0.0
+Kolo Touré,Ivory Coast,DF,79,0.7,0.3,0.0,0.0
+Wilfried Zaha,Ivory Coast,DF,89,0.66,0.34,0.0,0.0
+Simon Adingra,Ivory Coast,DF,5,0.0,0.0,0.3,0.7
+Saïdou Panandétiguiri,Ivory Coast,DF,18,0.0,0.0,0.23,0.77
+Ahmed Coulibaly,Ivory Coast,DF,13,0.0,0.0,0.14,0.86
+Bakary Manglé,Ivory Coast,DF,11,0.0,0.0,0.35,0.65
+Seydou Dao,Ivory Coast,MF,86,0.86,0.14,0.0,0.0
+Bernard N'Guessan,Ivory Coast,MF,89,0.92,0.08,0.0,0.0
+Youssouf Falikou Fofana,Ivory Coast,MF,82,0.79,0.21,0.0,0.0
+Lassina Dao,Ivory Coast,MF,89,0.84,0.16,0.0,0.0
+Kanga Dindane,Ivory Coast,MF,19,0.0,0.0,0.27,0.73
+Jean-Philippe Bawa,Ivory Coast,MF,7,0.0,0.0,0.18,0.82
+Emmanuel Eboué,Ivory Coast,MF,19,0.0,0.0,0.2,0.8
+Gervinho,Ivory Coast,MF,8,0.0,0.0,0.24,0.76
+Ahmed Abou El Fotouh,Ivory Coast,FW,75,0.66,0.34,0.0,0.0
+Oumar Diakité,Ivory Coast,FW,73,0.61,0.39,0.0,0.0
+Jérôme Kalou,Ivory Coast,FW,14,0.0,0.0,0.25,0.75
+Donald-Olivier Sié,Ivory Coast,FW,12,0.0,0.0,0.18,0.82
+Cheick Tioté,Ivory Coast,FW,18,0.0,0.0,0.22,0.78
+Lucien Kouassi Kouame,Ivory Coast,FW,9,0.0,0.0,0.12,0.88
+Gilles Yapi Yapo,Ivory Coast,FW,10,0.0,0.0,0.25,0.75
+Zion Suzuki,Japan,GK,90,1.0,0.0,0.0,0.0
+Wataru Endo,Japan,MF,89,0.84,0.16,0.0,0.0
+Kaoru Mitoma,Japan,FW,84,0.77,0.23,0.0,0.0
+Takefusa Kubo,Japan,FW,83,0.63,0.37,0.0,0.0
+Takumi Minamino,Japan,MF,89,0.82,0.18,0.0,0.0
+Ritsu Doan,Japan,FW,11,0.0,0.0,0.3,0.7
+Wagner Kiyotake,Japan,GK,7,0.0,0.0,0.18,0.82
+Kyogo Furuhashi,Japan,GK,14,0.0,0.0,0.32,0.68
+Katsuyoshi Shinto,Japan,DF,84,0.68,0.32,0.0,0.0
+Kazuyoshi Miura,Japan,DF,80,0.82,0.18,0.0,0.0
+Wagner Mori,Japan,DF,82,0.94,0.06,0.0,0.0
+Hiromi Hara,Japan,DF,89,0.88,0.12,0.0,0.0
+Tadanari Lee,Japan,DF,16,0.0,0.0,0.21,0.79
+Koichi Furuhashi,Japan,DF,15,0.0,0.0,0.19,0.81
+Koji Dōan,Japan,DF,16,0.0,0.0,0.3,0.7
+Kenta Suzuki,Japan,DF,17,0.0,0.0,0.15,0.85
+Makoto Hasebe,Japan,MF,76,0.84,0.16,0.0,0.0
+Koki Ogawa,Japan,MF,73,0.83,0.17,0.0,0.0
+Daizen Maeda,Japan,MF,12,0.0,0.0,0.24,0.76
+Mitsunori Yoshida,Japan,MF,17,0.0,0.0,0.25,0.75
+Genki Haraguchi,Japan,MF,16,0.0,0.0,0.35,0.65
+Kengo Nakamura,Japan,MF,16,0.0,0.0,0.27,0.73
+Hidemasa Morita,Japan,FW,16,0.0,0.0,0.35,0.65
+Shoji Konno,Japan,FW,12,0.0,0.0,0.14,0.86
+Kensuke Hosoya,Japan,FW,11,0.0,0.0,0.24,0.76
+Masahiko Inoha,Japan,FW,14,0.0,0.0,0.33,0.67
+Yazeed Abulaila,Jordan,GK,90,1.0,0.0,0.0,0.0
+Saeed Al-Laham,Jordan,GK,13,0.0,0.0,0.2,0.8
+Ghanem Hamarsheh,Jordan,GK,10,0.0,0.0,0.19,0.81
+Ahmad Ersan,Jordan,DF,82,0.85,0.15,0.0,0.0
+Mohamed Al-Diabaz,Jordan,DF,84,0.81,0.19,0.0,0.0
+Hassan Abdel-Fattah,Jordan,DF,86,0.66,0.34,0.0,0.0
+Odai Al-Saify,Jordan,DF,78,0.79,0.21,0.0,0.0
+Anas Al-Zboun,Jordan,DF,17,0.0,0.0,0.16,0.84
+Mo'ayyad Salim,Jordan,DF,12,0.0,0.0,0.29,0.71
+Odai Al-Naimat,Jordan,DF,12,0.0,0.0,0.16,0.84
+Khaled Awad,Jordan,DF,11,0.0,0.0,0.3,0.7
+Mahmoud Al-Mardi,Jordan,MF,77,0.72,0.28,0.0,0.0
+Hassouneh Al-Bakhit,Jordan,MF,84,0.74,0.26,0.0,0.0
+Musa Al-Taamari,Jordan,MF,79,0.81,0.19,0.0,0.0
+Baha' Faisal,Jordan,MF,84,0.75,0.25,0.0,0.0
+Awad Ragheb,Jordan,MF,8,0.0,0.0,0.17,0.83
+Mussab Al-Laham,Jordan,MF,9,0.0,0.0,0.12,0.88
+Ahmad Hayel,Jordan,MF,16,0.0,0.0,0.23,0.77
+Park Yong-woo,Jordan,MF,13,0.0,0.0,0.18,0.82
+Noor Al-Khateeb,Jordan,FW,80,0.77,0.23,0.0,0.0
+Munther Abdel-Rahman,Jordan,FW,77,0.63,0.37,0.0,0.0
+Tareq Khattab,Jordan,FW,15,0.0,0.0,0.25,0.75
+Badran Al-Shagran,Jordan,FW,12,0.0,0.0,0.13,0.87
+Essam Abu Touk,Jordan,FW,9,0.0,0.0,0.22,0.78
+Bashar Faisal,Jordan,FW,12,0.0,0.0,0.11,0.89
+Aref Al-Shewaier,Jordan,FW,5,0.0,0.0,0.19,0.81
+Luis Malagón,Mexico,GK,90,1.0,0.0,0.0,0.0
+Luis Montes,Mexico,GK,12,0.0,0.0,0.23,0.77
+Enrique Sesma,Mexico,GK,18,0.0,0.0,0.26,0.74
+Aldo de Nigris,Mexico,DF,84,0.77,0.23,0.0,0.0
+Omar Bravo,Mexico,DF,82,0.81,0.19,0.0,0.0
+Octavio Madu,Mexico,DF,87,0.81,0.19,0.0,0.0
+Luis Romo,Mexico,DF,87,0.7,0.3,0.0,0.0
+Carlos García Postigo,Mexico,DF,13,0.0,0.0,0.24,0.76
+Mario Ochoa,Mexico,DF,7,0.0,0.0,0.14,0.86
+Damián Cerda Canela,Mexico,DF,16,0.0,0.0,0.3,0.7
+Héctor Moreno,Mexico,DF,6,0.0,0.0,0.18,0.82
+Benjamín Garcés,Mexico,MF,84,0.81,0.19,0.0,0.0
+Fernando Quirarte,Mexico,MF,77,0.82,0.18,0.0,0.0
+Guillermo Franco,Mexico,MF,87,0.66,0.34,0.0,0.0
+Néstor Araujo,Mexico,MF,81,0.87,0.13,0.0,0.0
+Hugo Pollard,Mexico,MF,13,0.0,0.0,0.15,0.85
+Alfredo Pollard,Mexico,MF,16,0.0,0.0,0.1,0.9
+Duilio Davino,Mexico,MF,17,0.0,0.0,0.3,0.7
+Arturo Vázquez Ayala,Mexico,MF,19,0.0,0.0,0.2,0.8
+Ricardo Reyes Monteón,Mexico,FW,79,0.83,0.17,0.0,0.0
+Ramiro Jáuregui,Mexico,FW,80,0.7,0.3,0.0,0.0
+Angel Jáuregui,Mexico,FW,5,0.0,0.0,0.11,0.89
+Edson Álvarez,Mexico,FW,7,0.0,0.0,0.24,0.76
+Héctor Herrera,Mexico,FW,9,0.0,0.0,0.21,0.79
+Charles Antuna,Mexico,FW,8,0.0,0.0,0.3,0.7
+Francisco Flores,Mexico,FW,19,0.0,0.0,0.27,0.73
+Yassine Bounou,Morocco,GK,90,1.0,0.0,0.0,0.0
+Achraf Hakimi,Morocco,DF,84,0.61,0.39,0.0,0.0
+Hakim Ziyech,Morocco,MF,84,0.85,0.15,0.0,0.0
+Sofyan Amrabat,Morocco,MF,80,0.91,0.09,0.0,0.0
+Youssef En-Nesyri,Morocco,FW,87,0.71,0.29,0.0,0.0
+Brahim Díaz,Morocco,FW,80,0.65,0.35,0.0,0.0
+Ahmed Makrouh,Morocco,GK,15,0.0,0.0,0.16,0.84
+Abdelfattah Barkok,Morocco,GK,17,0.0,0.0,0.11,0.89
+Khalid Boutaïb,Morocco,DF,75,0.78,0.22,0.0,0.0
+Abdelfettah Zairi,Morocco,DF,83,0.72,0.28,0.0,0.0
+Zakaria Belhanda,Morocco,DF,80,0.87,0.13,0.0,0.0
+Achraf Sektioui,Morocco,DF,6,0.0,0.0,0.27,0.73
+Moulay Khanousi,Morocco,DF,16,0.0,0.0,0.15,0.85
+Hicham Aboucherouane,Morocco,DF,12,0.0,0.0,0.3,0.7
+Abdelfettah Rhiati,Morocco,DF,9,0.0,0.0,0.33,0.67
+Abdelmajid Bouyboud,Morocco,MF,85,0.73,0.27,0.0,0.0
+Said Rokbi,Morocco,MF,76,0.87,0.13,0.0,0.0
+Boujemaa Benkhrif,Morocco,MF,13,0.0,0.0,0.14,0.86
+Sofiane Boufal,Morocco,MF,8,0.0,0.0,0.2,0.8
+Hamza Abourazzouk,Morocco,MF,5,0.0,0.0,0.15,0.85
+Gharib Arbi Hababi,Morocco,MF,13,0.0,0.0,0.28,0.72
+Nabil Baha,Morocco,FW,11,0.0,0.0,0.26,0.74
+Mbark Yaghcha,Morocco,FW,11,0.0,0.0,0.23,0.77
+Issam Chilengi,Morocco,FW,14,0.0,0.0,0.14,0.86
+Gharib Amzine,Morocco,FW,15,0.0,0.0,0.26,0.74
+Houmane Jarir,Morocco,FW,9,0.0,0.0,0.16,0.84
+Bart Verbruggen,Netherlands,GK,90,1.0,0.0,0.0,0.0
+Virgil van Dijk,Netherlands,DF,86,0.92,0.08,0.0,0.0
+Cody Gakpo,Netherlands,FW,80,0.73,0.27,0.0,0.0
+Memphis Depay,Netherlands,FW,83,0.91,0.09,0.0,0.0
+Xavi Simons,Netherlands,MF,85,0.66,0.34,0.0,0.0
+Tijjani Reijnders,Netherlands,MF,77,0.82,0.18,0.0,0.0
+Nathan Aké,Netherlands,DF,88,0.62,0.38,0.0,0.0
+Denzel Dumfries,Netherlands,DF,86,0.69,0.31,0.0,0.0
+Jeremie Frimpong,Netherlands,DF,79,0.63,0.37,0.0,0.0
+Nikos Pantziaras,Netherlands,GK,8,0.0,0.0,0.22,0.78
+Steven Malen,Netherlands,GK,5,0.0,0.0,0.18,0.82
+Servaas Hartman,Netherlands,DF,17,0.0,0.0,0.32,0.68
+Donyell Cruyff,Netherlands,DF,14,0.0,0.0,0.29,0.71
+Dick van Dijk,Netherlands,DF,13,0.0,0.0,0.33,0.67
+Cees Schapendonk,Netherlands,DF,6,0.0,0.0,0.34,0.66
+John Bosman,Netherlands,MF,88,0.83,0.17,0.0,0.0
+Jan Rensenbrink,Netherlands,MF,82,0.78,0.22,0.0,0.0
+Toon Rijsbergen,Netherlands,MF,7,0.0,0.0,0.18,0.82
+Quilindschy Hartman,Netherlands,MF,16,0.0,0.0,0.3,0.7
+Piet Wildschut,Netherlands,MF,10,0.0,0.0,0.1,0.9
+Noud Metgod,Netherlands,MF,7,0.0,0.0,0.34,0.66
+Teun Koopmeiners,Netherlands,FW,9,0.0,0.0,0.27,0.73
+Dennis Bergkamp,Netherlands,FW,11,0.0,0.0,0.29,0.71
+Arnaut Danjuma,Netherlands,FW,12,0.0,0.0,0.32,0.68
+Simon Thijssen,Netherlands,FW,10,0.0,0.0,0.31,0.69
+Henk Groot,Netherlands,FW,13,0.0,0.0,0.35,0.65
+Alex Paulsen,New Zealand,GK,90,1.0,0.0,0.0,0.0
+Danny Hay,New Zealand,GK,17,0.0,0.0,0.29,0.71
+Bill Perry,New Zealand,GK,12,0.0,0.0,0.26,0.74
+Rory Just,New Zealand,DF,74,0.91,0.09,0.0,0.0
+Brent Thomas,New Zealand,DF,84,0.62,0.38,0.0,0.0
+Rupert Ryan,New Zealand,DF,72,0.77,0.23,0.0,0.0
+Colin Walker,New Zealand,DF,77,0.63,0.37,0.0,0.0
+Callum McCowatt,New Zealand,DF,11,0.0,0.0,0.14,0.86
+Malcolm Dunford,New Zealand,DF,15,0.0,0.0,0.27,0.73
+Andre Stamenić,New Zealand,DF,5,0.0,0.0,0.15,0.85
+Kevin Weymouth,New Zealand,DF,8,0.0,0.0,0.24,0.76
+Marco Rojas,New Zealand,MF,88,0.76,0.24,0.0,0.0
+Rory Chih Tsong,New Zealand,MF,76,0.94,0.06,0.0,0.0
+Jeff Perry,New Zealand,MF,74,0.85,0.15,0.0,0.0
+Adrian Elrick,New Zealand,MF,74,0.89,0.11,0.0,0.0
+Ben Old,New Zealand,MF,19,0.0,0.0,0.28,0.72
+David Bevan,New Zealand,MF,17,0.0,0.0,0.19,0.81
+Ryan Nelsen,New Zealand,MF,5,0.0,0.0,0.18,0.82
+Marko Stamenić,New Zealand,MF,8,0.0,0.0,0.13,0.87
+Neil Jones,New Zealand,FW,89,0.71,0.29,0.0,0.0
+Raf Rufer,New Zealand,FW,89,0.62,0.38,0.0,0.0
+Riki van Steeden,New Zealand,FW,10,0.0,0.0,0.19,0.81
+Simon Halligan,New Zealand,FW,6,0.0,0.0,0.26,0.74
+Ben Waine,New Zealand,FW,12,0.0,0.0,0.27,0.73
+Mark McCowatt,New Zealand,FW,18,0.0,0.0,0.34,0.66
+Noah Hickey,New Zealand,FW,13,0.0,0.0,0.13,0.87
+Ørjan Nyland,Norway,GK,90,1.0,0.0,0.0,0.0
+Julian Ryerson,Norway,DF,79,0.74,0.26,0.0,0.0
+Andreas Hanche-Olsen,Norway,DF,88,0.68,0.32,0.0,0.0
+Leo Østigård,Norway,DF,73,0.73,0.27,0.0,0.0
+David Møller Wolfe,Norway,DF,83,0.78,0.22,0.0,0.0
+Martin Ødegaard,Norway,MF,73,0.66,0.34,0.0,0.0
+Sander Berge,Norway,MF,78,0.91,0.09,0.0,0.0
+Kristian Thorstvedt,Norway,MF,77,0.62,0.38,0.0,0.0
+Oscar Bobb,Norway,FW,73,0.63,0.37,0.0,0.0
+Erling Haaland,Norway,FW,85,0.9,0.1,0.0,0.0
+Antonio Nusa,Norway,FW,74,0.91,0.09,0.0,0.0
+Alexander Sørloth,Norway,FW,6,0.0,0.0,0.26,0.74
+Håvard Nordtveit,Norway,GK,5,0.0,0.0,0.13,0.87
+Erik Larsen Økland,Norway,GK,14,0.0,0.0,0.11,0.89
+Ola Mykland,Norway,DF,8,0.0,0.0,0.23,0.77
+Tore Reginiussen,Norway,DF,6,0.0,0.0,0.29,0.71
+Antonio Rudi,Norway,DF,5,0.0,0.0,0.35,0.65
+Thelo Sadygov,Norway,DF,9,0.0,0.0,0.16,0.84
+Hallvar Thoresen,Norway,MF,7,0.0,0.0,0.11,0.89
+Felix Horn Myhre,Norway,MF,12,0.0,0.0,0.22,0.78
+Davide Simoncini,Norway,MF,14,0.0,0.0,0.15,0.85
+Kjetil Rekdal,Norway,MF,13,0.0,0.0,0.24,0.76
+John Bohinen,Norway,MF,10,0.0,0.0,0.31,0.69
+Tarik Elyounoussi,Norway,FW,10,0.0,0.0,0.31,0.69
+Øyvind Leonhardsen,Norway,FW,17,0.0,0.0,0.13,0.87
+Ole Stavrum,Norway,FW,18,0.0,0.0,0.32,0.68
+Orlando Mosquera,Panama,GK,90,1.0,0.0,0.0,0.0
+Luis Góyez,Panama,GK,11,0.0,0.0,0.33,0.67
+Juan Carlos Cubillas,Panama,GK,5,0.0,0.0,0.28,0.72
+Yassine Martínez,Panama,DF,75,0.78,0.22,0.0,0.0
+Benjamín Smith,Panama,DF,89,0.63,0.37,0.0,0.0
+Javain Brown,Panama,DF,72,0.85,0.15,0.0,0.0
+Benjamín Piggott,Panama,DF,80,0.86,0.14,0.0,0.0
+Everardo Vega,Panama,DF,16,0.0,0.0,0.35,0.65
+Amir Catuy,Panama,DF,6,0.0,0.0,0.11,0.89
+Carlos Rivera,Panama,DF,14,0.0,0.0,0.17,0.83
+César Yanis,Panama,DF,5,0.0,0.0,0.2,0.8
+Miguel Camargo,Panama,MF,89,0.76,0.24,0.0,0.0
+Ricardo Phillips,Panama,MF,88,0.76,0.24,0.0,0.0
+Román Torres,Panama,MF,78,0.89,0.11,0.0,0.0
+Yoel Góyez,Panama,MF,88,0.9,0.1,0.0,0.0
+Freddy Góndola,Panama,MF,11,0.0,0.0,0.27,0.73
+Jorman Blanco,Panama,MF,18,0.0,0.0,0.29,0.71
+Gabriel Palacios,Panama,MF,14,0.0,0.0,0.11,0.89
+Adolfo Waterman,Panama,MF,11,0.0,0.0,0.22,0.78
+Amir Waithe,Panama,FW,81,0.8,0.2,0.0,0.0
+Carlos Gabriel Rodríguez,Panama,FW,77,0.69,0.31,0.0,0.0
+Briel Thomas,Panama,FW,5,0.0,0.0,0.32,0.68
+Rolando Blackburn,Panama,FW,5,0.0,0.0,0.31,0.69
+Ismael Díaz,Panama,FW,15,0.0,0.0,0.17,0.83
+Cristian Martínez,Panama,FW,14,0.0,0.0,0.19,0.81
+Cecilio Blanco,Panama,FW,15,0.0,0.0,0.18,0.82
+Roberto Junior Fernández,Paraguay,GK,90,1.0,0.0,0.0,0.0
+Juan Carlos Villamayor,Paraguay,GK,14,0.0,0.0,0.16,0.84
+Jorge Amado Nunes,Paraguay,GK,7,0.0,0.0,0.1,0.9
+Florencio da Silva,Paraguay,DF,77,0.95,0.05,0.0,0.0
+Martín Flor,Paraguay,DF,88,0.65,0.35,0.0,0.0
+Piero Hincapié,Paraguay,DF,86,0.66,0.34,0.0,0.0
+Eladio Ortiz,Paraguay,DF,74,0.73,0.27,0.0,0.0
+Néstor Lezcano,Paraguay,DF,17,0.0,0.0,0.32,0.68
+Carles Puyol,Paraguay,DF,8,0.0,0.0,0.3,0.7
+Luis Nery Caballero,Paraguay,DF,7,0.0,0.0,0.18,0.82
+Ángel Romero,Paraguay,DF,6,0.0,0.0,0.31,0.69
+Alejandro Romero Gamarra,Paraguay,MF,87,0.85,0.15,0.0,0.0
+Ireneo Hermosilla,Paraguay,MF,88,0.71,0.29,0.0,0.0
+Adalberto Morínigo,Paraguay,MF,86,0.87,0.13,0.0,0.0
+Ángel Jara Saguier,Paraguay,MF,74,0.82,0.18,0.0,0.0
+Juan Bautista Agüero,Paraguay,MF,7,0.0,0.0,0.18,0.82
+Rubén Puyol,Paraguay,MF,6,0.0,0.0,0.33,0.67
+Julio Valentín González,Paraguay,MF,17,0.0,0.0,0.11,0.89
+Pablo Ramírez,Paraguay,MF,9,0.0,0.0,0.24,0.76
+Romulo Guirland,Paraguay,FW,76,0.66,0.34,0.0,0.0
+Lino Nessi,Paraguay,FW,72,0.69,0.31,0.0,0.0
+Néstor Alderete,Paraguay,FW,9,0.0,0.0,0.13,0.87
+Justo Jacquet,Paraguay,FW,15,0.0,0.0,0.31,0.69
+José del Solar,Paraguay,FW,12,0.0,0.0,0.15,0.85
+Gorgonio Nery Caballero,Paraguay,FW,16,0.0,0.0,0.29,0.71
+Salvador Villalba,Paraguay,FW,14,0.0,0.0,0.23,0.77
+Diogo Costa,Portugal,GK,90,1.0,0.0,0.0,0.0
+Cristiano Ronaldo,Portugal,FW,88,0.89,0.11,0.0,0.0
+Bruno Fernandes,Portugal,MF,78,0.67,0.33,0.0,0.0
+Bernardo Silva,Portugal,MF,78,0.78,0.22,0.0,0.0
+Rúben Dias,Portugal,DF,73,0.73,0.27,0.0,0.0
+João Cancelo,Portugal,DF,75,0.86,0.14,0.0,0.0
+Vitinha,Portugal,MF,87,0.66,0.34,0.0,0.0
+Rafael Leão,Portugal,FW,73,0.66,0.34,0.0,0.0
+Gonçalo Ramos,Portugal,FW,17,0.0,0.0,0.21,0.79
+Diogo Jota,Portugal,FW,16,0.0,0.0,0.3,0.7
+Eder,Portugal,GK,13,0.0,0.0,0.26,0.74
+Johan Djourou,Portugal,GK,10,0.0,0.0,0.13,0.87
+José Augusto Torres,Portugal,DF,77,0.88,0.12,0.0,0.0
+Matateu Boye,Portugal,DF,77,0.74,0.26,0.0,0.0
+Jorge Postiga,Portugal,DF,11,0.0,0.0,0.34,0.66
+Ricardo Sá Pinto,Portugal,DF,17,0.0,0.0,0.34,0.66
+Pedro Barbosa,Portugal,DF,16,0.0,0.0,0.34,0.66
+Frederico Paciência,Portugal,DF,5,0.0,0.0,0.11,0.89
+Ivan Ronaldo,Portugal,MF,84,0.9,0.1,0.0,0.0
+Kamil Paciência,Portugal,MF,15,0.0,0.0,0.34,0.66
+Rui Jorge,Portugal,MF,17,0.0,0.0,0.23,0.77
+Eliseu Sá Pinto,Portugal,MF,14,0.0,0.0,0.13,0.87
+Jeff Peyroteo,Portugal,MF,11,0.0,0.0,0.26,0.74
+Ricardo Quaresma,Portugal,FW,18,0.0,0.0,0.22,0.78
+Fernando Chalana,Portugal,FW,7,0.0,0.0,0.26,0.74
+Humberto Pinto,Portugal,FW,11,0.0,0.0,0.26,0.74
+Meshaal Barsham,Qatar,GK,90,1.0,0.0,0.0,0.0
+Abdulgadir Soria,Qatar,GK,5,0.0,0.0,0.33,0.67
+Nasir Khamees,Qatar,GK,11,0.0,0.0,0.29,0.71
+Abdul Mendes,Qatar,DF,89,0.92,0.08,0.0,0.0
+Abdelkarim Hassan,Qatar,DF,80,0.72,0.28,0.0,0.0
+Khalifa Al-Sulaiti,Qatar,DF,85,0.83,0.17,0.0,0.0
+Anbar Sulaiti,Qatar,DF,77,0.72,0.28,0.0,0.0
+Adel Malulla,Qatar,DF,11,0.0,0.0,0.31,0.69
+Boualem Khoukhi,Qatar,DF,18,0.0,0.0,0.3,0.7
+Magid Mohamed,Qatar,DF,18,0.0,0.0,0.16,0.84
+Bilal Ismail,Qatar,DF,5,0.0,0.0,0.15,0.85
+Rayed Al-Boloushi,Qatar,MF,86,0.7,0.3,0.0,0.0
+Fábio César Montezine,Qatar,MF,83,0.81,0.19,0.0,0.0
+Adel Salem Al-Mal,Qatar,MF,80,0.78,0.22,0.0,0.0
+Saleh Eid Al-Mehaizaa,Qatar,MF,88,0.67,0.33,0.0,0.0
+Feng Mubarak,Qatar,MF,15,0.0,0.0,0.3,0.7
+Ali Al-Rawi,Qatar,MF,6,0.0,0.0,0.19,0.81
+Muhsin Musabah,Qatar,MF,6,0.0,0.0,0.32,0.68
+Hassan Al-Haydos,Qatar,MF,19,0.0,0.0,0.15,0.85
+Karim Meshaal,Qatar,FW,72,0.9,0.1,0.0,0.0
+Ali Mohammed Al-Saadah,Qatar,FW,76,0.73,0.27,0.0,0.0
+Nasser Kamil Mubarak,Qatar,FW,9,0.0,0.0,0.2,0.8
+Ró-Ró Ilyas Bakur,Qatar,FW,17,0.0,0.0,0.24,0.76
+Talal Al-Bloushi,Qatar,FW,18,0.0,0.0,0.17,0.83
+Fahad Al Kuwari,Qatar,FW,5,0.0,0.0,0.16,0.84
+Yusef Khoukhi,Qatar,FW,13,0.0,0.0,0.1,0.9
+Ahmed Al-Kassar,Saudi Arabia,GK,90,1.0,0.0,0.0,0.0
+Abdulrahman Al-Shamrani,Saudi Arabia,GK,13,0.0,0.0,0.16,0.84
+Mohsin Harthi,Saudi Arabia,GK,12,0.0,0.0,0.18,0.82
+Fares Juma,Saudi Arabia,DF,88,0.64,0.36,0.0,0.0
+Mohaisen Al-Jam'an,Saudi Arabia,DF,89,0.94,0.06,0.0,0.0
+Ibrahim Al-Harbi,Saudi Arabia,DF,79,0.85,0.15,0.0,0.0
+Saud Lajami,Saudi Arabia,DF,89,0.91,0.09,0.0,0.0
+Saleh Abu Al-Shamat,Saudi Arabia,DF,12,0.0,0.0,0.12,0.88
+Yahya Al-Shehri,Saudi Arabia,DF,5,0.0,0.0,0.15,0.85
+Nawaf Al-Temyat,Saudi Arabia,DF,8,0.0,0.0,0.33,0.67
+Omar Kesarat,Saudi Arabia,DF,6,0.0,0.0,0.15,0.85
+Saeed Al-Waked,Saudi Arabia,MF,85,0.87,0.13,0.0,0.0
+Saleh Al-Suwaiyed Shehrani,Saudi Arabia,MF,75,0.93,0.07,0.0,0.0
+Fares Al-Waked,Saudi Arabia,MF,86,0.91,0.09,0.0,0.0
+Ahmed Al Nifawi,Saudi Arabia,MF,80,0.71,0.29,0.0,0.0
+Saad Kanno,Saudi Arabia,MF,15,0.0,0.0,0.22,0.78
+Saado Al-Suwaiti,Saudi Arabia,MF,9,0.0,0.0,0.32,0.68
+Musab Al-Juwayr,Saudi Arabia,MF,14,0.0,0.0,0.33,0.67
+Hassan Fallatah,Saudi Arabia,MF,13,0.0,0.0,0.27,0.73
+Obeid Jamil Madani,Saudi Arabia,FW,85,0.94,0.06,0.0,0.0
+Ali Al-Hassan,Saudi Arabia,FW,89,0.89,0.11,0.0,0.0
+Faisal Al-Waked,Saudi Arabia,FW,7,0.0,0.0,0.19,0.81
+Fuad Hazazi,Saudi Arabia,FW,14,0.0,0.0,0.24,0.76
+Sami Al-Najei,Saudi Arabia,FW,16,0.0,0.0,0.29,0.71
+Hattan Bahebri,Saudi Arabia,FW,5,0.0,0.0,0.18,0.82
+Mohamed Kanno,Saudi Arabia,FW,7,0.0,0.0,0.21,0.79
+Angus Gunn,Scotland,GK,90,1.0,0.0,0.0,0.0
+Kieran Gemmill,Scotland,GK,11,0.0,0.0,0.31,0.69
+Antonio McAllister,Scotland,GK,12,0.0,0.0,0.3,0.7
+Ross Findlay,Scotland,DF,78,0.72,0.28,0.0,0.0
+Callum McGregor,Scotland,DF,75,0.88,0.12,0.0,0.0
+Ben Patterson,Scotland,DF,72,0.62,0.38,0.0,0.0
+Peter McStay,Scotland,DF,81,0.62,0.38,0.0,0.0
+Andrew Shearer,Scotland,DF,14,0.0,0.0,0.25,0.75
+Scott McTominay,Scotland,DF,11,0.0,0.0,0.19,0.81
+Craig Miller,Scotland,DF,8,0.0,0.0,0.15,0.85
+Denis Gallacher,Scotland,DF,13,0.0,0.0,0.15,0.85
+Jimmy Murray,Scotland,MF,85,0.7,0.3,0.0,0.0
+Christian Hewie,Scotland,MF,84,0.73,0.27,0.0,0.0
+Steven Thompson,Scotland,MF,74,0.94,0.06,0.0,0.0
+Oliver Burke,Scotland,MF,82,0.81,0.19,0.0,0.0
+John Collins,Scotland,MF,16,0.0,0.0,0.22,0.78
+Archie Hutchison,Scotland,MF,16,0.0,0.0,0.34,0.66
+Janek Meet,Scotland,MF,5,0.0,0.0,0.28,0.72
+Davie Wilson,Scotland,MF,12,0.0,0.0,0.27,0.73
+Craig Beattie,Scotland,FW,83,0.64,0.36,0.0,0.0
+Paul Hartley,Scotland,FW,87,0.6,0.4,0.0,0.0
+Denis Law,Scotland,FW,6,0.0,0.0,0.11,0.89
+Don Hutchison,Scotland,FW,11,0.0,0.0,0.16,0.84
+Peter Chalmers,Scotland,FW,11,0.0,0.0,0.2,0.8
+Christian O'Hare,Scotland,FW,16,0.0,0.0,0.28,0.72
+Berat McArthur,Scotland,FW,8,0.0,0.0,0.28,0.72
+Édouard Mendy,Senegal,GK,90,1.0,0.0,0.0,0.0
+Alagame Seck,Senegal,GK,7,0.0,0.0,0.22,0.78
+Cheikh N'Doye,Senegal,GK,12,0.0,0.0,0.29,0.71
+Mamadou Niang,Senegal,DF,75,0.75,0.25,0.0,0.0
+Thierno Youm,Senegal,DF,73,0.93,0.07,0.0,0.0
+Omar Pierre Diéme,Senegal,DF,85,0.62,0.38,0.0,0.0
+Khalilou N'Diaye,Senegal,DF,75,0.64,0.36,0.0,0.0
+Salif Diao,Senegal,DF,16,0.0,0.0,0.31,0.69
+Cherif Ndiaye,Senegal,DF,10,0.0,0.0,0.25,0.75
+Idrissa Matar Sarr,Senegal,DF,7,0.0,0.0,0.15,0.85
+Athanas Bocandé,Senegal,DF,7,0.0,0.0,0.19,0.81
+Pape Hadji Diouf,Senegal,MF,82,0.63,0.37,0.0,0.0
+Henri Sané,Senegal,MF,78,0.9,0.1,0.0,0.0
+Famara Diédhiou,Senegal,MF,82,0.7,0.3,0.0,0.0
+Kader Mangane,Senegal,MF,74,0.66,0.34,0.0,0.0
+Abdoulaye Ba,Senegal,MF,11,0.0,0.0,0.3,0.7
+Papakouli Diop,Senegal,MF,13,0.0,0.0,0.26,0.74
+Krépin Wagué,Senegal,MF,17,0.0,0.0,0.17,0.83
+Mamadou Diallo,Senegal,MF,14,0.0,0.0,0.11,0.89
+Ibrahima Sonko,Senegal,FW,82,0.85,0.15,0.0,0.0
+Ibrahima Baldé,Senegal,FW,81,0.83,0.17,0.0,0.0
+Momath Badiane,Senegal,FW,7,0.0,0.0,0.18,0.82
+Yatma Diouck,Senegal,FW,11,0.0,0.0,0.28,0.72
+Mamadou Diarra,Senegal,FW,16,0.0,0.0,0.15,0.85
+Iliman Karim Sèye,Senegal,FW,11,0.0,0.0,0.16,0.84
+Omar Traoré,Senegal,FW,13,0.0,0.0,0.31,0.69
+Ronwen Williams,South Africa,GK,90,1.0,0.0,0.0,0.0
+Benni Mashego,South Africa,GK,5,0.0,0.0,0.13,0.87
+Bongani Nyathi,South Africa,GK,18,0.0,0.0,0.3,0.7
+Bongani Khumalo,South Africa,DF,72,0.8,0.2,0.0,0.0
+Iqraam Rayners,South Africa,DF,75,0.66,0.34,0.0,0.0
+Delron Mphela,South Africa,DF,73,0.73,0.27,0.0,0.0
+Mark Williams,South Africa,DF,75,0.8,0.2,0.0,0.0
+Siyabonga Nomvethe,South Africa,DF,7,0.0,0.0,0.33,0.67
+Thuso Matlaba,South Africa,DF,5,0.0,0.0,0.28,0.72
+Thembinkosi Fanteni,South Africa,DF,10,0.0,0.0,0.15,0.85
+Lungisani Booth,South Africa,DF,7,0.0,0.0,0.22,0.78
+Quinton Fortune,South Africa,MF,83,0.77,0.23,0.0,0.0
+Manucho Diniz,South Africa,MF,79,0.7,0.3,0.0,0.0
+Surprise Moriri,South Africa,MF,75,0.67,0.33,0.0,0.0
+Jabu Pule,South Africa,MF,87,0.67,0.33,0.0,0.0
+Thapelo Maseko,South Africa,MF,17,0.0,0.0,0.2,0.8
+Teboho Mokoena,South Africa,MF,17,0.0,0.0,0.26,0.74
+Dumisa Ngobe,South Africa,MF,10,0.0,0.0,0.29,0.71
+Bongokuhle Hlongwane,South Africa,MF,10,0.0,0.0,0.24,0.76
+Evidence Radebe,South Africa,FW,89,0.62,0.38,0.0,0.0
+Bongokuhle Tinkler,South Africa,FW,78,0.7,0.3,0.0,0.0
+Thamsanqa Gabuza,South Africa,FW,14,0.0,0.0,0.28,0.72
+Lungisani Ndlela,South Africa,FW,10,0.0,0.0,0.32,0.68
+Benni McCarthy,South Africa,FW,10,0.0,0.0,0.18,0.82
+Katlego Mashego,South Africa,FW,11,0.0,0.0,0.11,0.89
+Abram Raselemane,South Africa,FW,10,0.0,0.0,0.24,0.76
+Jo Hyeon-woo,South Korea,GK,90,1.0,0.0,0.0,0.0
+Son Heung-min,South Korea,FW,89,0.62,0.38,0.0,0.0
+Kim Min-jae,South Korea,DF,81,0.84,0.16,0.0,0.0
+Lee Kang-in,South Korea,MF,77,0.81,0.19,0.0,0.0
+Hwang Hee-chan,South Korea,FW,78,0.77,0.23,0.0,0.0
+Woo Kwang-suk,South Korea,GK,15,0.0,0.0,0.3,0.7
+Paik Seung-hyun,South Korea,GK,16,0.0,0.0,0.13,0.87
+Choi Yong-soo,South Korea,DF,83,0.68,0.32,0.0,0.0
+Park Kun-Ha,South Korea,DF,81,0.78,0.22,0.0,0.0
+Akmal Kyung-Hoon,South Korea,DF,81,0.62,0.38,0.0,0.0
+Hwang Chun-soo,South Korea,DF,14,0.0,0.0,0.22,0.78
+Kim Pan-Keun,South Korea,DF,11,0.0,0.0,0.11,0.89
+Oh Se-hun,South Korea,DF,8,0.0,0.0,0.21,0.79
+Koo Ja-cheol,South Korea,DF,11,0.0,0.0,0.13,0.87
+Yazan Kyu-Poong,South Korea,MF,78,0.75,0.25,0.0,0.0
+Roh Sang-Rae,South Korea,MF,73,0.69,0.31,0.0,0.0
+Choi Byung-kuk,South Korea,MF,72,0.74,0.26,0.0,0.0
+Jang Zhi,South Korea,MF,8,0.0,0.0,0.21,0.79
+Bae Young-pyo,South Korea,MF,6,0.0,0.0,0.19,0.81
+Koo Jung-won,South Korea,MF,6,0.0,0.0,0.18,0.82
+Shin Young-Moo,South Korea,MF,12,0.0,0.0,0.25,0.75
+Park Chul,South Korea,FW,18,0.0,0.0,0.19,0.81
+Bae Jun-ho,South Korea,FW,14,0.0,0.0,0.2,0.8
+Choi Moon-Sik,South Korea,FW,5,0.0,0.0,0.34,0.66
+Artyom Filiposyan,South Korea,FW,14,0.0,0.0,0.24,0.76
+Na Sang-ho,South Korea,FW,5,0.0,0.0,0.25,0.75
+Unai Simón,Spain,GK,90,1.0,0.0,0.0,0.0
+Dani Carvajal,Spain,DF,79,0.78,0.22,0.0,0.0
+Robin Le Normand,Spain,DF,81,0.82,0.18,0.0,0.0
+Aymeric Laporte,Spain,DF,76,0.7,0.3,0.0,0.0
+Marc Cucurella,Spain,DF,87,0.71,0.29,0.0,0.0
+Rodri,Spain,MF,73,0.62,0.38,0.0,0.0
+Fabián Ruiz,Spain,MF,79,0.66,0.34,0.0,0.0
+Dani Olmo,Spain,MF,87,0.81,0.19,0.0,0.0
+Lamine Yamal,Spain,FW,84,0.71,0.29,0.0,0.0
+Nico Williams,Spain,FW,74,0.9,0.1,0.0,0.0
+Álvaro Morata,Spain,FW,83,0.92,0.08,0.0,0.0
+Ferran Torres,Spain,FW,16,0.0,0.0,0.34,0.66
+Mikel Merino,Spain,MF,17,0.0,0.0,0.32,0.68
+Maximilian Göppel,Spain,GK,16,0.0,0.0,0.12,0.88
+César Martín,Spain,GK,9,0.0,0.0,0.2,0.8
+Maximilian Gento,Spain,DF,14,0.0,0.0,0.24,0.76
+Pau Kvirkvelia,Spain,DF,11,0.0,0.0,0.25,0.75
+Juan Gensana,Spain,DF,16,0.0,0.0,0.3,0.7
+Venancio García,Spain,DF,19,0.0,0.0,0.32,0.68
+Mikel Maceda,Spain,MF,9,0.0,0.0,0.15,0.85
+Fran,Spain,MF,8,0.0,0.0,0.26,0.74
+Javier Roberto,Spain,MF,9,0.0,0.0,0.18,0.82
+César Azpilicueta,Spain,MF,19,0.0,0.0,0.15,0.85
+Telmo Zarra,Spain,FW,19,0.0,0.0,0.27,0.73
+Adrián Kucka,Spain,FW,16,0.0,0.0,0.27,0.73
+Aritz Aduriz,Spain,FW,19,0.0,0.0,0.26,0.74
+Robin Olsen,Sweden,GK,90,1.0,0.0,0.0,0.0
+Sven Nordahl,Sweden,GK,8,0.0,0.0,0.29,0.71
+Andreas Álvarez,Sweden,GK,5,0.0,0.0,0.15,0.85
+Arne Selmosson,Sweden,DF,83,0.82,0.18,0.0,0.0
+Aldo Lundgren,Sweden,DF,76,0.95,0.05,0.0,0.0
+Emil Holm,Sweden,DF,87,0.69,0.31,0.0,0.0
+Aldo Junior Simoncini,Sweden,DF,88,0.94,0.06,0.0,0.0
+Markus Sandell,Sweden,DF,12,0.0,0.0,0.15,0.85
+Ove Grahn,Sweden,DF,15,0.0,0.0,0.15,0.85
+Aldo Granström,Sweden,DF,17,0.0,0.0,0.35,0.65
+Pär Junior Simoncini,Sweden,DF,12,0.0,0.0,0.24,0.76
+Andreas Simoncini,Sweden,MF,81,0.61,0.39,0.0,0.0
+Dan Rosenberg,Sweden,MF,83,0.73,0.27,0.0,0.0
+Ken Sema,Sweden,MF,87,0.61,0.39,0.0,0.0
+Agne Cervin,Sweden,MF,80,0.79,0.21,0.0,0.0
+Nils Liedholm,Sweden,MF,10,0.0,0.0,0.26,0.74
+Bror Mellberg,Sweden,MF,16,0.0,0.0,0.31,0.69
+Torbjörn Jonsson,Sweden,MF,9,0.0,0.0,0.34,0.66
+Gabriel Mendes,Sweden,MF,6,0.0,0.0,0.29,0.71
+Patrik Andersson,Sweden,FW,81,0.77,0.23,0.0,0.0
+Robert Prytz,Sweden,FW,85,0.63,0.37,0.0,0.0
+Lars Bajrami,Sweden,FW,10,0.0,0.0,0.17,0.83
+Stefan Landberg,Sweden,FW,5,0.0,0.0,0.15,0.85
+Harry Zengin,Sweden,FW,13,0.0,0.0,0.29,0.71
+Ove Kindvall,Sweden,FW,7,0.0,0.0,0.15,0.85
+Alexander Kačaniklić,Sweden,FW,13,0.0,0.0,0.16,0.84
+Yann Sommer,Switzerland,GK,90,1.0,0.0,0.0,0.0
+Adrian Inler,Switzerland,GK,19,0.0,0.0,0.12,0.88
+Leopold Quentin,Switzerland,GK,7,0.0,0.0,0.16,0.84
+Robert Lüthi,Switzerland,DF,81,0.71,0.29,0.0,0.0
+Karl Odermatt,Switzerland,DF,75,0.92,0.08,0.0,0.0
+Fabian Schär,Switzerland,DF,87,0.85,0.15,0.0,0.0
+Haris Sforza,Switzerland,DF,83,0.68,0.32,0.0,0.0
+Manuel Akanji,Switzerland,DF,9,0.0,0.0,0.21,0.79
+Rolf Frigerio,Switzerland,DF,17,0.0,0.0,0.31,0.69
+Andi Ponte,Switzerland,DF,15,0.0,0.0,0.34,0.66
+Thomas Sutter,Switzerland,DF,19,0.0,0.0,0.26,0.74
+Christian Fassnacht,Switzerland,MF,73,0.86,0.14,0.0,0.0
+René-Pierre Aebischer,Switzerland,MF,75,0.77,0.23,0.0,0.0
+Amir Rrahmani,Switzerland,MF,84,0.68,0.32,0.0,0.0
+Xherdan Frigerio,Switzerland,MF,81,0.92,0.08,0.0,0.0
+Sébastien Fournier,Switzerland,MF,8,0.0,0.0,0.17,0.83
+Jacques Zwicker,Switzerland,MF,14,0.0,0.0,0.19,0.81
+Alexandre Hufschmid,Switzerland,MF,14,0.0,0.0,0.13,0.87
+Remo Freuler,Switzerland,MF,15,0.0,0.0,0.11,0.89
+Alfred Bickel,Switzerland,FW,74,0.8,0.2,0.0,0.0
+Ruben Vargas,Switzerland,FW,78,0.61,0.39,0.0,0.0
+René Maillard,Switzerland,FW,18,0.0,0.0,0.27,0.73
+Massimo Lombardo,Switzerland,FW,10,0.0,0.0,0.12,0.88
+Dario Akanji,Switzerland,FW,15,0.0,0.0,0.2,0.8
+Marco Ponte,Switzerland,FW,11,0.0,0.0,0.16,0.84
+Georges Aeby,Switzerland,FW,5,0.0,0.0,0.27,0.73
+Amanallah Memmiche,Tunisia,GK,90,1.0,0.0,0.0,0.0
+Khemais Labidi,Tunisia,GK,11,0.0,0.0,0.3,0.7
+Tarak Dhiab,Tunisia,GK,19,0.0,0.0,0.19,0.81
+Ellyes Sassi,Tunisia,DF,79,0.71,0.29,0.0,0.0
+Chaouki Ben Saada,Tunisia,DF,82,0.78,0.22,0.0,0.0
+Kais Yâakoubi,Tunisia,DF,88,0.85,0.15,0.0,0.0
+Bassam Ben Larbi,Tunisia,DF,87,0.79,0.21,0.0,0.0
+Rached Sidibé,Tunisia,DF,17,0.0,0.0,0.32,0.68
+Aïssa Laïdouni,Tunisia,DF,8,0.0,0.0,0.33,0.67
+Hamza Ben-Hatira,Tunisia,DF,18,0.0,0.0,0.2,0.8
+Ali Abdi,Tunisia,DF,8,0.0,0.0,0.29,0.71
+Hakim Merrichkou,Tunisia,MF,88,0.63,0.37,0.0,0.0
+Ezzedine Gasri,Tunisia,MF,89,0.77,0.23,0.0,0.0
+Adel Chedli,Tunisia,MF,88,0.64,0.36,0.0,0.0
+Ali Kaabi,Tunisia,MF,75,0.91,0.09,0.0,0.0
+Wissem Hamrouni,Tunisia,MF,19,0.0,0.0,0.16,0.84
+Abdelmajid Tlemçani,Tunisia,MF,10,0.0,0.0,0.24,0.76
+Khemais Lahzami,Tunisia,MF,19,0.0,0.0,0.31,0.69
+Mohieddine Bronn,Tunisia,MF,9,0.0,0.0,0.2,0.8
+Lotfi Hsoumi,Tunisia,FW,88,0.76,0.24,0.0,0.0
+Mehdi Ben Slimane,Tunisia,FW,84,0.83,0.17,0.0,0.0
+Kamel Gabsi,Tunisia,FW,17,0.0,0.0,0.15,0.85
+Hassen Herichi,Tunisia,FW,18,0.0,0.0,0.23,0.77
+Anis Ben Slimane,Tunisia,FW,8,0.0,0.0,0.3,0.7
+Mejdi Meddeb,Tunisia,FW,17,0.0,0.0,0.15,0.85
+Firas Jaziri,Tunisia,FW,13,0.0,0.0,0.14,0.86
+Mert Günok,Turkey,GK,90,1.0,0.0,0.0,0.0
+Tony Dunne,Turkey,GK,8,0.0,0.0,0.19,0.81
+Enes Ünal,Turkey,GK,6,0.0,0.0,0.19,0.81
+Fevzi Zemzem,Turkey,DF,81,0.76,0.24,0.0,0.0
+Aydın Yelken,Turkey,DF,80,0.66,0.34,0.0,0.0
+Tayfur Havutçu,Turkey,DF,76,0.76,0.24,0.0,0.0
+Ender Konca,Turkey,DF,81,0.85,0.15,0.0,0.0
+Necati Ateş,Turkey,DF,16,0.0,0.0,0.28,0.72
+Sabri Sarıoğlu,Turkey,DF,9,0.0,0.0,0.12,0.88
+Mehmet Aurélio,Turkey,DF,16,0.0,0.0,0.34,0.66
+İlyas Tüfekçi,Turkey,DF,18,0.0,0.0,0.15,0.85
+Fatih Toraman,Turkey,MF,88,0.61,0.39,0.0,0.0
+Tuncay Şanlı,Turkey,MF,76,0.61,0.39,0.0,0.0
+Orhan Çıkırıkçı,Turkey,MF,79,0.75,0.25,0.0,0.0
+Rıza Erdinç,Turkey,MF,75,0.8,0.2,0.0,0.0
+Umut Bulut,Turkey,MF,17,0.0,0.0,0.29,0.71
+Arda Altıntop,Turkey,MF,5,0.0,0.0,0.24,0.76
+Ender Eken,Turkey,MF,15,0.0,0.0,0.23,0.77
+Gökhan Ünal,Turkey,MF,14,0.0,0.0,0.16,0.84
+Samet Akaydin,Turkey,FW,77,0.92,0.08,0.0,0.0
+Emre Belözoğlu,Turkey,FW,78,0.72,0.28,0.0,0.0
+Yusuf Altıntaş,Turkey,FW,9,0.0,0.0,0.34,0.66
+Samet Korkmaz,Turkey,FW,12,0.0,0.0,0.33,0.67
+Saffet Popov,Turkey,FW,8,0.0,0.0,0.21,0.79
+Arif Kocabıyık,Turkey,FW,10,0.0,0.0,0.32,0.68
+Burak Yılmaz,Turkey,FW,9,0.0,0.0,0.14,0.86
+Matt Turner,United States,GK,90,1.0,0.0,0.0,0.0
+Joe Corona,United States,GK,6,0.0,0.0,0.18,0.82
+Henry Straden,United States,GK,13,0.0,0.0,0.17,0.83
+Walter Cameron,United States,DF,72,0.95,0.05,0.0,0.0
+Haji Wright,United States,DF,74,0.89,0.11,0.0,0.0
+Davy Lassiter,United States,DF,74,0.63,0.37,0.0,0.0
+Aldo Chacurian,United States,DF,74,0.86,0.14,0.0,0.0
+Brian Ching,United States,DF,17,0.0,0.0,0.23,0.77
+Bart McGhee,United States,DF,11,0.0,0.0,0.12,0.88
+John Doyle,United States,DF,16,0.0,0.0,0.12,0.88
+Oguchi Chacurian,United States,DF,9,0.0,0.0,0.22,0.78
+Matt Armas,United States,MF,87,0.93,0.07,0.0,0.0
+Brad Souza,United States,MF,84,0.72,0.28,0.0,0.0
+Sam Vines,United States,MF,80,0.6,0.4,0.0,0.0
+Claudio Ferreira,United States,MF,73,0.93,0.07,0.0,0.0
+Sebastian Lletget,United States,MF,12,0.0,0.0,0.12,0.88
+Bobby Wood,United States,MF,19,0.0,0.0,0.25,0.75
+Geoff Dooley,United States,MF,15,0.0,0.0,0.23,0.77
+Conor Casey,United States,MF,5,0.0,0.0,0.11,0.89
+Frank Klopas,United States,FW,73,0.76,0.24,0.0,0.0
+Brek Ferreira,United States,FW,75,0.86,0.14,0.0,0.0
+Cade Cowell,United States,FW,9,0.0,0.0,0.35,0.65
+Herculez Gomez,United States,FW,9,0.0,0.0,0.34,0.66
+Alexi Lalas,United States,FW,11,0.0,0.0,0.23,0.77
+Stuart Holden,United States,FW,8,0.0,0.0,0.12,0.88
+Eddie Pope,United States,FW,8,0.0,0.0,0.34,0.66
+Sergio Rochet,Uruguay,GK,90,1.0,0.0,0.0,0.0
+Nahitan Nández,Uruguay,DF,76,0.62,0.38,0.0,0.0
+Ronald Araújo,Uruguay,DF,75,0.81,0.19,0.0,0.0
+Mathías Olivera,Uruguay,DF,80,0.7,0.3,0.0,0.0
+Matías Viña,Uruguay,DF,85,0.7,0.3,0.0,0.0
+Federico Valverde,Uruguay,MF,81,0.95,0.05,0.0,0.0
+Manuel Ugarte,Uruguay,MF,83,0.65,0.35,0.0,0.0
+Nicolás de la Cruz,Uruguay,MF,82,0.66,0.34,0.0,0.0
+Facundo Pellistri,Uruguay,FW,88,0.91,0.09,0.0,0.0
+Darwin Núñez,Uruguay,FW,80,0.87,0.13,0.0,0.0
+Maximiliano Araújo,Uruguay,FW,74,0.8,0.2,0.0,0.0
+Luis Suárez,Uruguay,FW,7,0.0,0.0,0.18,0.82
+Andrés Martínez,Uruguay,GK,8,0.0,0.0,0.16,0.84
+Ubaldo Corujo,Uruguay,GK,5,0.0,0.0,0.29,0.71
+Cristhian Núñez,Uruguay,DF,14,0.0,0.0,0.17,0.83
+Cristhian Sarro,Uruguay,DF,15,0.0,0.0,0.15,0.85
+Rodrigo Bentancur,Uruguay,DF,11,0.0,0.0,0.23,0.77
+Segundo Villadóniga,Uruguay,DF,6,0.0,0.0,0.31,0.69
+Cristhian Diogo,Uruguay,MF,15,0.0,0.0,0.28,0.72
+Arturo Laurido,Uruguay,MF,15,0.0,0.0,0.13,0.87
+Lorenzo García,Uruguay,MF,17,0.0,0.0,0.16,0.84
+Edinson Hohberg,Uruguay,MF,12,0.0,0.0,0.25,0.75
+Isabelino Gradín,Uruguay,MF,18,0.0,0.0,0.26,0.74
+Rodrigo Lemos,Uruguay,FW,8,0.0,0.0,0.12,0.88
+Abel Hernández,Uruguay,FW,10,0.0,0.0,0.17,0.83
+Raúl Sarro,Uruguay,FW,13,0.0,0.0,0.32,0.68
+Utkir Yusupov,Uzbekistan,GK,90,1.0,0.0,0.0,0.0
+Anzur Ismailov,Uzbekistan,GK,18,0.0,0.0,0.13,0.87
+Oston Urunov,Uzbekistan,GK,7,0.0,0.0,0.34,0.66
+Mirjalol Lushan,Uzbekistan,DF,76,0.78,0.22,0.0,0.0
+Stanislav Andreev,Uzbekistan,DF,75,0.89,0.11,0.0,0.0
+Khojiakbar Alijonov,Uzbekistan,DF,83,0.66,0.34,0.0,0.0
+Ulugbek Karpenko,Uzbekistan,DF,85,0.84,0.16,0.0,0.0
+Jaloliddin Masharipov,Uzbekistan,DF,11,0.0,0.0,0.13,0.87
+Andrei Ashoor,Uzbekistan,DF,17,0.0,0.0,0.11,0.89
+Mirdjalal Khasanov,Uzbekistan,DF,8,0.0,0.0,0.31,0.69
+Aziz Ibrahimov,Uzbekistan,DF,13,0.0,0.0,0.19,0.81
+Timur Sergeev,Uzbekistan,MF,83,0.93,0.07,0.0,0.0
+Egor Krimets,Uzbekistan,MF,83,0.67,0.33,0.0,0.0
+Timur Kapadze,Uzbekistan,MF,77,0.87,0.13,0.0,0.0
+Maksim Shkvyrin,Uzbekistan,MF,78,0.74,0.26,0.0,0.0
+Sanjar Kodirkulov,Uzbekistan,MF,14,0.0,0.0,0.23,0.77
+Leonid Koshelev,Uzbekistan,MF,16,0.0,0.0,0.35,0.65
+Pavel Solomin,Uzbekistan,MF,8,0.0,0.0,0.2,0.8
+Igor Shkvyrin,Uzbekistan,MF,13,0.0,0.0,0.28,0.72
+Sanjar Koshelev,Uzbekistan,FW,78,0.84,0.16,0.0,0.0
+Jafar Salomov,Uzbekistan,FW,77,0.77,0.23,0.0,0.0
+Igor Ashurmatov,Uzbekistan,FW,17,0.0,0.0,0.28,0.72
+Odiljon Hamrobekov,Uzbekistan,FW,18,0.0,0.0,0.2,0.8
+Bahtiyor Akopyants,Uzbekistan,FW,19,0.0,0.0,0.11,0.89
+Andrei Fyodorov,Uzbekistan,FW,6,0.0,0.0,0.2,0.8
+Husniddin Kodirkulov,Uzbekistan,FW,7,0.0,0.0,0.33,0.67
