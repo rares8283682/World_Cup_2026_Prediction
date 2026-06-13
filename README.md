@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # World Cup 2026 Prediction
 
 Machine learning project for predicting FIFA World Cup 2026 match outcomes, likely scores and eventually player scoring probabilities.
