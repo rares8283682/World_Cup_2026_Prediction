@@ -1,0 +1,7 @@
+date,competition,home_team,away_team,home_score,away_score,home_odds,draw_odds,away_odds,source_id,source_url,_source_row_id,source_priority,reject_reason
+2025-11-18,FIFA World Cup qualification,Belgium,Liechtenstein,7.0,0.0,1.0,45.69,71.08,oddsportal:average,https://www.oddsportal.com,48,1,invalid_home_odds_lte_1
+2025-10-12,FIFA World Cup qualification,Croatia,Gibraltar,3.0,0.0,1.0,47.6,120.4,oddsportal:average,https://www.oddsportal.com,252,1,invalid_home_odds_lte_1
+2025-10-09,FIFA World Cup qualification,Austria,San Marino,10.0,0.0,1.0,43.27,76.18,oddsportal:average,https://www.oddsportal.com,344,1,invalid_home_odds_lte_1
+2025-06-07,FIFA World Cup qualification,Bahamas,Costa Rica,0.0,8.0,77.18,36.0,1.0,oddsportal:average,https://www.oddsportal.com,716,1,invalid_away_odds_lte_1
+2024-11-18,FIFA World Cup qualification,New Zealand,Samoa,8.0,0.0,1.0,43.25,68.38,oddsportal:average,https://www.oddsportal.com,1040,1,invalid_home_odds_lte_1
+2023-11-16,FIFA World Cup qualification,Japan,Myanmar,5.0,0.0,1.0,57.67,102.0,oddsportal:average,https://www.oddsportal.com,1654,1,invalid_home_odds_lte_1
