@@ -1,0 +1,73 @@
+date,home_team,away_team,group,has_market_odds,is_placeholder_match,prob_away_win,prob_draw,prob_home_win,predicted_result,prediction_confidence,confidence_tier,model
+2026-06-11,Mexico,South Africa,J,1,False,0.0554,0.22,0.7246,home_win,0.7246,high,CatBoost
+2026-06-11,South Korea,Czech Republic,J,1,False,0.1497,0.303,0.5472,home_win,0.5472,medium,CatBoost
+2026-06-12,Canada,Bosnia and Herzegovina,D,1,False,0.0657,0.0801,0.8542,home_win,0.8542,high,CatBoost
+2026-06-12,United States,Paraguay,B,1,False,0.2338,0.3942,0.372,draw,0.3942,low,CatBoost
+2026-06-13,Qatar,Switzerland,D,1,False,0.615,0.1517,0.2333,away_win,0.615,medium,CatBoost
+2026-06-13,Brazil,Morocco,E,1,False,0.1963,0.3918,0.4119,home_win,0.4119,low,CatBoost
+2026-06-13,Haiti,Scotland,E,1,False,0.4708,0.3253,0.204,away_win,0.4708,low,CatBoost
+2026-06-13,Australia,Turkey,B,1,False,0.3498,0.3108,0.3394,away_win,0.3498,low,CatBoost
+2026-06-14,Sweden,Tunisia,L,1,False,0.2666,0.2903,0.4431,home_win,0.4431,low,CatBoost
+2026-06-14,Netherlands,Japan,L,1,False,0.3021,0.3727,0.3252,draw,0.3727,low,CatBoost
+2026-06-14,Germany,Curaçao,I,1,False,0.055,0.1868,0.7582,home_win,0.7582,high,CatBoost
+2026-06-14,Ivory Coast,Ecuador,I,1,False,0.4081,0.3936,0.1983,away_win,0.4081,low,CatBoost
+2026-06-15,Saudi Arabia,Uruguay,F,1,False,0.6405,0.2063,0.1532,away_win,0.6405,medium,CatBoost
+2026-06-15,Spain,Cape Verde,F,1,False,0.0518,0.1597,0.7885,home_win,0.7885,high,CatBoost
+2026-06-15,Iran,New Zealand,C,1,False,0.1536,0.2837,0.5626,home_win,0.5626,medium,CatBoost
+2026-06-15,Belgium,Egypt,C,1,False,0.094,0.2408,0.6652,home_win,0.6652,high,CatBoost
+2026-06-16,Austria,Jordan,A,1,False,0.0947,0.2526,0.6527,home_win,0.6527,high,CatBoost
+2026-06-16,Argentina,Algeria,A,1,False,0.0595,0.2595,0.681,home_win,0.681,high,CatBoost
+2026-06-16,France,Senegal,K,1,False,0.0902,0.2154,0.6944,home_win,0.6944,high,CatBoost
+2026-06-16,Iraq,Norway,K,1,False,0.5169,0.1936,0.2895,away_win,0.5169,medium,CatBoost
+2026-06-17,Portugal,DR Congo,G,1,False,0.0648,0.1597,0.7755,home_win,0.7755,high,CatBoost
+2026-06-17,Uzbekistan,Colombia,G,1,False,0.6281,0.1854,0.1865,away_win,0.6281,medium,CatBoost
+2026-06-17,England,Croatia,H,1,False,0.1717,0.2243,0.604,home_win,0.604,medium,CatBoost
+2026-06-17,Ghana,Panama,H,1,False,0.4988,0.2064,0.2948,away_win,0.4988,low,CatBoost
+2026-06-18,Switzerland,Bosnia and Herzegovina,D,1,False,0.0466,0.0683,0.8851,home_win,0.8851,high,CatBoost
+2026-06-18,Canada,Qatar,D,1,False,0.0847,0.1439,0.7714,home_win,0.7714,high,CatBoost
+2026-06-18,Czech Republic,South Africa,J,1,False,0.1011,0.2995,0.5994,home_win,0.5994,medium,CatBoost
+2026-06-18,Mexico,South Korea,J,1,False,0.1601,0.3538,0.486,home_win,0.486,low,CatBoost
+2026-06-19,Turkey,Paraguay,B,1,False,0.1128,0.3539,0.5333,home_win,0.5333,medium,CatBoost
+2026-06-19,Scotland,Morocco,E,1,False,0.3629,0.4645,0.1727,draw,0.4645,low,CatBoost
+2026-06-19,Brazil,Haiti,E,1,False,0.0762,0.2457,0.6781,home_win,0.6781,high,CatBoost
+2026-06-19,United States,Australia,B,1,False,0.2969,0.3614,0.3417,draw,0.3614,low,CatBoost
+2026-06-20,Netherlands,Sweden,L,1,False,0.1113,0.1978,0.691,home_win,0.691,high,CatBoost
+2026-06-20,Tunisia,Japan,L,1,False,0.4238,0.2651,0.311,away_win,0.4238,low,CatBoost
+2026-06-20,Germany,Ivory Coast,I,1,False,0.0782,0.2868,0.635,home_win,0.635,medium,CatBoost
+2026-06-20,Ecuador,Curaçao,I,1,False,0.0791,0.1447,0.7761,home_win,0.7761,high,CatBoost
+2026-06-21,Uruguay,Cape Verde,F,1,False,0.0587,0.0683,0.873,home_win,0.873,high,CatBoost
+2026-06-21,Belgium,Iran,C,1,False,0.1171,0.3167,0.5662,home_win,0.5662,medium,CatBoost
+2026-06-21,New Zealand,Egypt,C,1,False,0.5422,0.2702,0.1875,away_win,0.5422,medium,CatBoost
+2026-06-21,Spain,Saudi Arabia,F,1,False,0.0533,0.2404,0.7063,home_win,0.7063,high,CatBoost
+2026-06-22,Jordan,Algeria,A,1,False,0.2758,0.4924,0.2317,draw,0.4924,low,CatBoost
+2026-06-22,Argentina,Austria,A,1,False,0.0835,0.1829,0.7336,home_win,0.7336,high,CatBoost
+2026-06-22,Norway,Senegal,K,1,False,0.2206,0.2131,0.5663,home_win,0.5663,medium,CatBoost
+2026-06-22,France,Iraq,K,1,False,0.047,0.1017,0.8512,home_win,0.8512,high,CatBoost
+2026-06-23,Portugal,Uzbekistan,G,1,False,0.0841,0.1865,0.7294,home_win,0.7294,high,CatBoost
+2026-06-23,Colombia,DR Congo,G,1,False,0.0809,0.158,0.7611,home_win,0.7611,high,CatBoost
+2026-06-23,England,Ghana,H,1,False,0.0634,0.1251,0.8115,home_win,0.8115,high,CatBoost
+2026-06-23,Panama,Croatia,H,1,False,0.4138,0.2717,0.3145,away_win,0.4138,low,CatBoost
+2026-06-24,Morocco,Haiti,E,1,False,0.0566,0.0872,0.8561,home_win,0.8561,high,CatBoost
+2026-06-24,Bosnia and Herzegovina,Qatar,D,1,False,0.1657,0.2055,0.6288,home_win,0.6288,medium,CatBoost
+2026-06-24,Scotland,Brazil,E,1,False,0.5436,0.2635,0.1929,away_win,0.5436,medium,CatBoost
+2026-06-24,South Africa,South Korea,J,1,False,0.4644,0.3056,0.2299,away_win,0.4644,low,CatBoost
+2026-06-24,Mexico,Czech Republic,J,1,False,0.0702,0.2722,0.6576,home_win,0.6576,high,CatBoost
+2026-06-24,Canada,Switzerland,D,1,False,0.3554,0.3628,0.2818,draw,0.3628,low,CatBoost
+2026-06-25,Tunisia,Netherlands,L,1,False,0.5631,0.1955,0.2414,away_win,0.5631,medium,CatBoost
+2026-06-25,Japan,Sweden,L,1,False,0.1272,0.3338,0.5391,home_win,0.5391,medium,CatBoost
+2026-06-25,Ecuador,Germany,I,1,False,0.187,0.4613,0.3518,draw,0.4613,low,CatBoost
+2026-06-25,United States,Turkey,B,1,False,0.3712,0.3188,0.31,away_win,0.3712,low,CatBoost
+2026-06-25,Paraguay,Australia,B,1,False,0.2648,0.3978,0.3374,draw,0.3978,low,CatBoost
+2026-06-25,Curaçao,Ivory Coast,I,1,False,0.4789,0.3374,0.1837,away_win,0.4789,low,CatBoost
+2026-06-26,Senegal,Iraq,K,1,False,0.0762,0.0977,0.8261,home_win,0.8261,high,CatBoost
+2026-06-26,Norway,France,K,1,False,0.4791,0.3072,0.2137,away_win,0.4791,low,CatBoost
+2026-06-26,Uruguay,Spain,F,1,False,0.4417,0.3281,0.2302,away_win,0.4417,low,CatBoost
+2026-06-26,New Zealand,Belgium,C,1,False,0.6974,0.1655,0.137,away_win,0.6974,high,CatBoost
+2026-06-26,Egypt,Iran,C,1,False,0.2748,0.4753,0.2499,draw,0.4753,low,CatBoost
+2026-06-26,Cape Verde,Saudi Arabia,F,1,False,0.2686,0.3711,0.3603,draw,0.3711,low,CatBoost
+2026-06-27,Algeria,Austria,A,1,False,0.2474,0.3563,0.3963,home_win,0.3963,low,CatBoost
+2026-06-27,Croatia,Ghana,H,1,False,0.0774,0.1269,0.7956,home_win,0.7956,high,CatBoost
+2026-06-27,Panama,England,H,1,False,0.4356,0.2603,0.3041,away_win,0.4356,low,CatBoost
+2026-06-27,DR Congo,Uzbekistan,G,1,False,0.3055,0.3438,0.3507,home_win,0.3507,low,CatBoost
+2026-06-27,Jordan,Argentina,A,1,False,0.6873,0.1307,0.182,away_win,0.6873,high,CatBoost
+2026-06-27,Colombia,Portugal,G,1,False,0.3155,0.3486,0.336,draw,0.3486,low,CatBoost

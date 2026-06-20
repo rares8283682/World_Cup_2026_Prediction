@@ -1,0 +1,73 @@
+date,home_team,away_team,group,has_market_odds,is_placeholder_match,prob_away_win,prob_draw,prob_home_win,predicted_result,prediction_confidence,confidence_tier,model
+2026-06-11,Mexico,South Africa,J,1,False,0.2158,0.2988,0.4855,home_win,0.4855,low,XGBoost DART
+2026-06-11,South Korea,Czech Republic,J,1,False,0.0401,0.327,0.6329,home_win,0.6329,medium,XGBoost DART
+2026-06-12,Canada,Bosnia and Herzegovina,D,1,False,0.0513,0.1157,0.833,home_win,0.833,high,XGBoost DART
+2026-06-12,United States,Paraguay,B,1,False,0.2698,0.3778,0.3524,draw,0.3778,low,XGBoost DART
+2026-06-13,Qatar,Switzerland,D,1,False,0.4759,0.1851,0.339,away_win,0.4759,low,XGBoost DART
+2026-06-13,Brazil,Morocco,E,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-13,Haiti,Scotland,E,1,False,0.4107,0.2829,0.3065,away_win,0.4107,low,XGBoost DART
+2026-06-13,Australia,Turkey,B,1,False,0.2802,0.3724,0.3474,draw,0.3724,low,XGBoost DART
+2026-06-14,Sweden,Tunisia,L,1,False,0.2584,0.356,0.3856,home_win,0.3856,low,XGBoost DART
+2026-06-14,Netherlands,Japan,L,1,False,0.2848,0.3433,0.3719,home_win,0.3719,low,XGBoost DART
+2026-06-14,Germany,Curaçao,I,1,False,0.0408,0.2971,0.6621,home_win,0.6621,high,XGBoost DART
+2026-06-14,Ivory Coast,Ecuador,I,1,False,0.5391,0.3545,0.1065,away_win,0.5391,medium,XGBoost DART
+2026-06-15,Saudi Arabia,Uruguay,F,1,False,0.8308,0.1692,0.0,away_win,0.8308,high,XGBoost DART
+2026-06-15,Spain,Cape Verde,F,1,False,0.0394,0.3212,0.6394,home_win,0.6394,medium,XGBoost DART
+2026-06-15,Iran,New Zealand,C,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-15,Belgium,Egypt,C,1,False,0.0556,0.4533,0.4911,home_win,0.4911,low,XGBoost DART
+2026-06-16,Austria,Jordan,A,1,False,0.0556,0.4533,0.4911,home_win,0.4911,low,XGBoost DART
+2026-06-16,Argentina,Algeria,A,1,False,0.1165,0.301,0.5825,home_win,0.5825,medium,XGBoost DART
+2026-06-16,France,Senegal,K,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-16,Iraq,Norway,K,1,False,0.3662,0.2238,0.41,home_win,0.41,low,XGBoost DART
+2026-06-17,Portugal,DR Congo,G,1,False,0.0401,0.327,0.6329,home_win,0.6329,medium,XGBoost DART
+2026-06-17,Uzbekistan,Colombia,G,1,False,0.6767,0.2144,0.1089,away_win,0.6767,high,XGBoost DART
+2026-06-17,England,Croatia,H,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-17,Ghana,Panama,H,1,False,0.4759,0.1851,0.339,away_win,0.4759,low,XGBoost DART
+2026-06-18,Switzerland,Bosnia and Herzegovina,D,1,False,0.0398,0.0898,0.8704,home_win,0.8704,high,XGBoost DART
+2026-06-18,Canada,Qatar,D,1,False,0.1999,0.1832,0.6168,home_win,0.6168,medium,XGBoost DART
+2026-06-18,Czech Republic,South Africa,J,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-18,Mexico,South Korea,J,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-19,Turkey,Paraguay,B,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-19,Scotland,Morocco,E,1,False,0.2848,0.3433,0.3719,home_win,0.3719,low,XGBoost DART
+2026-06-19,Brazil,Haiti,E,1,False,0.1165,0.301,0.5825,home_win,0.5825,medium,XGBoost DART
+2026-06-19,United States,Australia,B,1,False,0.2848,0.3433,0.3719,home_win,0.3719,low,XGBoost DART
+2026-06-20,Netherlands,Sweden,L,1,False,0.24,0.22,0.54,home_win,0.54,medium,XGBoost DART
+2026-06-20,Tunisia,Japan,L,1,False,0.4107,0.2829,0.3065,away_win,0.4107,low,XGBoost DART
+2026-06-20,Germany,Ivory Coast,I,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-20,Ecuador,Curaçao,I,1,False,0.0454,0.2186,0.736,home_win,0.736,high,XGBoost DART
+2026-06-21,Uruguay,Cape Verde,F,1,False,0.0422,0.0369,0.9209,home_win,0.9209,high,XGBoost DART
+2026-06-21,Belgium,Iran,C,1,False,0.2461,0.3407,0.4132,home_win,0.4132,low,XGBoost DART
+2026-06-21,New Zealand,Egypt,C,1,False,0.5391,0.3545,0.1065,away_win,0.5391,medium,XGBoost DART
+2026-06-21,Spain,Saudi Arabia,F,1,False,0.0394,0.3212,0.6394,home_win,0.6394,medium,XGBoost DART
+2026-06-22,Jordan,Algeria,A,1,False,0.2698,0.3778,0.3524,draw,0.3778,low,XGBoost DART
+2026-06-22,Argentina,Austria,A,1,False,0.2781,0.2549,0.467,home_win,0.467,low,XGBoost DART
+2026-06-22,Norway,Senegal,K,1,False,0.2781,0.2549,0.467,home_win,0.467,low,XGBoost DART
+2026-06-22,France,Iraq,K,1,False,0.0451,0.1017,0.8531,home_win,0.8531,high,XGBoost DART
+2026-06-23,Portugal,Uzbekistan,G,1,False,0.0698,0.3794,0.5508,home_win,0.5508,medium,XGBoost DART
+2026-06-23,Colombia,DR Congo,G,1,False,0.1304,0.1992,0.6705,home_win,0.6705,high,XGBoost DART
+2026-06-23,England,Ghana,H,1,False,0.0484,0.1665,0.7852,home_win,0.7852,high,XGBoost DART
+2026-06-23,Panama,Croatia,H,1,False,0.2848,0.3433,0.3719,home_win,0.3719,low,XGBoost DART
+2026-06-24,Morocco,Haiti,E,1,False,0.0454,0.2186,0.736,home_win,0.736,high,XGBoost DART
+2026-06-24,Bosnia and Herzegovina,Qatar,D,1,False,0.2158,0.2988,0.4855,home_win,0.4855,low,XGBoost DART
+2026-06-24,Scotland,Brazil,E,1,False,0.6767,0.2144,0.1089,away_win,0.6767,high,XGBoost DART
+2026-06-24,South Africa,South Korea,J,1,False,0.422,0.2775,0.3006,away_win,0.422,low,XGBoost DART
+2026-06-24,Mexico,Czech Republic,J,1,False,0.0477,0.3885,0.5639,home_win,0.5639,medium,XGBoost DART
+2026-06-24,Canada,Switzerland,D,1,False,0.3172,0.3278,0.3551,home_win,0.3551,low,XGBoost DART
+2026-06-25,Tunisia,Netherlands,L,1,False,0.4348,0.2554,0.3097,away_win,0.4348,low,XGBoost DART
+2026-06-25,Japan,Sweden,L,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-25,Ecuador,Germany,I,1,False,0.2365,0.3665,0.397,home_win,0.397,low,XGBoost DART
+2026-06-25,United States,Turkey,B,1,False,0.3371,0.3182,0.3447,home_win,0.3447,low,XGBoost DART
+2026-06-25,Paraguay,Australia,B,1,False,0.2584,0.356,0.3856,home_win,0.3856,low,XGBoost DART
+2026-06-25,Curaçao,Ivory Coast,I,1,False,0.4118,0.2823,0.3058,away_win,0.4118,low,XGBoost DART
+2026-06-26,Senegal,Iraq,K,1,False,0.0454,0.2186,0.736,home_win,0.736,high,XGBoost DART
+2026-06-26,Norway,France,K,1,False,0.4107,0.2829,0.3065,away_win,0.4107,low,XGBoost DART
+2026-06-26,Uruguay,Spain,F,1,False,0.3312,0.2362,0.4326,home_win,0.4326,low,XGBoost DART
+2026-06-26,New Zealand,Belgium,C,1,False,0.767,0.1562,0.0767,away_win,0.767,high,XGBoost DART
+2026-06-26,Egypt,Iran,C,1,False,0.2698,0.3778,0.3524,draw,0.3778,low,XGBoost DART
+2026-06-26,Cape Verde,Saudi Arabia,F,1,False,0.2848,0.3433,0.3719,home_win,0.3719,low,XGBoost DART
+2026-06-27,Algeria,Austria,A,1,False,0.2443,0.391,0.3647,draw,0.391,low,XGBoost DART
+2026-06-27,Croatia,Ghana,H,1,False,0.0454,0.2186,0.736,home_win,0.736,high,XGBoost DART
+2026-06-27,Panama,England,H,1,False,0.4348,0.2554,0.3097,away_win,0.4348,low,XGBoost DART
+2026-06-27,DR Congo,Uzbekistan,G,1,False,0.3172,0.3278,0.3551,home_win,0.3551,low,XGBoost DART
+2026-06-27,Jordan,Argentina,A,1,False,0.8342,0.0795,0.0863,away_win,0.8342,high,XGBoost DART
+2026-06-27,Colombia,Portugal,G,1,False,0.2584,0.356,0.3856,home_win,0.3856,low,XGBoost DART
