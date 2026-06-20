@@ -1,0 +1,73 @@
+date,home_team,away_team,group,has_market_odds,is_placeholder_match,prob_away_win,prob_draw,prob_home_win,predicted_result,prediction_confidence,confidence_tier,model,win_prob_gap,best_win_prob,draw_override,predicted_result_adjusted,prob_home_win_adjusted,prob_draw_adjusted,prob_away_win_adjusted,prediction_confidence_adjusted,confidence_tier_adjusted,draw_surprise_zone
+2026-06-11,Mexico,South Africa,J,1,False,0.0023002300230023,0.07550755075507551,0.9221922192219222,home_win,0.9221922192219222,high,Team Embedding NN,0.9198919891989199,0.9221922192219222,False,home_win,0.9222,0.0755,0.0023,0.9222,high,False
+2026-06-11,South Korea,Czech Republic,J,1,False,0.1832,0.279,0.5378,home_win,0.5378,medium,Team Embedding NN,0.3545999999999999,0.5378,False,home_win,0.5378,0.279,0.1832,0.5378,medium,False
+2026-06-12,Canada,Bosnia and Herzegovina,D,1,False,0.014,0.1316,0.8544,home_win,0.8544,high,Team Embedding NN,0.8404,0.8544,False,home_win,0.8544,0.1316,0.014,0.8544,high,False
+2026-06-12,United States,Paraguay,B,1,False,0.384,0.0754,0.5406,home_win,0.5406,medium,Team Embedding NN,0.15659999999999996,0.5406,False,home_win,0.5406,0.0754,0.384,0.5406,medium,False
+2026-06-13,Qatar,Switzerland,D,1,False,0.8038,0.1052,0.091,away_win,0.8038,high,Team Embedding NN,0.7128,0.8038,False,away_win,0.091,0.1052,0.8038,0.8038,high,False
+2026-06-13,Brazil,Morocco,E,1,False,0.0465,0.1979,0.7556,home_win,0.7556,high,Team Embedding NN,0.7091000000000001,0.7556,False,home_win,0.7556,0.1979,0.0465,0.7556,high,False
+2026-06-13,Haiti,Scotland,E,1,False,0.565943405659434,0.27677232276772323,0.15728427157284272,away_win,0.565943405659434,medium,Team Embedding NN,0.40865913408659127,0.565943405659434,False,away_win,0.1573,0.2768,0.5659,0.5659,medium,False
+2026-06-13,Australia,Turkey,B,1,False,0.5484,0.1708,0.2808,away_win,0.5484,medium,Team Embedding NN,0.2676,0.5484,False,away_win,0.2808,0.1708,0.5484,0.5484,medium,False
+2026-06-14,Sweden,Tunisia,L,1,False,0.1011,0.1781,0.7208,home_win,0.7208,high,Team Embedding NN,0.6197,0.7208,False,home_win,0.7208,0.1781,0.1011,0.7208,high,False
+2026-06-14,Netherlands,Japan,L,1,False,0.0465,0.0631,0.8904,home_win,0.8904,high,Team Embedding NN,0.8439,0.8904,False,home_win,0.8904,0.0631,0.0465,0.8904,high,False
+2026-06-14,Germany,Curaçao,I,1,False,0.0001,0.019,0.9809,home_win,0.9809,high,Team Embedding NN,0.9808,0.9809,False,home_win,0.9809,0.019,0.0001,0.9809,high,False
+2026-06-14,Ivory Coast,Ecuador,I,1,False,0.7811218878112189,0.0185981401859814,0.20027997200279973,away_win,0.7811218878112189,high,Team Embedding NN,0.5808419158084193,0.7811218878112189,False,away_win,0.2003,0.0186,0.7811,0.7811,high,False
+2026-06-15,Saudi Arabia,Uruguay,F,1,False,0.7909,0.1503,0.0588,away_win,0.7909,high,Team Embedding NN,0.7321000000000001,0.7909,False,away_win,0.0588,0.1503,0.7909,0.7909,high,False
+2026-06-15,Spain,Cape Verde,F,1,False,0.0,0.0093,0.9907,home_win,0.9907,high,Team Embedding NN,0.9907,0.9907,False,home_win,0.9907,0.0093,0.0,0.9907,high,False
+2026-06-15,Iran,New Zealand,C,1,False,0.034,0.1717,0.7943,home_win,0.7943,high,Team Embedding NN,0.7603,0.7943,False,home_win,0.7943,0.1717,0.034,0.7943,high,False
+2026-06-15,Belgium,Egypt,C,1,False,0.0091,0.0762,0.9147,home_win,0.9147,high,Team Embedding NN,0.9056,0.9147,False,home_win,0.9147,0.0762,0.0091,0.9147,high,False
+2026-06-16,Austria,Jordan,A,1,False,0.051894810518948106,0.18818118188181182,0.7599240075992401,home_win,0.7599240075992401,high,Team Embedding NN,0.708029197080292,0.7599240075992401,False,home_win,0.7599,0.1882,0.0519,0.7599,high,False
+2026-06-16,Argentina,Algeria,A,1,False,0.0010998900109989002,0.07769223077692232,0.9212078792120788,home_win,0.9212078792120788,high,Team Embedding NN,0.92010798920108,0.9212078792120788,False,home_win,0.9212,0.0777,0.0011,0.9212,high,False
+2026-06-16,France,Senegal,K,1,False,0.0003,0.0182,0.9815,home_win,0.9815,high,Team Embedding NN,0.9812000000000001,0.9815,False,home_win,0.9815,0.0182,0.0003,0.9815,high,False
+2026-06-16,Iraq,Norway,K,1,False,0.7992799279927993,0.09110911091109111,0.10961096109610961,away_win,0.7992799279927993,high,Team Embedding NN,0.6896689668966898,0.7992799279927993,False,away_win,0.1096,0.0911,0.7993,0.7993,high,False
+2026-06-17,Portugal,DR Congo,G,1,False,0.00029997000299970003,0.019398060193980604,0.9803019698030198,home_win,0.9803019698030198,high,Team Embedding NN,0.98000199980002,0.9803019698030198,False,home_win,0.9803,0.0194,0.0003,0.9803,high,False
+2026-06-17,Uzbekistan,Colombia,G,1,False,0.7255,0.2183,0.0562,away_win,0.7255,high,Team Embedding NN,0.6693,0.7255,False,away_win,0.0562,0.2183,0.7255,0.7255,high,False
+2026-06-17,England,Croatia,H,1,False,0.0008,0.0105,0.9887,home_win,0.9887,high,Team Embedding NN,0.9879,0.9887,False,home_win,0.9887,0.0105,0.0008,0.9887,high,False
+2026-06-17,Ghana,Panama,H,1,False,0.63996399639964,0.05140514051405141,0.3086308630863086,away_win,0.63996399639964,medium,Team Embedding NN,0.33133313331333136,0.63996399639964,False,away_win,0.3086,0.0514,0.64,0.64,medium,False
+2026-06-18,Switzerland,Bosnia and Herzegovina,D,1,False,0.0022,0.1109,0.8869,home_win,0.8869,high,Team Embedding NN,0.8847,0.8869,False,home_win,0.8869,0.1109,0.0022,0.8869,high,False
+2026-06-18,Canada,Qatar,D,1,False,0.0017,0.0452,0.9531,home_win,0.9531,high,Team Embedding NN,0.9513999999999999,0.9531,False,home_win,0.9531,0.0452,0.0017,0.9531,high,False
+2026-06-18,Czech Republic,South Africa,J,1,False,0.05149999999999998,0.28049999999999997,0.6679999999999999,home_win,0.6679999999999999,high,Team Embedding NN,0.6164999999999999,0.6679999999999999,False,home_win,0.668,0.2805,0.0515,0.668,high,False
+2026-06-18,Mexico,South Korea,J,1,False,0.1036,0.236,0.6604,home_win,0.6604,high,Team Embedding NN,0.5568,0.6604,False,home_win,0.6604,0.236,0.1036,0.6604,high,False
+2026-06-19,Turkey,Paraguay,B,1,False,0.07390000000000001,0.15080000000000002,0.7753000000000001,home_win,0.7753000000000001,high,Team Embedding NN,0.7014000000000001,0.7753000000000001,False,home_win,0.7753,0.1508,0.0739,0.7753,high,False
+2026-06-19,Scotland,Morocco,E,1,False,0.5828,0.1227,0.2945,away_win,0.5828,medium,Team Embedding NN,0.2883,0.5828,False,away_win,0.2945,0.1227,0.5828,0.5828,medium,False
+2026-06-19,Brazil,Haiti,E,1,False,0.0003,0.0379,0.9618,home_win,0.9618,high,Team Embedding NN,0.9615,0.9618,False,home_win,0.9618,0.0379,0.0003,0.9618,high,False
+2026-06-19,United States,Australia,B,1,False,0.208,0.0502,0.7418,home_win,0.7418,high,Team Embedding NN,0.5338,0.7418,False,home_win,0.7418,0.0502,0.208,0.7418,high,False
+2026-06-20,Netherlands,Sweden,L,1,False,0.0031996800319968005,0.10928907109289071,0.8875112488751125,home_win,0.8875112488751125,high,Team Embedding NN,0.8843115688431157,0.8875112488751125,False,home_win,0.8875,0.1093,0.0032,0.8875,high,False
+2026-06-20,Tunisia,Japan,L,1,False,0.6604,0.1648,0.1748,away_win,0.6604,high,Team Embedding NN,0.4856,0.6604,False,away_win,0.1748,0.1648,0.6604,0.6604,high,False
+2026-06-20,Germany,Ivory Coast,I,1,False,0.011500000000000002,0.15770000000000003,0.8308000000000001,home_win,0.8308000000000001,high,Team Embedding NN,0.8193000000000001,0.8308000000000001,False,home_win,0.8308,0.1577,0.0115,0.8308,high,False
+2026-06-20,Ecuador,Curaçao,I,1,False,0.0003,0.1024,0.8973,home_win,0.8973,high,Team Embedding NN,0.897,0.8973,False,home_win,0.8973,0.1024,0.0003,0.8973,high,False
+2026-06-21,Uruguay,Cape Verde,F,1,False,0.0026997300269973002,0.15898410158984103,0.8383161683831617,home_win,0.8383161683831617,high,Team Embedding NN,0.8356164383561644,0.8383161683831617,False,home_win,0.8383,0.159,0.0027,0.8383,high,False
+2026-06-21,Belgium,Iran,C,1,False,0.0221,0.0828,0.8951,home_win,0.8951,high,Team Embedding NN,0.873,0.8951,False,home_win,0.8951,0.0828,0.0221,0.8951,high,False
+2026-06-21,New Zealand,Egypt,C,1,False,0.5057,0.2934,0.2009,away_win,0.5057,medium,Team Embedding NN,0.30480000000000007,0.5057,False,away_win,0.2009,0.2934,0.5057,0.5057,medium,False
+2026-06-21,Spain,Saudi Arabia,F,1,False,0.0,0.0099,0.9901,home_win,0.9901,high,Team Embedding NN,0.9901,0.9901,False,home_win,0.9901,0.0099,0.0,0.9901,high,False
+2026-06-22,Jordan,Algeria,A,1,False,0.5421,0.1261,0.3318,away_win,0.5421,medium,Team Embedding NN,0.21030000000000004,0.5421,False,away_win,0.3318,0.1261,0.5421,0.5421,medium,False
+2026-06-22,Argentina,Austria,A,1,False,0.0011,0.085,0.9139,home_win,0.9139,high,Team Embedding NN,0.9128000000000001,0.9139,False,home_win,0.9139,0.085,0.0011,0.9139,high,False
+2026-06-22,Norway,Senegal,K,1,False,0.041,0.574,0.385,draw,0.574,medium,Team Embedding NN,0.34400000000000003,0.385,False,draw,0.385,0.574,0.041,0.574,medium,False
+2026-06-22,France,Iraq,K,1,False,0.0,0.0025,0.9975,home_win,0.9975,high,Team Embedding NN,0.9975,0.9975,False,home_win,0.9975,0.0025,0.0,0.9975,high,False
+2026-06-23,Portugal,Uzbekistan,G,1,False,0.0004000000000000001,0.016600000000000004,0.9830000000000001,home_win,0.9830000000000001,high,Team Embedding NN,0.9826000000000001,0.9830000000000001,False,home_win,0.983,0.0166,0.0004,0.983,high,False
+2026-06-23,Colombia,DR Congo,G,1,False,0.0033,0.1199,0.8768,home_win,0.8768,high,Team Embedding NN,0.8735,0.8768,False,home_win,0.8768,0.1199,0.0033,0.8768,high,False
+2026-06-23,England,Ghana,H,1,False,0.0,0.0089,0.9911,home_win,0.9911,high,Team Embedding NN,0.9911,0.9911,False,home_win,0.9911,0.0089,0.0,0.9911,high,False
+2026-06-23,Panama,Croatia,H,1,False,0.6666,0.114,0.2194,away_win,0.6666,high,Team Embedding NN,0.44719999999999993,0.6666,False,away_win,0.2194,0.114,0.6666,0.6666,high,False
+2026-06-24,Morocco,Haiti,E,1,False,0.0032,0.1101,0.8867,home_win,0.8867,high,Team Embedding NN,0.8835000000000001,0.8867,False,home_win,0.8867,0.1101,0.0032,0.8867,high,False
+2026-06-24,Bosnia and Herzegovina,Qatar,D,1,False,0.0447,0.2588,0.6965,home_win,0.6965,high,Team Embedding NN,0.6518,0.6965,False,home_win,0.6965,0.2588,0.0447,0.6965,high,False
+2026-06-24,Scotland,Brazil,E,1,False,0.865,0.036,0.099,away_win,0.865,high,Team Embedding NN,0.766,0.865,False,away_win,0.099,0.036,0.865,0.865,high,False
+2026-06-24,South Africa,South Korea,J,1,False,0.6109,0.2949,0.0942,away_win,0.6109,medium,Team Embedding NN,0.5166999999999999,0.6109,False,away_win,0.0942,0.2949,0.6109,0.6109,medium,False
+2026-06-24,Mexico,Czech Republic,J,1,False,0.0532053205320532,0.17431743174317432,0.7724772477247724,home_win,0.7724772477247724,high,Team Embedding NN,0.7192719271927193,0.7724772477247724,False,home_win,0.7725,0.1743,0.0532,0.7725,high,False
+2026-06-24,Canada,Switzerland,D,1,False,0.3988,0.2101,0.3911,away_win,0.3988,low,Team Embedding NN,0.007699999999999985,0.3988,False,away_win,0.3911,0.2101,0.3988,0.3988,low,False
+2026-06-25,Tunisia,Netherlands,L,1,False,0.7184,0.0186,0.263,away_win,0.7184,high,Team Embedding NN,0.4554,0.7184,False,away_win,0.263,0.0186,0.7184,0.7184,high,False
+2026-06-25,Japan,Sweden,L,1,False,0.0235,0.0948,0.8817,home_win,0.8817,high,Team Embedding NN,0.8582000000000001,0.8817,False,home_win,0.8817,0.0948,0.0235,0.8817,high,False
+2026-06-25,Ecuador,Germany,I,1,False,0.4035,0.38,0.2165,away_win,0.4035,low,Team Embedding NN,0.18700000000000003,0.4035,True,draw,0.2055,0.4115,0.383,0.4115,low,True
+2026-06-25,United States,Turkey,B,1,False,0.4867,0.2584,0.2549,away_win,0.4867,low,Team Embedding NN,0.2318,0.4867,False,away_win,0.2549,0.2584,0.4867,0.4867,low,False
+2026-06-25,Paraguay,Australia,B,1,False,0.1377,0.3469,0.5154,home_win,0.5154,medium,Team Embedding NN,0.3777,0.5154,False,home_win,0.5154,0.3469,0.1377,0.5154,medium,False
+2026-06-25,Curaçao,Ivory Coast,I,1,False,0.7002700270027004,0.04080408040804081,0.25892589258925897,away_win,0.7002700270027004,high,Team Embedding NN,0.4413441344134414,0.7002700270027004,False,away_win,0.2589,0.0408,0.7003,0.7003,high,False
+2026-06-26,Senegal,Iraq,K,1,False,0.0077,0.1067,0.8856,home_win,0.8856,high,Team Embedding NN,0.8779,0.8856,False,home_win,0.8856,0.1067,0.0077,0.8856,high,False
+2026-06-26,Norway,France,K,1,False,0.753,0.0387,0.2083,away_win,0.753,high,Team Embedding NN,0.5447,0.753,False,away_win,0.2083,0.0387,0.753,0.753,high,False
+2026-06-26,Uruguay,Spain,F,1,False,0.7806,0.0191,0.2003,away_win,0.7806,high,Team Embedding NN,0.5802999999999999,0.7806,False,away_win,0.2003,0.0191,0.7806,0.7806,high,False
+2026-06-26,New Zealand,Belgium,C,1,False,0.7982,0.0368,0.165,away_win,0.7982,high,Team Embedding NN,0.6332,0.7982,False,away_win,0.165,0.0368,0.7982,0.7982,high,False
+2026-06-26,Egypt,Iran,C,1,False,0.4079,0.1771,0.415,home_win,0.415,low,Team Embedding NN,0.007099999999999995,0.415,False,home_win,0.415,0.1771,0.4079,0.415,low,False
+2026-06-26,Cape Verde,Saudi Arabia,F,1,False,0.3818,0.2909,0.3273,away_win,0.3818,low,Team Embedding NN,0.05449999999999999,0.3818,False,away_win,0.3273,0.2909,0.3818,0.3818,low,False
+2026-06-27,Algeria,Austria,A,1,False,0.2682268226822682,0.3358335833583358,0.39593959395939593,home_win,0.39593959395939593,low,Team Embedding NN,0.1277127712771277,0.39593959395939593,True,draw,0.3632,0.3907,0.2461,0.3907,low,True
+2026-06-27,Croatia,Ghana,H,1,False,0.0012998700129987,0.06659334066593342,0.9321067893210679,home_win,0.9321067893210679,high,Team Embedding NN,0.9308069193080692,0.9321067893210679,False,home_win,0.9321,0.0666,0.0013,0.9321,high,False
+2026-06-27,Panama,England,H,1,False,0.9591,0.0217,0.0192,away_win,0.9591,high,Team Embedding NN,0.9399,0.9591,False,away_win,0.0192,0.0217,0.9591,0.9591,high,False
+2026-06-27,DR Congo,Uzbekistan,G,1,False,0.4257425742574258,0.19151915191519153,0.38273827382738274,away_win,0.4257425742574258,low,Team Embedding NN,0.04300430043004305,0.4257425742574258,False,away_win,0.3827,0.1915,0.4257,0.4257,low,False
+2026-06-27,Jordan,Argentina,A,1,False,0.8868886888688869,0.0054005400540054005,0.10771077107710772,away_win,0.8868886888688869,high,Team Embedding NN,0.7791779177917793,0.8868886888688869,False,away_win,0.1077,0.0054,0.8869,0.8869,high,False
+2026-06-27,Colombia,Portugal,G,1,False,0.5382538253825383,0.32993299329932996,0.1318131813181318,away_win,0.5382538253825383,medium,Team Embedding NN,0.4064406440644065,0.5382538253825383,False,away_win,0.1318,0.3299,0.5383,0.5383,medium,False

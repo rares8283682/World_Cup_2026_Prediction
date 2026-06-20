@@ -1,4 +1,3 @@
-cat > .gitignore <<'EOF'
 # Python
 __pycache__/
 *.py[cod]
@@ -40,6 +39,6 @@ artifacts/
 # Temporary files
 tmp/
 temp/
-EOF
 .Rhistory
 FIFA rankings or Elo ratings/
+catboost_info/
