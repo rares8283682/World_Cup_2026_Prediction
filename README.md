@@ -4,7 +4,7 @@ A state-of-the-art machine learning framework for predicting FIFA World Cup 2026
 
 ---
 
-## 🤖 Modeling Architecture
+## Modeling Architecture
 
 ### 1. Match Outcome Prediction (Mixture of Experts)
 To capture diverse signal spaces in football dynamics, we implement a **Mixture of Experts (MoE)** ensemble model:
@@ -104,7 +104,7 @@ Below is the complete predicted bracket from the Round of 32 to the World Cup Fi
 
 ---
 
-## 🔮 Group Stage Scoreboard
+## Group Stage Scoreboard
 
 **Models Used**: Match outcomes are predicted using the **Mixture of Experts Ensemble Model** (consisting of the **CatBoost Classifier**, **eXtreme Gradient Boosting Classifier**, **Stacked Logistic Regression Classifier** and **Graph Neural Network Team Embeddings Model**). Goals and scores are predicted using the blended **Poisson Regressor Model** and **eXtreme Gradient Boosting Poisson Regressor Model**.
 
