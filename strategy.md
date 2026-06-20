@@ -14,39 +14,38 @@ Our core methodology divides the prediction space into two tasks:
 
 ---
 
-## 2. Guide to the Project Notebooks
+## 2. Guide to the Project Notebooks and Exact Models Used
 
 ### 1. `wc_2026.ipynb`
 * **Purpose**: Core exploratory data analysis (EDA) and baseline feature engineering.
-* **Methods**: Cleaning historical international match tables, mapping team names across disparate data sources and aligning FIFA rankings.
+* **Exact Model Used**: Baseline **Logistic Regression Classifier** and basic **Random Forest Classifier** models.
 * **Why**: Establishes the primary format for the chronological dataset, ensuring that matches are ordered by date to prevent future data leakage.
 
 ### 2. `wc_2026_advanced_data_integration.ipynb`
 * **Purpose**: Feature enrichment using advanced metrics.
-* **Methods**: Merging rolling expected goals (xG) statistics, defensive ratings from FiveThirtyEight and market valuations of national squads from Transfermarkt.
+* **Exact Model Used**: Pre-evaluation using the **Random Forest Classifier** to assess feature importances.
 * **Why**: Market values act as strong proxies for individual player quality, while xG captures team performance quality beyond simple scores.
 
 ### 3. `wc_2026_model_training.ipynb`
 * **Purpose**: Sandbox for initial model training and tuning.
-* **Methods**: Testing baseline classifiers (Logistic Regression, Random Forest and Gradient Boosting) and tuning hyperparameters using time-series cross validation splits.
+* **Exact Model Used**: A comparison framework evaluating the **Logistic Regression Classifier**, **Random Forest Classifier**, **eXtreme Gradient Boosting (XGBoost) Classifier** and **CatBoost Classifier**.
 * **Why**: Standard random cross validation is inappropriate for football match predictions because it creates chronological data leakage. We use rolling time-series splits to validate models.
 
 ### 4. `final_model_improved_WC_2026_group_predi.ipynb`
 * **Purpose**: Optimized model for winner prediction with market odds adjustments.
-* **Methods**: Employs a Random Forest Classifier trained on symmetric double-inference inputs. Implements a betting value edge override (adjusting predictions if there is a massive discrepancy between model probabilities and normalized bookmaker odds).
+* **Exact Model Used**: A symmetric **Random Forest Classifier** coupled with a bookmaker implied probability alignment layer.
 * **Why**: Betting markets consolidate vast amounts of public information. The model acts as a corrector to bookmaker odds, identifying value edges where the bookmaker underestimates draws or underdogs.
 
 ### 5. `final_model_improved_WC_2026_group_predi+score_predi.ipynb`
 * **Purpose**: Goal modeling and scoreline sampling.
-* **Methods**: Trains separate HistGradientBoostingRegressor models for home goals and away goals. The predicted expected goals (λ_home, λ_away) are used to draw scorelines from independent Poisson distributions. It filters draws to find a scoreline matching the predicted winner.
-* **Why**: Independent Poisson distributions match football goal frequencies closely but can occasionally predict scorelines inconsistent with the overall match winner (e.g. predicting a draw scoreline for a home win outcome). The sampling loop resolves this.
+* **Exact Model Used**: Two separate **Histogram-Based Gradient Boosting Regressor Model** objects (one for home goals and one for away goals) mapped to independent Poisson distributions for scoreline sampling.
+* **Why**: Independent Poisson distributions match goal frequencies closely but can predict scorelines inconsistent with the overall match winner (e.g. predicting a draw scoreline for a home win outcome). The sampling loop resolves this.
 
 ### 6. `WC_2026_complete_modeling_pipeline.ipynb`
 * **Purpose**: The final production tournament simulation pipeline.
-* **Methods**:
-  * **Winner Expert Ensemble**: Blends Stacked Logistic Regression, CatBoost Classifier, XGBoost Classifier and Team Embedding Neural Network outputs.
-  * **Goal Models**: Blends a PoissonRegressor and an XGBRegressor (with poisson objective) to predict scores.
-  * **Simulation Engine**: Automatically computes group standings, determines wildcard qualifiers and dynamically builds synthetic feature rows for knockout matches using historical averages.
+* **Exact Models Used**:
+  * **Winner Expert Ensemble**: Blends the **Stacked Logistic Regression Classifier** ($20\%$), the **CatBoost Classifier** ($45\%$), the **eXtreme Gradient Boosting (XGBoost) DART Classifier** ($20\%$) and the **Graph Neural Network (GNN) Team Embeddings Model** ($15\%$).
+  * **Expected Goals Models**: Blends the **Poisson Regressor Model** ($70\%$) and the **eXtreme Gradient Boosting (XGBoost) Poisson Regressor Model** ($30\%$).
 * **Why**: This is the single source of truth for the entire World Cup simulation, handling all merge steps, standings calculations and brackets.
 
 ---
@@ -55,14 +54,14 @@ Our core methodology divides the prediction space into two tasks:
 
 ### Mixture of Experts (MoE) Outcome Model
 We combine four distinct classifiers to create a robust prediction ensemble:
-1. **CatBoost (45% Weight)**: Highly robust to categorical features and non-linear relationships.
-2. **XGBoost DART (20% Weight)**: Uses dropout trees to prevent overfitting to recent match results.
-3. **Stacked Logistic Regression (20% Weight)**: Acts as a linear baseline, blending bookmaker probabilities and GNN outputs.
-4. **GNN Team Embeddings (15% Weight)**: Extracts latent structural features of match history graphs.
+1. **CatBoost Classifier (45% Weight)**: Highly robust to categorical features and non-linear relationships.
+2. **eXtreme Gradient Boosting (XGBoost) DART Classifier (20% Weight)**: Uses dropout trees to prevent overfitting to recent match results.
+3. **Stacked Logistic Regression Classifier (20% Weight)**: Acts as a linear baseline, blending bookmaker probabilities and GNN outputs.
+4. **Graph Neural Network (GNN) Team Embeddings Model (15% Weight)**: Extracts latent structural features of match history graphs.
 
 ### Scoreline Prediction Model
 Expected goals are generated using:
-$$\text{Expected Goals} = 0.70 \times \text{PoissonRegressor}(\mathbf{X}) + 0.30 \times \text{XGBRegressor}(\mathbf{X})$$
+$$\text{Expected Goals} = 0.70 \times \text{Poisson Regressor Model}(\mathbf{X}) + 0.30 \times \text{eXtreme Gradient Boosting (XGBoost) Poisson Regressor Model}(\mathbf{X})$$
 This blended goal output combines the smooth linear properties of a Poisson Generalized Linear Model with the non-linear capability of XGBoost.
 
 ---
