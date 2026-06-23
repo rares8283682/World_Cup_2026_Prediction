@@ -2,6 +2,12 @@
 
 A state-of-the-art machine learning framework for predicting FIFA World Cup 2026 match outcomes, scorelines, group standings and tournament brackets.
 
+## Try It Online
+
+[![Try wc2026-match-prediction on Socialistic](https://socialistic.ai/api/embed/wc2026-match-prediction-545785?lang=en)](https://socialistic.ai/en/skill/wc2026-match-prediction-545785?utm_source=github&utm_medium=readme&utm_campaign=20260622-worldcup-match-prediction-devs&utm_content=badge)
+
+Pick any two teams and get a predicted outcome instantly — no need to clone the repo or run the notebooks locally. [Try a prediction here](https://socialistic.ai/en/skill/wc2026-match-prediction-545785?utm_source=github&utm_medium=readme&utm_campaign=20260622-worldcup-match-prediction-devs&utm_content=hyperlink).
+
 ---
 
 ## Modeling Architecture
